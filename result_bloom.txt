@@ -1,0 +1,10 @@
+In French, the word 'dog' means  a
+Score: 0.11297294497489929
+In French, the word 'cat' means  '
+Score: 0.10961204767227173
+In French, the word 'friend' means  '
+Score: 0.09047076851129532
+In French, the word'star' means  a
+Score: 0.12100517004728317
+In French, the word 'bank' means  a
+Score: 0.10539740324020386
