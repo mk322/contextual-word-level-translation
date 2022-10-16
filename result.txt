@@ -1,0 +1,5 @@
+[{'generated_text': "In French, the word 'dog' means ‚t"}]
+[{'generated_text': "In French, the word 'cat' means  '"}]
+[{'generated_text': "In French, the word 'friend' means  '"}]
+[{'generated_text': "In French, the word 'star' means \n"}]
+[{'generated_text': "In French, the word 'bank' means  "}]
