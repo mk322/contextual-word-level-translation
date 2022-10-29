@@ -1,4 +1,5 @@
 from transformers import pipeline
+import torch.nn.functional as F
 target_lang = "French"
 result_txt = "result.txt"
 generator = pipeline('text-generation', model='EleutherAI/gpt-neo-1.3B', framework="pt")

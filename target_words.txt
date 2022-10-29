@@ -1,0 +1,5 @@
+(dog, chien)
+(cat, chat)
+(friend, ami)
+(star, étoile)
+(bank, banque)
