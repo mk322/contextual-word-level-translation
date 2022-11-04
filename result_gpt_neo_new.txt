@@ -1,5 +1,0 @@
-{('In French, the word "dog" means ', 'chien'): -6.321560807526112, 
-('In French, the word "cat" means ', 'chat'): -14.976606369018555, 
-('In French, the word "friend" means ', 'ami'): -13.424338340759277, 
-('In French, the word "star" means ', '�toile'): -8.761170824368795, 
-('In French, the word "bank" means ', 'banque'): -6.477468762546778}
