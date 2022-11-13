@@ -45,7 +45,7 @@ with open(wrong_word_file, encoding="utf-8") as t:
         if (words[0].upper() == words[0].lower()):
             wrong_word_list.append(words[0])
 
-num_correct_examples = len(words_dict)
+
 
 for source_word in words_dict.keys():
 
@@ -83,11 +83,13 @@ for source_word in words_dict.keys():
 
 # Find 3 metrics
 
+
 # Metric 1: calculated percentage of examples that correct translations are on the top k.
+num_correct_examples = len(words_dict)
 for source_word in words_dict.keys():
-    topk_translations = sorted(result_dict[source_word], key=lambda key: key[0])[:len(words_dict[source_word])]
-    for top_word in topk_translations:
-        if top_word not in words_dict[source_word]:
+    topk_translations = sorted(result_dict[source_word], key=lambda key: key[1], reverse=True)[:len(words_dict[source_word])]
+    for top_pair in topk_translations:
+        if top_pair[0] not in words_dict[source_word]:
             num_correct_examples -= 1
             break
 
@@ -108,28 +110,30 @@ for source_word in words_dict.keys():
             sum_wrong_log += pair[1]
             num_wrong += 1
 
-avg_log_correct = round(sum_correct_log / num_correct,3)
-avg_log_wrong = round(sum_wrong_log / num_wrong ,3)
+avg_log_correct = round(sum_correct_log / num_correct, 3)
+avg_log_wrong = round(sum_wrong_log / num_wrong, 3)
 
 # Metric 3: For words with multiple correct translations, which translations does the model give a higher log likelihood to?
 high = -np.inf
 top1_dict = {}
 for source_word in words_dict.keys():
-    for pair in result_dict[source_word]:
-        if (pair[0] in words_dict[source_word]) and (pair[1] > high):
-            high = pair[1]
-            top1_dict[source_word] = pair
-    high = -np.inf
+    if len(words_dict[source_word]) > 1:
+        for pair in result_dict[source_word]:
+            if (pair[0] in words_dict[source_word]) and (pair[1] > high):
+                high = pair[1]
+                top1_dict[source_word] = pair
+        high = -np.inf
 
 
 
 
 with open(result_txt, "w", encoding='utf-8') as r:
-    print(f"Metric 1: {percent_correct_examples}", file=r)
-    print(f"Metric 2: correct - {avg_log_correct}; wrong - {avg_log_wrong}", file=r)
-    print("Metric 3")
+    print(f"Metric 1: {round(percent_correct_examples, 6)}", file=r)
+    print("Metric 2", file=r) 
+    print(f"average correct log-likelihood: {avg_log_correct}; average wrong log-likelihood: {avg_log_wrong}", file=r)
+    print("Metric 3", file=r)
     for key in top1_dict:
-        print(f"{key}, {top1_dict[key]}", file=r)
+        print(f"{key}: {top1_dict[key]}", file=r)
 
     '''
     for key in result_dict:
