@@ -5,7 +5,7 @@ import numpy as np
 
 device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
-gpt_neo = True
+gpt_neo = False
 if gpt_neo:
     tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-neo-1.3B")
     model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-neo-1.3B", return_dict_in_generate=True).to(device)
