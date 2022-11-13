@@ -6,7 +6,7 @@ import json
 
 device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
-gpt_neo = False
+gpt_neo = True
 if gpt_neo:
     tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-neo-1.3B")
     model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-neo-1.3B", return_dict_in_generate=True).to(device)
@@ -130,7 +130,7 @@ for source_word in words_dict.keys():
         high = -np.inf
         #if len(words_dict[source_word]) > 1:
         for pair in result_dict[(source_word, j)]:
-            if (pair[0] in words_dict[source_word][j]) and (pair[1] > high):
+            if (pair[0] not in wrong_word_list) and (pair[1] > high):
                 high = pair[1]
                 top1_dict[(source_word, j//2)] = pair
 
