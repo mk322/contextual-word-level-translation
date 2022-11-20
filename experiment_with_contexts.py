@@ -3,18 +3,24 @@ import torch.nn.functional as F
 import torch
 import numpy as np
 import json
+import argparse
 
 device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
-gpt_neo = True
-if gpt_neo:
-    tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-neo-1.3B")
-    model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-neo-1.3B", return_dict_in_generate=True).to(device)
-    result_txt = "gpt_neo_context.txt"
+parser = argparse.ArgumentParser()
+parser.add_argument('-m', '--model_name', type=str, default='gpt-neo', required=True)
+parser.add_argument('-s', '--model_size', type=str, required=True)
+args = parser.parse_args()
+
+
+if args.model_name == "gpt-neo":
+    tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-neo-"+args.model_size)
+    model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-neo-"+args.model_size, return_dict_in_generate=True).to(device)
+    result_txt = f"gpt_neo_{args.model_size}.txt"
 else:
-    tokenizer = AutoTokenizer.from_pretrained("bigscience/bloom-1b7")
-    model = AutoModelForCausalLM.from_pretrained("bigscience/bloom-1b7", return_dict_in_generate=True).to(device)
-    result_txt = "bloom_context.txt"
+    tokenizer = AutoTokenizer.from_pretrained("bigscience/bloom-"+args.model_size)
+    model = AutoModelForCausalLM.from_pretrained("bigscience/bloom-"+args.model_size, return_dict_in_generate=True).to(device)
+    result_txt = f"bloom_{args.model_size}.txt"
 
 lex_file = "contextual_words_dic.json"
 wrong_word_file = "wrong_words_ch.txt"
