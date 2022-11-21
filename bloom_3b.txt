@@ -1,4 +1,5 @@
-Metric 1: 0.470588
+Metric 1:
+top1: 0.794118; topk: 0.470588
 Metric 2
 average correct log-likelihood: -6.202; average wrong log-likelihood: -12.481
 Metric 3
