@@ -149,7 +149,7 @@ with open(result_txt, "w", encoding='utf-8') as r:
     for key in top1_dict:
         print(f"{key}: {top1_dict[key]}", file=r)
 
-
+print("finish")
 """
 with open("testggg.txt", "w", encoding='utf-8') as r:
     for key in result_dict:
