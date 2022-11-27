@@ -56,19 +56,15 @@ with open(args.input_file, "r") as f:
                         break
             i += 1
 
-        
         if (not sense2_success) or (not sense1_success):
             #print(word)
             fil += 1
             continue
-
         input_dict[word] = [sense1_translations, sense1_examples_sent, sense2_translations, sense2_examples_sent]
-
         if len(input_dict.keys()) == args.lex_size: break
 
-print(fil)
-print(sfd)
-print(len(input_dict.keys()))
+print(len(input_dict))
+
         
 with open(args.output_file, "w") as outfile:
     json.dump(input_dict, outfile)
