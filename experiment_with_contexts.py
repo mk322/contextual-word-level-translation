@@ -28,11 +28,11 @@ args = parser.parse_args()
 if args.model_name == "gpt-neo":
     tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-neo-"+args.model_size)
     model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-neo-"+args.model_size, return_dict_in_generate=True).to(device)
-    result_txt = f"results/gpt_neo/gpt_neo_{args.model_size}_{args.incorrect_words_num}.txt"
+    result_txt = f"results/gpt_neo/gpt_neo_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
 else:
     tokenizer = AutoTokenizer.from_pretrained("bigscience/bloom-"+args.model_size)
     model = AutoModelForCausalLM.from_pretrained("bigscience/bloom-"+args.model_size, return_dict_in_generate=True).to(device)
-    result_txt = f"results/bloom/bloom_{args.model_size}_{args.incorrect_words_num}.txt"
+    result_txt = f"results/bloom/bloom_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
 
 #preprocess_into_dict(args.input_file, args.dict_file, lang_dict_nltk[args.target_lang], args.lex_size, args.seed)
 
