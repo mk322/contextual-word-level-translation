@@ -7,7 +7,7 @@ do
         --model_size $i \
         --target_lang Chinese \
         --dict_file "contextual_words_cmn.json" \
-        --incorrect_words_file "wrong_words_ch.txt" \
+        --incorrect_words_file "wrong_words_cmn.txt" \
         --incorrect_words_num 50
 done
 
@@ -19,7 +19,7 @@ do
         --model_size $j \
         --target_lang Chinese \
         --dict_file "contextual_words_cmn.json" \
-        --incorrect_words_file "wrong_words_ch.txt" \
+        --incorrect_words_file "wrong_words_cmn.txt" \
         --incorrect_words_num 50
 done
 

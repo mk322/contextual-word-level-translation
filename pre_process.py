@@ -43,17 +43,19 @@ with open(args.input_file, "r") as f:
             sense2_examp = sense2.examples()
             sense2_trans = [x.name() for x in sense2.lemmas(lang=args.target_lang)]
             if (len(sense2_examp) != 0) and (len(sense2_trans) != 0):
+                same = False
                 for trans2 in sense2_trans:
                     if trans2 in sense1_translations:
-                        continue
+                        same = True
+                
 
-
-                for j in range(len(sense2_examp)):
-                    if word in sense2_examp[j]:
-                        sense2_translations = sense2_trans
-                        sense2_examples_sent = sense2_examp[j]
-                        sense2_success = True
-                        break
+                if not same:
+                    for j in range(len(sense2_examp)):
+                        if word in sense2_examp[j]:
+                            sense2_translations = sense2_trans
+                            sense2_examples_sent = sense2_examp[j]
+                            sense2_success = True
+                            break
             i += 1
 
         if (not sense2_success) or (not sense1_success):
