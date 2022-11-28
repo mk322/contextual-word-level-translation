@@ -28,11 +28,11 @@ args = parser.parse_args()
 if args.model_name == "gpt-neo":
     tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-neo-"+args.model_size)
     model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-neo-"+args.model_size, return_dict_in_generate=True).to(device)
-    result_txt = f"results/gpt_neo/gpt_neo_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
+    result_txt = f"Results/gpt-neo/gpt-neo_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
 else:
     tokenizer = AutoTokenizer.from_pretrained("bigscience/bloom-"+args.model_size)
     model = AutoModelForCausalLM.from_pretrained("bigscience/bloom-"+args.model_size, return_dict_in_generate=True).to(device)
-    result_txt = f"results/bloom/bloom_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
+    result_txt = f"Results/bloom/bloom_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
 
 #preprocess_into_dict(args.input_file, args.dict_file, lang_dict_nltk[args.target_lang], args.lex_size, args.seed)
 
@@ -84,7 +84,7 @@ for source_word in words_dict.keys():
                     model_cache = output['past_key_values']
                     logits = output['logits'].squeeze()
                     model_probs = F.log_softmax(logits, dim=-1)
-            avg_score = round(sum(target_word_subword_scores)/len(target_word_subword_scores), 5)
+            avg_score = round(sum(target_word_subword_scores)/len(target_word_subword_scores), 6)
             if ((source_word, j) not in result_dict): 
                 result_dict[(source_word, j)] = [(target_word, avg_score)]
             else:
@@ -132,8 +132,8 @@ for source_word in words_dict.keys():
                 sum_wrong_log += pair[1]
                 num_wrong += 1
 
-avg_log_correct = round(sum_correct_log / num_correct, 3)
-avg_log_wrong = round(sum_wrong_log / num_wrong, 3)
+avg_log_correct = round(sum_correct_log / num_correct, 6)
+avg_log_wrong = round(sum_wrong_log / num_wrong, 6)
 
 # Metric 3: For words with multiple correct translations, which translations does the model give a higher log likelihood to?
 top1_dict = {}

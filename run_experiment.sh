@@ -1,5 +1,14 @@
 #!/bin/sh
 
+python experiment_with_contexts.py \
+    --model_name bloom \
+    --model_size 3b \
+    --target_lang Spanish \
+    --dict_file "contextual_words_spa.json" \
+    --incorrect_words_file "wrong_words_spa.txt" \
+    --incorrect_words_num 50
+
+'''
 for i in 125M 1.3B 2.7B
 do 
     python experiment_with_contexts.py \
@@ -7,7 +16,7 @@ do
         --model_size $i \
         --target_lang Chinese \
         --dict_file "contextual_words_cmn.json" \
-        --incorrect_words_file "wrong_words_ch.txt" \
+        --incorrect_words_file "wrong_words_cmn.txt" \
         --incorrect_words_num 50
 done
 
@@ -19,9 +28,9 @@ do
         --model_size $j \
         --target_lang Chinese \
         --dict_file "contextual_words_cmn.json" \
-        --incorrect_words_file "wrong_words_ch.txt" \
+        --incorrect_words_file "wrong_words_cmn.txt" \
         --incorrect_words_num 50
 done
-
+'''
 
 
