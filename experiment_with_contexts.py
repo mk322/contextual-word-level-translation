@@ -6,11 +6,7 @@ import json
 import argparse
 import random
 
-lang_dict_nltk = {
-    "Chinese": "cmn",
-    "English": "eng",
-    "German": "ger"
-}
+print("start")
 
 device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
@@ -28,13 +24,11 @@ args = parser.parse_args()
 if args.model_name == "gpt-neo":
     tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-neo-"+args.model_size)
     model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-neo-"+args.model_size, return_dict_in_generate=True).to(device)
-    result_txt = f"Results/gpt-neo/gpt-neo_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
+    result_txt = f"./Results/gpt-neo/gpt-neo_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
 else:
     tokenizer = AutoTokenizer.from_pretrained("bigscience/bloom-"+args.model_size)
     model = AutoModelForCausalLM.from_pretrained("bigscience/bloom-"+args.model_size, return_dict_in_generate=True).to(device)
-    result_txt = f"Results/bloom/bloom_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
-
-#preprocess_into_dict(args.input_file, args.dict_file, lang_dict_nltk[args.target_lang], args.lex_size, args.seed)
+    result_txt = f"./Results/bloom/bloom_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
 
 words_dict = {}
 wrong_word_list = []
@@ -53,8 +47,6 @@ with open(args.incorrect_words_file, encoding="utf-8") as t:
         # Filter out the English Translations in Non-English Parts
         if (word[0].upper() == word[0].lower()):
             wrong_word_list.append(word[0])
-
-
 
 for source_word in words_dict.keys():
     # Each iteration is a sense
@@ -159,8 +151,3 @@ with open(result_txt, "w", encoding='utf-8') as r:
         print(f"{key[0]}\t{key[1]}\t{top1_dict[key][0]}\t{top1_dict[key][1]}\t{correct_dict[key]}", file=r)
 
 print("finish")
-"""
-with open("testggg.txt", "w", encoding='utf-8') as r:
-    for key in result_dict:
-        print(f"{key}, {result_dict[key]}", file=r)
-"""

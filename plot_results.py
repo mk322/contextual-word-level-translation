@@ -43,11 +43,6 @@ for model in key_order:
         result_dic[model_name][target_lang] = [top1, topk, pos_log, neg_log, round(num_correct/count, 6)]
 
 
-
-#result_dic = sorted(result_dic.items(), key=lambda pair: key_order.index(pair[0]))
-
-print(result_dic)
-
 def addlabels(x,y):
     for i in range(len(x)):
         plt.text(i, round(y[i],3), round(y[i],3), ha = 'center')
@@ -85,5 +80,8 @@ plot_metric(result_dic.keys(), get_ith_element(result_dic, lang, 2), "Average Co
 
 plot_metric(result_dic.keys(), get_ith_element(result_dic, lang, 3), "Average Incorrect Log-Likelihood by Using the Metric 2", "Average Log-Likelihood", colors=com_color, save_path=f"./Results/plots/{lang}_incorrect.png")
 
+plot_metric(result_dic.keys(), (get_ith_element(result_dic, lang, 3)/get_ith_element(result_dic, lang, 2)), "Ratios of Two Log-Likelihoods by Using the Metric 2", "Average Log-Likelihood", colors=com_color, save_path=f"./Results/plots/{lang}_ratio_log.png")
+
 plot_metric(result_dic.keys(), get_ith_element(result_dic, lang, 4), "WSD Accuracy", "Percentage", colors=com_color, save_path=f"./Results/plots/{lang}_WSD_Acc.png")
+
 
