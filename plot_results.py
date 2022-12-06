@@ -3,9 +3,11 @@ import numpy as np
 import argparse
 import os
 
+print("start")
 parser = argparse.ArgumentParser()
 parser.add_argument('-p', '--path', type=str, default='./Results', required=True)
 parser.add_argument('-t', '--target_lang', type=str, default='Chinese')
+parser.add_argument('-o', '--output_path', type=str, default='./Results/plot/')
 args = parser.parse_args()
 
 result_dic = {}
@@ -72,16 +74,16 @@ lang = args.target_lang
 
 com_color = ["orange", "steelblue","steelblue","orange", "steelblue","orange","steelblue"]
 
-plot_metric(result_dic.keys(), get_ith_element(result_dic, lang, 0), "Percentage of Examples that the Top 1 is correct", "Percentage", colors=com_color, save_path=f"./Results/plots/{lang}_top1.png")
+plot_metric(result_dic.keys(), get_ith_element(result_dic, lang, 0), "Percentage of Examples that the Top 1 is correct", "Percentage", colors=com_color, save_path=f"{args.output_path}{lang}_top1.png")
 
-plot_metric(result_dic.keys(), get_ith_element(result_dic, lang, 1), "Percentage of Examples that Top K is correct", "Percentage", colors=com_color, save_path=f"./Results/plots/{lang}_topK.png")
+plot_metric(result_dic.keys(), get_ith_element(result_dic, lang, 1), "Percentage of Examples that Top K is correct", "Percentage", colors=com_color, save_path=f"{args.output_path}{lang}_topK.png")
 
-plot_metric(result_dic.keys(), get_ith_element(result_dic, lang, 2), "Average Correct Log-Likelihood by Using the Metric 2", "Average Log-Likelihood", colors=com_color, save_path=f"./Results/plots/{lang}_correct.png")
+plot_metric(result_dic.keys(), get_ith_element(result_dic, lang, 2), "Average Correct Log-Likelihood by Using the Metric 2", "Average Log-Likelihood", colors=com_color, save_path=f"{args.output_path}{lang}_correct.png")
 
-plot_metric(result_dic.keys(), get_ith_element(result_dic, lang, 3), "Average Incorrect Log-Likelihood by Using the Metric 2", "Average Log-Likelihood", colors=com_color, save_path=f"./Results/plots/{lang}_incorrect.png")
+plot_metric(result_dic.keys(), get_ith_element(result_dic, lang, 3), "Average Incorrect Log-Likelihood by Using the Metric 2", "Average Log-Likelihood", colors=com_color, save_path=f"{args.output_path}{lang}_incorrect.png")
 
-plot_metric(result_dic.keys(), (get_ith_element(result_dic, lang, 3)/get_ith_element(result_dic, lang, 2)), "Ratios of Two Log-Likelihoods by Using the Metric 2", "Average Log-Likelihood", colors=com_color, save_path=f"./Results/plots/{lang}_ratio_log.png")
+plot_metric(result_dic.keys(), (get_ith_element(result_dic, lang, 3)/get_ith_element(result_dic, lang, 2)), "Ratios of Two Log-Likelihoods by Using the Metric 2", "Average Log-Likelihood", colors=com_color, save_path=f"{args.output_path}{lang}_ratio_log.png")
 
-plot_metric(result_dic.keys(), get_ith_element(result_dic, lang, 4), "WSD Accuracy", "Percentage", colors=com_color, save_path=f"./Results/plots/{lang}_WSD_Acc.png")
+plot_metric(result_dic.keys(), get_ith_element(result_dic, lang, 4), "WSD Accuracy", "Percentage", colors=com_color, save_path=f"{args.output_path}{lang}_WSD_Acc.png")
 
 

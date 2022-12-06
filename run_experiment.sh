@@ -1,8 +1,8 @@
 #!/bin/sh
 
-target_lang=Chinese
-dict_file="contextual_words_cmn.json"
-incorrect_words_file="wrong_words_cmn.txt"
+target_lang=French
+dict_file="contextual_words_fra.json"
+incorrect_words_file="wrong_words_fra.txt"
 
 for i in 125M 1.3B 2.7B
 do 
