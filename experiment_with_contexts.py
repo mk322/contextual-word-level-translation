@@ -205,7 +205,7 @@ count = 0
 for key in top1_dict:
     if top1_dict[key][0] in correct_dict[key]:
         count += 1
-precision_wsd = round(count / len(words_dict))
+precision_wsd = round(count / (2*len(words_dict)), 6)
 
 # Metric 4: Precision without context
 uncontext_top1_dict = {}
