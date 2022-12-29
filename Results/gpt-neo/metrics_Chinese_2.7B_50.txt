@@ -1,0 +1,12 @@
+Metric 1:
+top1: 0.5075; topk: 0.0385
+Metric 2
+average correct log-likelihood: -5.617154; average wrong log-likelihood: -6.30682
+Metric 3
+WSD Acc: 0.546
+Metric 4
+without context top 1 acc: 0.359
+Metric 5
+percentage of examples that flip: 0.058659, 21, 358
+Metric 6
+percentage of examples that fix: 0.046802, 60, 1282
