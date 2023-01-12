@@ -101,7 +101,7 @@ if not os.path.exists(args.out_path):
 uncontext_txt = f"{args.out_path}{args.target_lang}_{args.model_size}_{args.incorrect_words_num}_uncontext.txt"
 with open(uncontext_txt, "w") as f:
     f.write(str(uncontext_dict))
-"""
+
 
 # Contextual WLT
 for source_word in words_dict.keys():
@@ -142,7 +142,7 @@ for source_word in words_dict.keys():
 context_txt = f"{args.out_path}{args.target_lang}_{args.model_size}_{args.incorrect_words_num}_context.txt"
 with open(context_txt, "w") as outfile:
     outfile.write(str(result_dict))
-"""
+
 """
 # Evaluation
 

@@ -3,9 +3,9 @@ from babelnet import Language, pos
 import xml.etree.ElementTree as ET
 from babelnet.data.source import BabelSenseSource
 from babelnet import BabelSynsetID
-import nltk
+
 from babelnet.data.lemma import BabelLemmaType
-english_vocab = set(w.lower() for w in nltk.corpus.words.words())
+
 #from nltk.corpus import wordnet as wn
 import json
 
@@ -21,14 +21,6 @@ root = file.getroot()[0]
 print(len(root))
 
 
-def common_member(a, b):
-    a_set = set(a)
-    b_set = set(b)
-    if (a_set & b_set):
-        return True
-    else:
-        return False
-
 res_dic = {}
 sent_dict = {}
 instance_dict = {}
@@ -43,8 +35,14 @@ for sent in root:
         s += f"{word.text}"
         if word.tag == "instance":
             instance_dict[word.attrib["id"]] = (word.attrib['lemma'], word.attrib["pos"])
-    sent_dict[sent.attrib["id"]] = s
+        sent_dict[sent.attrib["id"]] = s
 
+
+with open(f"{lang}_en_words.json", "w") as outfile:
+    json.dump(instance_dict, outfile)
+with open(f"{lang}_en_sent.json", "w") as outfile:
+    json.dump(sent_dict, outfile)
+'''
 pos_dict = {
     "VERB": pos.POS.VERB,
     "NOUN": pos.POS.NOUN,
@@ -157,4 +155,5 @@ with open(f"correct_trans_{lang}_en.json", "w") as outfile:
     json.dump(right_dict, outfile)
 with open(f"wrong_trans_{lang}_en.json", "w") as outfile:
     json.dump(wrong_dict, outfile)
+'''
 

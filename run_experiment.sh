@@ -22,7 +22,7 @@ done
 for i in 125M 1.3B 2.7B 20B
 do 
     python -u evaluate.py \
-        --model_name gpt-neo \
+        --model_name bloom \
         --model_size $i \
         --target_lang $target_lang \
         --dict_file $dict_file \
