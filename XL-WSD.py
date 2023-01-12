@@ -109,6 +109,6 @@ if not os.path.exists(args.out_path):
 
 result_txt = f"{args.out_path}output_{args.source_lang}_{args.target_lang}_{args.model_size}_WSD.txt"
 with open(result_txt, "w") as f:
-    f.write(str(result_txt))
+    f.write(str(result_dict))
     
 print("finish")
