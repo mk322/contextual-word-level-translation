@@ -25,7 +25,7 @@ done
 
 python -u XL-WSD.py \
     --model_name gpt-J \
-    --model_size $i \
+    --model_size 6B \
     --source_lang $source_lang \
     --target_lang $target_lang \
     --correct_file $correct_file \

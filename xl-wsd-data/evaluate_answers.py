@@ -88,7 +88,7 @@ if __name__ == "__main__":
     parser = ArgumentParser()
     parser.add_argument("--answer_file", required=True)
     parser.add_argument("--gold_file", required=True)
-    parser.add_argument("--by_pos", action="store_true", default=False)
+    parser.add_argument("--by_pos", action="store_true")
 
     args = parser.parse_args()
 
