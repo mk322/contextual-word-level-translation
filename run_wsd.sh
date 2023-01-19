@@ -9,7 +9,7 @@ bloom_output="./WSD_Results/bloom/"
 gpt_j_output="./WSD_Results/gpt-j/"
 
 
-for i in 125M 1.3B 2.7B 20B
+for i in 20B 1.3B 2.7B 20B
 do 
 python -u XL-WSD.py \
     --model_name gpt-neo \

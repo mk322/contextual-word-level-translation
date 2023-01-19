@@ -6,10 +6,10 @@ bloom_output="./Results/bloom/"
 gpt_j_output="./Results/gpt-j/"
 
 python -u evaluate.py \
-    --model_name bloom \
-    --model_size 7b1 \
+    --model_name gpt-neo \
+    --model_size 125M \
     --target_lang $target_lang \
     --dict_file $dict_file \
     --incorrect_words_file $incorrect_words_file \
     --incorrect_words_num 50 \
-    --out_path $bloom_output
+    --out_path $gpt_neo_output

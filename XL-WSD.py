@@ -71,7 +71,8 @@ for key in words_dict.keys():
     else:
         target_word_list = correct_dict[key]
     sent_id = key[:-5]
-    input_string = f"In \"{sent_dict[sent_id]}\", the word {words_dict[key]} translates into {args.target_lang} as "
+    input_string = f"在\"{sent_dict[sent_id]}\"这句话中, \"{words_dict[key]}\"这个词翻译成英语为 "
+    #input_string = f"In the sentence \"{sent_dict[sent_id]}\", the word {words_dict[key]} translates into {args.target_lang} as "
     for target_word in target_word_list:
         target_word_ids = tokenizer(target_word, add_special_tokens=False)['input_ids'] 
         if len(target_word_ids) == 0:

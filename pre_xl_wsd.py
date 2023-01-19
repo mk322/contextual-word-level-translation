@@ -1,7 +1,7 @@
-import babelnet as bn
+#import babelnet as bn
 from babelnet import Language, pos
 import xml.etree.ElementTree as ET
-from babelnet.data.source import BabelSenseSource
+#from babelnet.data.source import BabelSenseSource
 from babelnet import BabelSynsetID
 
 from babelnet.data.lemma import BabelLemmaType
@@ -26,6 +26,7 @@ sent_dict = {}
 instance_dict = {}
 word2label = {}
 label2word = {}
+word_dict = {}
 
 word2label_t = {}
 label2word_t = {}
@@ -35,13 +36,15 @@ for sent in root:
         s += f"{word.text}"
         if word.tag == "instance":
             instance_dict[word.attrib["id"]] = (word.attrib['lemma'], word.attrib["pos"])
+            word_dict[word.attrib["id"]] = word.text
         sent_dict[sent.attrib["id"]] = s
 
-
 with open(f"{lang}_en_words.json", "w") as outfile:
+    json.dump(word_dict, outfile)
+with open(f"{lang}_en_lemma.json", "w") as outfile:
     json.dump(instance_dict, outfile)
-with open(f"{lang}_en_sent.json", "w") as outfile:
-    json.dump(sent_dict, outfile)
+#with open(f"{lang}_en_sent.json", "w") as outfile:
+    #json.dump(sent_dict, outfile)
 '''
 pos_dict = {
     "VERB": pos.POS.VERB,
