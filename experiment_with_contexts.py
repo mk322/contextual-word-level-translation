@@ -8,8 +8,6 @@ import random
 import os
 from model_utils import init_gpt_neox
 
-
-
 device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
 parser = argparse.ArgumentParser()
@@ -28,20 +26,20 @@ if args.model_name == "gpt-neo":
     if args.model_size != "20B":
         tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-neo-"+args.model_size)
         model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-neo-"+args.model_size, return_dict_in_generate=True).to(device)
-        result_txt = f"./Results/gpt-neo/gpt-neo_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
+        result_txt = f"./Results/gpt-neo/metrics_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
     else: 
         tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-neox-20b")
         model = init_gpt_neox(True)
-        result_txt = f"./Results/gpt-neo/gpt-neo_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
+        result_txt = f"./Results/gpt-neo/metrics_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
 elif args.model_name == "bloom":
     tokenizer = AutoTokenizer.from_pretrained("bigscience/bloom-"+args.model_size)
     model = AutoModelForCausalLM.from_pretrained("bigscience/bloom-"+args.model_size, return_dict_in_generate=True).to(device)
-    result_txt = f"./Results/bloom/bloom_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
+    result_txt = f"./Results/bloom/metrics_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
 
 elif args.model_name == "gpt-J":
     tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-j-6B")
     model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-j-6B").to(device)
-    result_txt = f"./Results/gpt-j/gpt-j_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
+    result_txt = f"./Results/gpt-j/metrics_{args.target_lang}_{args.model_size}_{args.incorrect_words_num}.txt"
 
 else:
   raise Exception("Sorry, the input model name is invalid.")
@@ -63,8 +61,8 @@ with open(args.incorrect_words_file, encoding="utf-8") as t:
     for word in chosen_words:
         word = word.split(" ")
         # Filter out the English Translations in Non-English Parts
-        if (word[0].upper() == word[0].lower()):
-            wrong_word_list.append(word[0])
+        wrong_word_list.append(word[0])
+
 
 # Uncontextual WLT
 for source_word in words_dict.keys():
@@ -96,6 +94,13 @@ for source_word in words_dict.keys():
             uncontext_dict[source_word] = [(target_word, avg_score)]
         else:
             uncontext_dict[source_word].append((target_word, avg_score))
+
+if not os.path.exists(args.out_path):
+    os.makedirs(args.out_path)
+
+uncontext_txt = f"{args.out_path}{args.target_lang}_{args.model_size}_{args.incorrect_words_num}_uncontext.txt"
+with open(uncontext_txt, "w") as f:
+    f.write(str(uncontext_dict))
 
 
 # Contextual WLT
@@ -133,18 +138,12 @@ for source_word in words_dict.keys():
             else:
                 result_dict[(source_word, j)].append((target_word, avg_score))
 
-if not os.path.exists(args.out_path):
-    os.makedirs(args.out_path)
 
-uncontext_txt = f"{args.out_path}{args.target_lang}_{args.model_size}_{args.incorrect_words_num}_uncontext.txt"
 context_txt = f"{args.out_path}{args.target_lang}_{args.model_size}_{args.incorrect_words_num}_context.txt"
-with open(uncontext_txt, "w") as f:
-    f.write(str(uncontext_dict))
-
 with open(context_txt, "w") as outfile:
     outfile.write(str(result_dict))
 
-
+"""
 # Evaluation
 
 # Metric 1a: calculated percentage of examples that the top 1 translation is correct.
@@ -268,5 +267,5 @@ with open(result_txt, "w", encoding='utf-8') as r:
     print(f"percentage of examples that fix: {percent_fix}, {fixed}, {errors}", file=r)
     #for key in top1_dict:
         #print(f"{key[0]}\t{key[1]}\t{top1_dict[key][0]}\t{top1_dict[key][1]}\t{correct_dict[key]}", file=r)
-
+"""
 print("finish")
