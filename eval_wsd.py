@@ -53,8 +53,19 @@ def parse_dict(path):
     for key in result_dict:
         top1_translations = sorted(result_dict[key], key=lambda key: key[1], reverse=True)
         top1_dict[key] = top1_translations
-    
     return top1_dict
+
+def parse_sense_label_dict(path):
+    result_dict = {}
+    with open(path, "r", encoding="utf-8") as f1:
+        lines = f1.read().splitlines()
+        for line in lines:
+            parts = line.split(" bn")
+            if parts[0] not in result_dict:
+                result_dict[parts[0]] = []
+            for part in parts[1:]:
+                result_dict[parts[0]].append("bn"+part)
+    return result_dict
 
 def output_sense_label(top1_dict, source_ids_dict, output_file, target_lang):
     t_lang = lang_dict[target_lang]
@@ -83,6 +94,8 @@ if __name__ == "__main__":
     target_lang="English"
     source_lang="Chinese"
     words_file="zh_en_words.json"
+    all_sense_path = "all_sense_label.txt"
+    all_sense_dict = parse_sense_label_dict(all_sense_path)
     #output_file = f"predicted_wsd_labels_{source_lang}_{target_lang}.txt"
     #source_ids_dict = parse_source_dict(words_file)
 
@@ -109,3 +122,4 @@ if __name__ == "__main__":
             result_dict_path = f"WSD_results/{model_name}/output_{source_lang}_{target_lang}_{model_size}_WSD.txt"
             top1_dict = parse_dict(result_dict_path)
             output_sense_label(top1_dict, source_ids_dict, output_file, target_lang)
+    """
