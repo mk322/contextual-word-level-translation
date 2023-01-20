@@ -35,7 +35,7 @@ elif args.model_name == "bloom":
     tokenizer = AutoTokenizer.from_pretrained("bigscience/bloom-"+args.model_size)
     model = AutoModelForCausalLM.from_pretrained("bigscience/bloom-"+args.model_size, return_dict_in_generate=True).to(device)
 
-elif args.model_name == "gpt-J":
+elif args.model_name == "gpt-j":
     tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-j-6B")
     model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-j-6B", return_dict_in_generate=True).to(device)
 
@@ -71,12 +71,11 @@ for key in words_dict.keys():
     else:
         target_word_list = correct_dict[key]
     sent_id = key[:-5]
-    input_string = f"在\"{sent_dict[sent_id]}\"这句话中, \"{words_dict[key]}\"这个词翻译成英语为 "
-    #input_string = f"In the sentence \"{sent_dict[sent_id]}\", the word {words_dict[key]} translates into {args.target_lang} as "
+    #input_string = f"在\"{sent_dict[sent_id]}\"这句话中, \"{words_dict[key]}\"这个词翻译成英语为 "
+    input_string = f"In the sentence \"{sent_dict[sent_id]}\", the word {words_dict[key]} translates into {args.target_lang} as "
     for target_word in target_word_list:
         target_word_ids = tokenizer(target_word, add_special_tokens=False)['input_ids'] 
-        if len(target_word_ids) == 0:
-            print(key, target_word)
+
         input_ids = tokenizer(input_string, add_special_tokens=False, return_tensors='pt')['input_ids']
         with torch.no_grad():
             input_ids = input_ids.to(device)
@@ -96,8 +95,6 @@ for key in words_dict.keys():
                 model_cache = output['past_key_values']
                 logits = output['logits'].squeeze()
                 model_probs = F.log_softmax(logits, dim=-1)
-        if len(target_word_subword_scores) == 0:
-            print(key, target_word, "sub")
         avg_score = round(sum(target_word_subword_scores)/len(target_word_subword_scores), 6)
         if key not in result_dict: 
             result_dict[key] = [(target_word, avg_score)]
@@ -108,7 +105,7 @@ for key in words_dict.keys():
 if not os.path.exists(args.out_path):
     os.makedirs(args.out_path)
 
-result_txt = f"{args.out_path}output_{args.source_lang}_{args.target_lang}_{args.model_size}_WSD.txt"
+result_txt = f"{args.out_path}output_engPrompt_{args.source_lang}_{args.target_lang}_{args.model_size}_WSD.txt"
 with open(result_txt, "w") as f:
     f.write(str(result_dict))
     

@@ -61,8 +61,9 @@ def evaluate(answers, golds, by_pos, wnkey2bn=None):
     for id in golds.keys():
         ans = answers[id]
         labels = golds[id]
-        if wnkey2bn is not None:
-            labels = get_bn_labels(labels, wnkey2bn)
+        #print(labels)
+        #if wnkey2bn is not None:
+            #labels = get_bn_labels(labels, wnkey2bn)
         pos = get_pos(list(labels)[0])
 
         if len(ans & labels) > 0:
