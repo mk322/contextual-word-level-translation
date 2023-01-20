@@ -71,8 +71,8 @@ for key in words_dict.keys():
     else:
         target_word_list = correct_dict[key]
     sent_id = key[:-5]
-    #input_string = f"在\"{sent_dict[sent_id]}\"这句话中, \"{words_dict[key]}\"这个词翻译成英语为 "
-    input_string = f"In the sentence \"{sent_dict[sent_id]}\", the word {words_dict[key]} translates into {args.target_lang} as "
+    input_string = f"在\"{sent_dict[sent_id]}\"这句话中, \"{words_dict[key]}\"这个词翻译成英语为 "
+    #input_string = f"In the sentence \"{sent_dict[sent_id]}\", the word {words_dict[key]} translates into {args.target_lang} as "
     for target_word in target_word_list:
         target_word_ids = tokenizer(target_word, add_special_tokens=False)['input_ids'] 
 
@@ -105,7 +105,7 @@ for key in words_dict.keys():
 if not os.path.exists(args.out_path):
     os.makedirs(args.out_path)
 
-result_txt = f"{args.out_path}output_engPrompt_{args.source_lang}_{args.target_lang}_{args.model_size}_WSD.txt"
+result_txt = f"{args.out_path}output_chnPrompt_{args.source_lang}_{args.target_lang}_{args.model_size}_WSD.txt"
 with open(result_txt, "w") as f:
     f.write(str(result_dict))
     

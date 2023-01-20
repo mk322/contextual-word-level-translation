@@ -1,7 +1,7 @@
 import json
 
 correct_dict_path = "xl-wsd-data/correct_trans_zh_en_no_under.json"
-output_path = "WSD_Results/bloom/output_Chinese_English_7b1_WSD.txt"
+output_path = "WSD_Results/bloom/output_Chinese_English_3b_WSD.txt"
 with open(correct_dict_path, "r") as f:
     correct_dict = json.load(f)
 

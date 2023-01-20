@@ -78,34 +78,6 @@ def parse_sense_label_dict(path):
                 result_dict[parts[0]].append("bn"+part)
     return result_dict
 
-
-def output_sense_label2(top1_dict, source_ids_dict, all_sense_dict, output_file):
-    wsd_result = {}
-    print("start")
-    with open(output_file, "w", buffering=1) as o:
-        for key in list(top1_dict.keys()):
-            intersection = []
-            i = 0
-            j = 0
-            for i in range(len(top1_dict[key])):
-            #while ((len(intersection) == 2) and (i < len(top1_dict[key]))):
-                prediction = top1_dict[key][i][0]
-                source_id = source_ids_dict[key]
-                for sense_label in all_sense_dict[prediction]:
-                    if sense_label in source_id:
-                        intersection.append(sense_label)
-                        j += 1
-                i += 1
-            wsd_result[key] = intersection
-            #print(intersection)
-            s = key
-            for label in wsd_result[key]:
-                s += f" {label}"
-            print(s, file=o)
-
-    print("finish")
-
-
 def output_sense_label(top1_dict, source_ids_dict, all_sense_dict, output_file):
     wsd_result = {}
     print("start")
@@ -128,41 +100,25 @@ def output_sense_label(top1_dict, source_ids_dict, all_sense_dict, output_file):
 
     print("finish")
 if __name__ == "__main__":
-    target_lang="English"
-    source_lang="Chinese"
-    lemma_file = "zh_en_lemma.json"
-    words_file="zh_en_words.json"
-    all_sense_path = "all_sense_label.txt"
-    invent_file = "xl-wsd-data/inventories/inventory.zh.txt"
-    all_sense_dict = parse_sense_label_dict(all_sense_path)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--lemma_file", type=str, required=True)
+    parser.add_argument("--words_file", type=str, required=True)
+    parser.add_argument("--invent_file", type=str)
+    parser.add_argument("--all_sense_path", type=str, required=True)
+    parser.add_argument("--source_ids_dict_path", type=str)
+    parser.add_argument("--output_file", type=str)
+    parser.add_argument("--result_dict_path", type=str)
 
-    with open("source_ids_dict_zh_en.txt", encoding="utf-8") as f:
+    args = parser.parse_args()
+    lemma_file = args.lemma_file 
+    words_file = args.words_file
+    all_sense_path = args.all_sense_path
+    invent_file = args.invent_file
+    all_sense_dict = parse_sense_label_dict(args.all_sense_path)
+
+    with open(args.source_ids_dict_path, encoding="utf-8") as f:
         s = f.read()
         source_ids_dict = dict(ast.literal_eval(s))
-    #output_file = f"predicted_wsd_labels_{source_lang}_{target_lang}.txt"
-    source_ids_dict = parse_source_dict(lemma_file, invent_file)
-
-    #for model_name in ["gpt-neo", "bloom", "gpt-j"]:
-    for model_name in ["bloom", "gpt-neo"]:
-        if model_name == "gpt-neo":
-            for model_size in ["20B"]:
-            #for model_size in ["2.7B", "1.3B", "125M"]:
-                output_file = f"WSD_Results/{model_name}/labels3_{source_lang}_{target_lang}_{model_size}.txt"
-                result_dict_path = f"WSD_Results/{model_name}/output_{source_lang}_{target_lang}_{model_size}_WSD.txt"
-                top1_dict = parse_dict(result_dict_path)
-                output_sense_label(top1_dict, source_ids_dict, all_sense_dict, output_file)
-
-        elif model_name == "bloom":
-            for model_size in ["7b1", "3b"]:
-            #for model_size in ["1b7", "1b1", "560m",]:
-                output_file = f"WSD_Results/{model_name}/labels3_{source_lang}_{target_lang}_{model_size}.txt"
-                result_dict_path = f"WSD_Results/{model_name}/output_{source_lang}_{target_lang}_{model_size}_WSD.txt"
-                top1_dict = parse_dict(result_dict_path)
-                output_sense_label(top1_dict, source_ids_dict, all_sense_dict, output_file)
-
-        elif model_name == "gpt-j":
-            model_size = "6B"
-            output_file = f"WSD_Results/{model_name}/labels3_{source_lang}_{target_lang}_{model_size}.txt"
-            result_dict_path = f"WSD_Results/{model_name}/output_{source_lang}_{target_lang}_{model_size}_WSD.txt"
-            top1_dict = parse_dict(result_dict_path)
-            output_sense_label(top1_dict, source_ids_dict, all_sense_dict, output_file)
+    #source_ids_dict = parse_source_dict(lemma_file, invent_file)
+    top1_dict = parse_dict(args.result_dict_path)
+    output_sense_label(top1_dict, source_ids_dict, all_sense_dict, args.output_file)
