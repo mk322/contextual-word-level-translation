@@ -1,5 +1,3 @@
-#import babelnet as bn
-#from babelnet import Language, POS
 import json
 import argparse
 import ast
@@ -13,49 +11,6 @@ gpt_neo_output="./WSD_Results/gpt-neo/"
 bloom_output="./WSD_Results/bloom/"
 gpt_j_output="./WSD_Results/gpt-j/"
 
-
-"""
-pos_dict = {
-    "VERB": POS.VERB,
-    "NOUN": POS.NOUN,
-    "ADJ": POS.ADJ,
-    "ADV": POS.ADV
-}
-
-lang_dict = {
-    "Chinese": Language.ZH,
-    "English": Language.EN
-}
-"""
-def parse_source_dict(lemma_file, inventory_file):
-    lemma2label = {}
-    with open(inventory_file , "r", encoding="utf-8") as f:
-        lines = f.readlines()
-        for line in lines:
-            parts = line.split("\t")
-            word = parts[0].split("#")[0]
-            pos_ = str(parts[0].split("#")[1])
-            for label in parts[1:]:
-                if label.endswith("\n"):
-                    label = label[:-1]
-                if (word, pos_) not in lemma2label:
-                    lemma2label[(word, pos_)] = [str(label)]
-                else:
-                    lemma2label[(word, pos_)].append(str(label))
-
-
-    with open(lemma_file) as json_file:
-        lemma_dict = json.load(json_file)
-    source_ids_dict = {}
-    for key in lemma_dict:
-        source_ids_dict[key] = []
-        lemma = tuple(lemma_dict[key])
-        for label in lemma2label[lemma]:
-            source_ids_dict[key].append(label)
-
-    with open("source_ids_dict_zh_en.txt", "w") as f:
-        f.write(str(source_ids_dict))
-    return source_ids_dict
 
 def parse_dict(path):
     with open(path, "r", encoding="utf-8") as f1:
@@ -119,6 +74,5 @@ if __name__ == "__main__":
     with open(args.source_ids_dict_path, encoding="utf-8") as f:
         s = f.read()
         source_ids_dict = dict(ast.literal_eval(s))
-    #source_ids_dict = parse_source_dict(lemma_file, invent_file)
     top1_dict = parse_dict(args.result_dict_path)
     output_sense_label(top1_dict, source_ids_dict, all_sense_dict, args.output_file)

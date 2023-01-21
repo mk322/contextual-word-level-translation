@@ -10,18 +10,13 @@ bloom_output="./WSD_Results/bloom/"
 gpt_j_output="./WSD_Results/gpt-j/"
 prompt_type=tran
 
-for j in 1b1 1b7
-#3b 7b1
-do 
 python -u XL-WSD.py \
-    --model_name bloom \
-    --model_size $j \
+    --model_name gpt-j \
+    --model_size 6B \
     --source_lang $source_lang \
     --target_lang $target_lang \
     --correct_file $correct_file \
     --words_file $words_file \
     --sent_file $sent_file \
     --incorrect_file $incorrect_file \
-    --out_path $bloom_output \
-    --prompt_type $prompt_type
-done
+    --out_path $gpt_j_output

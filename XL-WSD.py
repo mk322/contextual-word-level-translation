@@ -21,6 +21,7 @@ parser.add_argument('--words_file', type=str, default="zh_en_words.json")
 parser.add_argument('--sent_file', type=str, default="zh_en_sent.json")
 parser.add_argument('--seed', type=int, default=666)
 parser.add_argument('--out_path', type=str, default="./Results/gpt-neo/", required=True)
+parser.add_argument('--prompt_type', type=str, default="tran")
 
 args = parser.parse_args()
 
@@ -63,7 +64,6 @@ with open(args.words_file) as json_file:
 with open(args.sent_file) as json_file:
     sent_dict = json.load(json_file)
 
-
 # Contextual WLT
 for key in words_dict.keys():
     if key in wrong_dict:
@@ -71,8 +71,18 @@ for key in words_dict.keys():
     else:
         target_word_list = correct_dict[key]
     sent_id = key[:-5]
-    input_string = f"在\"{sent_dict[sent_id]}\"这句话中, \"{words_dict[key]}\"这个词翻译成英语为 "
-    #input_string = f"In the sentence \"{sent_dict[sent_id]}\", the word {words_dict[key]} translates into {args.target_lang} as "
+    if args.prompt_type == "tran":
+        if args.source_lang == "Chinese" and args.target_lang == "English":
+            input_string = f"在\"{sent_dict[sent_id]}\"这句话中, \"{words_dict[key]}\"这个词翻译成英语为 "
+        elif args.source_lang == "Spanish" and args.target_lang == "English":
+            input_string = f"En la oración \"{sent_dict[sent_id]}\", la palabra \"{words_dict[key]}\" se traduce al inglés como "
+
+    elif args.prompt_type == "eng":
+        input_string = f"In the sentence \"{sent_dict[sent_id]}\", the word {words_dict[key]} is translated into {args.target_lang} as "
+    
+    else:
+        raise Exception("Sorry, the prompt type is invalid.")
+
     for target_word in target_word_list:
         target_word_ids = tokenizer(target_word, add_special_tokens=False)['input_ids'] 
 
@@ -105,7 +115,7 @@ for key in words_dict.keys():
 if not os.path.exists(args.out_path):
     os.makedirs(args.out_path)
 
-result_txt = f"{args.out_path}output_chnPrompt_{args.source_lang}_{args.target_lang}_{args.model_size}_WSD.txt"
+result_txt = f"{args.out_path}output_{args.prompt_type}Prompt_{args.source_lang}_{args.target_lang}_{args.model_size}_WSD.txt"
 with open(result_txt, "w") as f:
     f.write(str(result_dict))
     
