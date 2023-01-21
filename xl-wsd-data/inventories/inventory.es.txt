@@ -16624,6 +16624,7 @@ transgresor#NOUN	bn:00050275n	bn:00077999n	bn:00023815n
 colágeno#NOUN	bn:00020596n
 berzelius#NOUN	bn:00010085n
 brasil#NOUN	bn:00012786n
+Brasil#NOUN	bn:00012786n
 posar#VERB	bn:00090224v	bn:00090878v
 causalidad#NOUN	bn:00016848n	bn:00016403n	bn:00016849n
 corbett#NOUN	bn:00022584n

@@ -9,7 +9,7 @@ import argparse
 
 
 # parse an xml file by name
-def process(lang, full_lang):
+def process(lang, full_lang, tlang="en"):
     path = f"xl-wsd-data/evaluation_datasets/test-{lang}/test-{lang}.data.xml"
     inventory_path = f"xl-wsd-data/inventories/inventory.{lang}.txt"
     key_path = f"xl-wsd-data/evaluation_datasets/test-{lang}/test-{lang}.gold.key.txt"
@@ -39,11 +39,11 @@ def process(lang, full_lang):
                 word_dict[word.attrib["id"]] = word.text
             sent_dict[sent.attrib["id"]] = s
 
-    with open(f"xl-wsd-files/{full_lang}/{lang}_en_words.json", "w") as outfile:
+    with open(f"xl-wsd-files/{full_lang}/{lang}_{tlang}_words.json", "w") as outfile:
         json.dump(word_dict, outfile)
-    with open(f"xl-wsd-files/{full_lang}/{lang}_en_lemma.json", "w") as outfile:
+    with open(f"xl-wsd-files/{full_lang}/{lang}_{tlang}_lemma.json", "w") as outfile:
         json.dump(instance_dict, outfile)
-    with open(f"xl-wsd-files/{full_lang}/{lang}_en_sent.json", "w") as outfile:
+    with open(f"xl-wsd-files/{full_lang}/{lang}_{tlang}_sent.json", "w") as outfile:
         json.dump(sent_dict, outfile)
 
 
@@ -91,24 +91,24 @@ def process(lang, full_lang):
                 for synset in synsets:
                     if str(label) in key_dict[key]:
                         if key not in right_dict:
-                            right_dict[key] = set([str(i) for i in synset.lemmas(Language.EN, BabelLemmaType.HIGH_QUALITY)])
+                            right_dict[key] = set([str(i).replace("_", " ") for i in synset.lemmas(Language.EN, BabelLemmaType.HIGH_QUALITY) if str(i)])
                         else:
-                            right_dict[key].update(set([str(i) for i in synset.lemmas(Language.EN, BabelLemmaType.HIGH_QUALITY)]))
+                            right_dict[key].update(set([str(i).replace("_", " ") for i in synset.lemmas(Language.EN, BabelLemmaType.HIGH_QUALITY) if str(i)]))
                     else:
                         if key not in wrong_dict:
-                            wrong_dict[key] = set([str(i) for i in synset.lemmas(Language.EN, BabelLemmaType.HIGH_QUALITY)])
+                            wrong_dict[key] = set([str(i).replace("_", " ") for i in synset.lemmas(Language.EN, BabelLemmaType.HIGH_QUALITY) if str(i)])
                         else:
-                            wrong_dict[key].update(set([str(i) for i in synset.lemmas(Language.EN, BabelLemmaType.HIGH_QUALITY)]))
+                            wrong_dict[key].update(set([str(i).replace("_", " ") for i in synset.lemmas(Language.EN, BabelLemmaType.HIGH_QUALITY) if str(i)]))
             right_dict[key] = list(right_dict[key])
             if key in wrong_dict:
                 wrong_dict[key] = list(wrong_dict[key])
 
-    with open(f"xl-wsd-files/{full_lang}/correct_trans_{lang}_en.json", "w") as outfile:
+    with open(f"xl-wsd-files/{full_lang}/correct_trans_{lang}_{tlang}.json", "w") as outfile:
         json.dump(right_dict, outfile)
-    with open(f"xl-wsd-files/{full_lang}/wrong_trans_{lang}_en.json", "w") as outfile:
+    with open(f"xl-wsd-files/{full_lang}/wrong_trans_{lang}_{tlang}.json", "w") as outfile:
         json.dump(wrong_dict, outfile)
 
-def parse_source_dict(lemma_file, lang):
+def parse_source_dict(lemma_file, full_lang, lang, tlang="en"):
     lemma2label = {}
     inventory_file = f"xl-wsd-data/inventories/inventory.{lang}.txt"
     with open(inventory_file , "r", encoding="utf-8") as f:
@@ -131,11 +131,11 @@ def parse_source_dict(lemma_file, lang):
     source_ids_dict = {}
     for key in lemma_dict:
         source_ids_dict[key] = []
-        lemma = tuple(lemma_dict[key])
+        lemma = (lemma_dict[key][0].lower(), lemma_dict[key][1])
+        #lemma = tuple(lemma_dict[key])
         for label in lemma2label[lemma]:
             source_ids_dict[key].append(label)
-
-    with open(f"source_ids_dict_{lang}_en.txt", "w") as f:
+    with open(f"xl-wsd-files/{full_lang}/source_ids_dict_{lang}_{tlang}.txt", "w") as f:
         f.write(str(source_ids_dict))
     print("stop parsing source dict")
 
@@ -145,6 +145,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--full_lang', type=str, required=True)
     parser.add_argument('--lang', type=str, required=True)
+    parser.add_argument('--tlang', type=str, required=True)
     args = parser.parse_args()
-    process()
-    parse_source_dict(f"xl-wsd-files/{args.full_lang}/{args.lang}_en_lemma.json", args.lang)
+    process(args.lang, args.full_lang, args.tlang)
+    parse_source_dict(f"xl-wsd-files/{args.full_lang}/{args.lang}_{args.tlang}_lemma.json", args.full_lang, args.lang, args.tlang)
