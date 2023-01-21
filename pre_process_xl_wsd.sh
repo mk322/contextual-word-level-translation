@@ -1,5 +1,5 @@
-lang="eu"
-full_lang=Basque
+lang="es"
+full_lang=Spanish
 tlang="en"
 C:/Users/10494/anaconda3/envs/cse446/python.exe pre_xl_wsd.py --lang=$lang --full_lang=$full_lang --tlang=$tlang
 

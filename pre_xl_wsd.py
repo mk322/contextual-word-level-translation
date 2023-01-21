@@ -33,11 +33,11 @@ def process(lang, full_lang, tlang="en"):
     for sent in root:
         s = ""
         for word in sent:
-            s += f"{word.text}"
+            s += f"{word.text} "
             if word.tag == "instance":
                 instance_dict[word.attrib["id"]] = (word.attrib['lemma'], word.attrib["pos"])
                 word_dict[word.attrib["id"]] = word.text
-            sent_dict[sent.attrib["id"]] = s
+            sent_dict[sent.attrib["id"]] = s[:-1]
 
     with open(f"xl-wsd-files/{full_lang}/{lang}_{tlang}_words.json", "w") as outfile:
         json.dump(word_dict, outfile)
@@ -82,7 +82,7 @@ def process(lang, full_lang, tlang="en"):
     wrong_dict = {}
     print("start finding synsets")
     for key in instance_dict:
-        word = instance_dict[key][0]
+        word = instance_dict[key][0].lower()
         pos_str = instance_dict[key][1]
         if (word, pos_str) in word2label.keys():
             for label in word2label[(word, pos_str)]:
