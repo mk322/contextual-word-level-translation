@@ -1,1 +1,1 @@
-salloc -A zlab -p gpu-a40 --mem=72G --gres=gpu:2 --time=48:00:00
+srun -A zlab -p gpu-a40 --mem=72G --gres=gpu:2 --time=48:00:00

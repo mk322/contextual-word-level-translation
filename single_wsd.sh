@@ -10,7 +10,7 @@ bloom_output="./WSD_Results/bloom/"
 gpt_j_output="./WSD_Results/gpt-j/"
 prompt_type=tran
 
-for j in 1b1 1b7
+for j in 7b1 3b 1b1 1b7 560m
 #3b 7b1
 do 
 python -u XL-WSD.py \

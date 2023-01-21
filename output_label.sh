@@ -1,10 +1,11 @@
 target_lang=English
 source_lang=Chinese
-lemma_file="xl-wsd-files/$source_lang/zh_en_lemma.json"
-words_file="xl-wsd-files/$source_lang/zh_en_words.json"
-all_sense_path="xl-wsd-files/$source_lang/all_sense_label.txt"
-invent_file="xl-wsd-data/inventories/inventory.zh.txt"
-source_ids_dict_path="xl-wsd-files/$source_lang/source_ids_dict_zh_en.txt"
+lang=zh
+lemma_file=xl-wsd-files/$source_lang/$lang\_en_lemma.json
+words_file=xl-wsd-files/$source_lang/$lang\_en_words.json
+all_sense_path=xl-wsd-files/$source_lang/all_sense_labels_$lang.txt
+invent_file=xl-wsd-data/inventories/inventory.$lang.txt
+source_ids_dict_path=xl-wsd-files/$source_lang/source_ids_dict_$lang\_en.txt
 
 prompt_type=tran
 

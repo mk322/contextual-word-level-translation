@@ -8,15 +8,35 @@ sent_file=xl-wsd-files/$source_lang/$lang\_en_sent.json
 gpt_neo_output="./WSD_Results/gpt-neo/"
 bloom_output="./WSD_Results/bloom/"
 gpt_j_output="./WSD_Results/gpt-j/"
-prompt_type=tran
+prompt_type=eng
 
+for i in 125M 1.3B 2.7B
+#20B
+do 
 python -u XL-WSD.py \
-    --model_name gpt-j \
-    --model_size 6B \
+    --model_name gpt-neo \
+    --model_size $i \
     --source_lang $source_lang \
     --target_lang $target_lang \
     --correct_file $correct_file \
     --words_file $words_file \
     --sent_file $sent_file \
     --incorrect_file $incorrect_file \
-    --out_path $gpt_j_output
+    --out_path $gpt_neo_output \
+    --prompt_type $prompt_type
+done
+
+for j in 560m 1b1 1b7
+do 
+python -u XL-WSD.py \
+    --model_name bloom \
+    --model_size $j \
+    --source_lang $source_lang \
+    --target_lang $target_lang \
+    --correct_file $correct_file \
+    --words_file $words_file \
+    --sent_file $sent_file \
+    --incorrect_file $incorrect_file \
+    --out_path $bloom_output \
+    --prompt_type $prompt_type
+done
