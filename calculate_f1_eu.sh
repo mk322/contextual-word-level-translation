@@ -1,7 +1,7 @@
-prompt_type=tranPrompt
-source_lang=Chinese
+prompt_type=engPrompt
+source_lang=Basque
 target_lang=English
-lang=zh
+lang=eu
 echo "gpt-neo"
 for i in 125M 1.3B 2.7B 20B
 do

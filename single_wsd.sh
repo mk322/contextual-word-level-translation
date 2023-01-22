@@ -1,7 +1,7 @@
 target_lang=English
-lang=es
+lang=ca
 tlang=en
-source_lang=Spanish
+source_lang=Catalan
 correct_file=xl-wsd-files/$source_lang/correct_trans_$lang\_$tlang.json
 incorrect_file=xl-wsd-files/$source_lang/wrong_trans_$lang\_$tlang.json
 words_file=xl-wsd-files/$source_lang/$lang\_$tlang\_words.json
@@ -9,9 +9,9 @@ sent_file=xl-wsd-files/$source_lang/$lang\_$tlang\_sent.json
 gpt_neo_output="./WSD_Results/gpt-neo/"
 bloom_output="./WSD_Results/bloom/"
 gpt_j_output="./WSD_Results/gpt-j/"
-prompt_type=tran
+prompt_type=eng
 
-for j in 7b1 3b 560m 1b1 1b7
+for j in 3b 7b1 560m 1b1 1b7
 do 
 python -u XL-WSD.py \
     --model_name bloom \
@@ -26,7 +26,7 @@ python -u XL-WSD.py \
     --prompt_type $prompt_type
 done
 
-for i in 125M 1.3B 2.7B 20B 
+for i in 20B 2.7B 125M 1.3B
 do 
 python -u XL-WSD.py \
     --model_name gpt-neo \

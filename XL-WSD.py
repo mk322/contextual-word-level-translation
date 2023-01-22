@@ -75,6 +75,10 @@ for key in words_dict.keys():
         if args.source_lang == "Chinese" and args.target_lang == "English":
             input_string = f"在\"{sent_dict[sent_id]}\"这句话中, \"{words_dict[key]}\"这个词翻译成英语为"
         elif args.source_lang == "Spanish" and args.target_lang == "English":
+            input_string = f"En la oración \" {sent_dict[sent_id]} \", la palabra {words_dict[key]} se traduce al inglés como "
+        elif args.source_lang == "Catalan" and args.target_lang == "English":
+            input_string = f"En la oración \"{sent_dict[sent_id]}\", la palabra \"{words_dict[key]}\" se traduce al inglés como "
+        elif args.source_lang == "Basque" and args.target_lang == "English":
             input_string = f"En la oración \"{sent_dict[sent_id]}\", la palabra \"{words_dict[key]}\" se traduce al inglés como "
 
     elif args.prompt_type == "eng":
