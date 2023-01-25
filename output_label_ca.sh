@@ -8,7 +8,7 @@ all_sense_path=xl-wsd-files/$source_lang/all_sense_labels_$lang\_$tlang.txt
 invent_file=xl-wsd-data/inventories/inventory.$lang.txt
 source_ids_dict_path=xl-wsd-files/$source_lang/source_ids_dict_$lang\_$tlang.txt
 
-prompt_type=eng
+prompt_type=tran
 
 for i in 125M 1.3B 2.7B 20B
 do

@@ -75,14 +75,14 @@ for key in words_dict.keys():
         if args.source_lang == "Chinese" and args.target_lang == "English":
             input_string = f"在\"{sent_dict[sent_id]}\"这句话中, \"{words_dict[key]}\"这个词翻译成英语为"
         elif args.source_lang == "Spanish" and args.target_lang == "English":
-            input_string = f"En la oración \" {sent_dict[sent_id]} \", la palabra {words_dict[key]} se traduce al inglés como "
+            input_string = f"En la oración \"{sent_dict[sent_id]}\", la palabra \"{words_dict[key]}\" se traduce al inglés como "
         elif args.source_lang == "Catalan" and args.target_lang == "English":
-            input_string = f"En la oración \"{sent_dict[sent_id]}\", la palabra \"{words_dict[key]}\" se traduce al inglés como "
+            input_string = f"A la frase \"{sent_dict[sent_id]}\", la paraula \"{words_dict[key]}\" es tradueix a l'anglès com a "
         elif args.source_lang == "Basque" and args.target_lang == "English":
-            input_string = f"En la oración \"{sent_dict[sent_id]}\", la palabra \"{words_dict[key]}\" se traduce al inglés como "
+            input_string = f"\"{sent_dict[sent_id]}\" esaldian, \"{words_dict[key]}\" hitza ingelesera "
 
     elif args.prompt_type == "eng":
-        input_string = f"In the sentence \"{sent_dict[sent_id]}\", the word {words_dict[key]} is translated into {args.target_lang} as "
+        input_string = f"In the sentence \" {sent_dict[sent_id]} \", the word {words_dict[key]} is translated into {args.target_lang} as "
     
     else:
         raise Exception("Sorry, the prompt type is invalid.")
@@ -110,10 +110,16 @@ for key in words_dict.keys():
                 logits = output['logits'].squeeze()
                 model_probs = F.log_softmax(logits, dim=-1)
         avg_score = round(sum(target_word_subword_scores)/len(target_word_subword_scores), 6)
-        if key not in result_dict: 
-            result_dict[key] = [(target_word, avg_score)]
+        if args.source_lang == "Basque" and args.target_lang == "English":
+            if key not in result_dict: 
+                result_dict[key] = [(target_word[:-18], avg_score)]
+            else:
+                result_dict[key].append((target_word[:-18], avg_score))
         else:
-            result_dict[key].append((target_word, avg_score))
+            if key not in result_dict: 
+                result_dict[key] = [(target_word, avg_score)]
+            else:
+                result_dict[key].append((target_word, avg_score))
 
 
 if not os.path.exists(args.out_path):

@@ -1,4 +1,4 @@
-prompt_type=engPrompt
+prompt_type=tranPrompt
 source_lang=Basque
 target_lang=English
 lang=eu

@@ -1,6 +1,6 @@
 target_lang=English
-source_lang=Catalan
-lang=ca
+source_lang=Spanish
+lang=es
 tlang=en
 lemma_file=xl-wsd-files/$source_lang/$lang\_$tlang_lemma.json
 words_file=xl-wsd-files/$source_lang/$lang\_$tlang_words.json
