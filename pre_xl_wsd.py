@@ -40,7 +40,8 @@ def process(lang, full_lang, tlang="en"):
                 instance_dict[word.attrib["id"]] = (word.attrib['lemma'], word.attrib["pos"])
                 word_dict[word.attrib["id"]] = ins_word
             else:
-                s += f"{str(word.text)} "
+                ins_word = str(word.text).replace("_", " ")
+                s += f"{ins_word} "
             sent_dict[sent.attrib["id"]] = s[:-1]
 
     with open(f"xl-wsd-files/{full_lang}/{lang}_{tlang}_words.json", "w") as outfile:
