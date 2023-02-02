@@ -109,7 +109,11 @@ def process(lang, full_lang, tlang="zh"):
                             wrong_dict[key] = set([str(i).replace("_", " ") for i in synset.lemmas(lang_dict[tlang], BabelLemmaType.HIGH_QUALITY) if (str(i) and str(i).upper() == str(i).lower() and str(i) != "%")])
                         else:
                             wrong_dict[key].update(set([str(i).replace("_", " ") for i in synset.lemmas(lang_dict[tlang], BabelLemmaType.HIGH_QUALITY) if (str(i) and str(i).upper() == str(i).lower() and str(i) != "%")]))
-            if (key in right_dict) and (len(right_dict[key]) != 0):
+            if (key in right_dict) and (len(right_dict[key]) == 0):
+                del right_dict[key]
+                if key in wrong_dict:
+                    del wrong_dict[key]
+            if (key in right_dict):
                 right_dict[key] = list(right_dict[key])
                 if key in wrong_dict:
                     wrong_dict[key] = list(wrong_dict[key])
