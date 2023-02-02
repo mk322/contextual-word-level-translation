@@ -9,7 +9,13 @@ pos_dict = {
     "ADJ": POS.ADJ,
     "ADV": POS.ADV
 }
-def output_sense_label(correct_dict, wrong_dict, output_file, t_lang=Language.EN):
+
+lang_dict = {
+    "en": Language.EN,
+    "zh": Language.ZH
+}
+
+def output_sense_label(correct_dict, wrong_dict, output_file, t_lang="zh"):
     word_label_dict= {}
     print("start finding sense labels")
     with open(output_file, "w", buffering=1, encoding='utf-8') as o:
@@ -23,7 +29,7 @@ def output_sense_label(correct_dict, wrong_dict, output_file, t_lang=Language.EN
                 if word not in word_label_dict:
                     s = word
                     word_label_dict[word] = set()
-                    for synset in bn.get_synsets(key_word, from_langs=[t_lang]):
+                    for synset in bn.get_synsets(key_word, from_langs=[lang_dict[t_lang]]):
                         word_label_dict[word].add(str(synset.id))
                         s += f" {str(synset.id)}"
                     print(s, file=o)
