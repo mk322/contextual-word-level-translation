@@ -10,7 +10,8 @@ import argparse
 
 lang_dict = {
     "en": Language.EN,
-    "zh": Language.ZH
+    "zh": Language.ZH,
+    "es": Language.ES
 }
 
 # parse an xml file by name
