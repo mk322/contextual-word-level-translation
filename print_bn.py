@@ -12,7 +12,8 @@ pos_dict = {
 
 lang_dict = {
     "en": Language.EN,
-    "zh": Language.ZH
+    "zh": Language.ZH,
+    "es": Language.ES
 }
 
 def output_sense_label(correct_dict, wrong_dict, output_file, t_lang="zh"):
@@ -27,7 +28,7 @@ def output_sense_label(correct_dict, wrong_dict, output_file, t_lang="zh"):
             for word in set(target_list+correct_dict[key]):
                 key_word = word.replace(" ", "_")
                 if word not in word_label_dict:
-                    s = word
+                    s = word.replace("\n", "")
                     word_label_dict[word] = set()
                     for synset in bn.get_synsets(key_word, from_langs=[lang_dict[t_lang]]):
                         word_label_dict[word].add(str(synset.id))
