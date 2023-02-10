@@ -102,14 +102,14 @@ def process(lang, full_lang, tlang="zh"):
                 for synset in synsets:
                     if str(label) in key_dict[key]:
                         if key not in right_dict:
-                            right_dict[key] = set([str(i).replace("_", " ").replace("\n", "") for i in synset.lemmas(lang_dict[tlang], BabelLemmaType.HIGH_QUALITY) if (str(i) and str(i).upper() == str(i).lower() and str(i) != "%")])
+                            right_dict[key] = set([str(i).replace("_", " ").replace("\n", "") for i in synset.lemmas(lang_dict[tlang], BabelLemmaType.HIGH_QUALITY) if (str(i) and str(i) != "%")])
                         else:
-                            right_dict[key].update(set([str(i).replace("_", " ").replace("\n", "") for i in synset.lemmas(lang_dict[tlang], BabelLemmaType.HIGH_QUALITY) if (str(i) and str(i).upper() == str(i).lower() and str(i) != "%")]))
+                            right_dict[key].update(set([str(i).replace("_", " ").replace("\n", "") for i in synset.lemmas(lang_dict[tlang], BabelLemmaType.HIGH_QUALITY) if (str(i) and str(i) != "%")]))
                     else:
                         if key not in wrong_dict:
-                            wrong_dict[key] = set([str(i).replace("_", " ").replace("\n", "") for i in synset.lemmas(lang_dict[tlang], BabelLemmaType.HIGH_QUALITY) if (str(i) and str(i).upper() == str(i).lower() and str(i) != "%")])
+                            wrong_dict[key] = set([str(i).replace("_", " ").replace("\n", "") for i in synset.lemmas(lang_dict[tlang], BabelLemmaType.HIGH_QUALITY) if (str(i) and str(i) != "%")])
                         else:
-                            wrong_dict[key].update(set([str(i).replace("_", " ").replace("\n", "") for i in synset.lemmas(lang_dict[tlang], BabelLemmaType.HIGH_QUALITY) if (str(i) and str(i).upper() == str(i).lower() and str(i) != "%")]))
+                            wrong_dict[key].update(set([str(i).replace("_", " ").replace("\n", "") for i in synset.lemmas(lang_dict[tlang], BabelLemmaType.HIGH_QUALITY) if (str(i) and str(i) != "%")]))
             if (key in right_dict) and (len(right_dict[key]) == 0):
                 del right_dict[key]
                 if key in wrong_dict:
@@ -119,6 +119,7 @@ def process(lang, full_lang, tlang="zh"):
                 if key in wrong_dict:
                     wrong_dict[key] = list(wrong_dict[key])
 
+    print(len(right_dict), len(right_dict) / len(instance_dict))
     with open(f"xl-wsd-files/{full_lang}/correct_trans_{lang}_{tlang}.json", "w") as outfile:
         json.dump(right_dict, outfile)
     with open(f"xl-wsd-files/{full_lang}/wrong_trans_{lang}_{tlang}.json", "w") as outfile:

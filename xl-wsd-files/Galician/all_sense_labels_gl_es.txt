@@ -1,0 +1,3653 @@
+jovial bn:01551403n
+placentero
+bonito bn:01894747n bn:01695399n bn:03749654n bn:01900222n bn:03130858n bn:00142592n
+simpático
+regular
+cordial
+festivo
+gratificante
+grato
+satisfactorio
+atrayente
+gustoso
+agradable
+sabroso
+segura bn:03879816n bn:00380807n bn:00762328n
+algo
+resguardado
+real bn:02651489n bn:17708675n bn:01675076n bn:04140930n bn:14805783n bn:21518215n bn:04141129n bn:14332184n bn:00713929n bn:03730233n bn:17184010n bn:14521997n bn:00254364n bn:00342248n
+forzoso
+algunos
+cierto
+unos
+cierta
+verdadera
+ineludible
+inexorable
+sellado
+algunas
+inevitable bn:00148868n
+unas bn:03688327n
+verdadero
+positivo
+positiva
+seguro
+precintado
+indudable
+insatisfactorio
+cojón
+metatarso
+bolas
+testículos
+bola bn:02433475n
+huevo
+pelotas bn:03542412n
+huevos
+balón
+dídimo
+testículo
+turma
+óvulo
+bola mala
+cojones
+gónada
+pelota
+respetuoso
+coherente
+congruente
+tenaz
+consistente
+directa
+espontáneo
+íntimo
+espontánea
+cercano
+directo
+dinámico
+de gran impacto
+activo
+activa
+operacional
+dinámica
+listo para el combate
+participante
+sujetado
+acotado
+encerrado
+incluido
+adjunto
+fijado
+cercado
+cerrado bn:01425079n
+c. lupus
+lupus
+timber wolf
+canis lupus bn:00015268n
+lóbulo
+lobulo
+lobo bn:01402969n bn:03451408n bn:03466272n
+loba
+lupus lobo
+adinerado
+adinarado
+rica bn:04568528n
+apetitoso
+afluente
+delicioso
+abundante
+acaudalado
+próspero bn:00644298n bn:03385097n
+exquisito
+forrado
+rico bn:00004610n bn:01238298n bn:00203420n bn:14511627n
+pudiente
+acogedor
+conveniente
+hogareño
+apto
+igual
+indicado
+íntima
+bueno
+apropiado
+auténtico
+acertado
+capaz
+adecuada
+decente
+idóneo
+correcto
+adecuado
+nada penoso
+amigable
+pan comido
+sin esfuerzo
+cómodo
+fácil
+amistoso
+cara
+probóscide
+fisonomía
+rostro
+trompa
+rostro humano
+fisiognomía
+portación de rostro
+hocico bn:03116351n
+semblante
+faz
+fisiognómico
+fisionomía
+vulto
+de apariencia profesional
+profesional
+ocupacional
+voluntario
+optativo
+opcional
+electivo
+intolerable
+insufrible
+insoportable
+sin resistencia
+irresistible bn:01706157n bn:02524680n
+soportador
+alentador
+favorable
+afirmativo
+ventajoso
+prometedor
+propicio
+provechoso
+último
+pasado
+orgánica
+orgánico
+enérgico
+energético
+sostenido
+continuo
+sostenida
+constante
+ininterrumpido
+perpetuo
+continua
+incesante
+permanente
+uniforme
+inmutable
+mismo
+invariable
+sónico
+transónico
+rebosante
+repleto
+atestado
+abarrotado
+alterno
+alternante
+radioactivo
+radiactivo
+previsor
+material
+corpóreo
+diploide
+desprevenido
+despreocupado
+imprudente
+crédula
+incauto
+crédulo
+medicinal
+sanitario
+curativo
+saludable sano
+beneficioso
+remediador
+higiénico
+rubicundo
+salubre
+sano bn:02639149n
+sanador
+inofensivo
+terapéutico
+saludable
+ser humano femenino
+contrayente
+pareja bn:00512301n
+humana
+mujer casada
+marido
+señora bn:15851520n
+conyuge
+contrayentes
+cónyuge
+mugier
+sexo femenino
+hembra adulta
+esposa
+esposos
+esposo
+mujer
+consorte
+conyugal
+hembra bn:01661165n
+cónyuges
+género femenino
+inextricable
+secundaria
+incidental
+secundario
+innecesario
+circunstancial
+operativo
+vigente
+no vencido
+actual
+triste
+afligido
+infeliz
+inadecuado
+desgraciado
+desafortunado
+inoportuno
+apenado
+consternado
+desafortunada
+mental bn:01090906n
+molesto
+inconveniente
+incómodo
+ir en el coche de san fernando, un ratito a pie y otro caminando
+garra bn:00363855n
+pata bn:02139352n bn:00749289n bn:01102587n bn:01332585n
+aparatoso
+burdo
+voluminoso
+basto bn:04141007n bn:15807422n
+grosor
+espesor
+grueso
+espeso
+abultado
+aparatosa
+anodino
+anodina
+insustancial
+hueco
+insubstancial
+poco realista
+irreal
+discreto
+diplomático
+sensato
+politico
+prudente
+indirecto
+vicario
+matemática
+matemático
+numérico
+ordinal
+anfibio
+otra bn:03108514n
+otro
+centrípeta
+centrípeto
+pertinente
+oportuno
+inactivo
+parado
+inerte
+lento bn:01730847n bn:16643333n bn:00887642n bn:00986691n
+perezoso
+letárgico
+aletargado
+base bn:17439608n
+cimientos
+fundación bn:03865815n
+álcali
+base vectorial
+código genético
+fondo bn:03501611n bn:00216924n
+alcali
+base numerica
+nucleótido trifosfato
+cimentacion
+álcalis
+tema morfológico
+pedestal
+raíz
+base de hilbert
+fundamento
+nucleótidos
+soporte
+radical
+pie bn:00039345n bn:00062294n bn:15362355n bn:01362956n bn:00045379n bn:00285581n
+cimiento
+base aritmetica
+base numérica
+nucleotido trifosfato
+alcalis
+base de numeración
+base de operaciones
+nucleotido
+peana
+nucleótido
+base de numeracion
+tema bn:01440907n bn:00798964n
+cimentación
+nucleotidos
+base aritmética
+stand bn:02715077n bn:02530558n bn:02627508n bn:03567047n
+eufemístico
+inocuo
+retórico
+impreciso
+oscuro
+indistinto
+obscura bn:02804081n bn:01407953n
+confuso
+oscura
+obscuro bn:03781402n
+crepuscular
+exploratorio
+protector
+preventivo
+proteccionista
+profiláctico
+tónico
+insolente
+descarado
+refrecante
+fría
+fresco bn:00036479n bn:10166238n bn:10494811n bn:02587827n
+fresca bn:03761651n
+frío bn:02583721n
+simple bn:17253322n bn:07575049n bn:00794317n
+irrespetuosa
+irrespetuoso
+vitalizante
+impertinente
+impudente
+vigorizante
+barbecho
+erial
+sin labrar
+sin arar
+sin surcar
+celular
+violento
+con retraso
+tardío
+inmaduro
+posterior
+retrasada
+tarde
+retrasado
+atrasado
+atrasada
+tardio
+penoso
+inquietante
+dolorosa
+perturbador
+preocupante
+lamentable
+doloroso
+angustiosa
+agitado
+angustioso
+asombrante
+turbulento
+serrado
+dentado
+luciente
+claro bn:03551151n
+luminoso
+reluciente
+relumbrante
+resplandeciente
+glaseado
+deslumbrante
+brillante
+bruto
+crudo
+craso
+sexy
+sexi
+magro
+presente
+concienzudo
+consciente
+cuidadoso
+considerado
+listo
+despierto
+atento
+universal bn:01762017n
+amplio
+global
+primordial bn:01070085n
+principal
+general
+completo
+mundial
+ecuménico
+sustancial
+física
+tocable
+físico
+tangible
+ajetreado
+poco pacífico
+inquieto
+intranquilo
+fortuito
+aleatorio
+benefactor bn:00838921n
+imperial bn:00567531n bn:00046103n bn:00193422n bn:16285409n bn:00378151n bn:00392072n
+púrpura
+majestuoso
+efectiva
+regio
+existente
+efectivo
+genuino
+desarreglado
+incapaz
+sucio
+desaseado
+desgarbado
+torpe bn:03537939n
+tosco
+inapropiado
+incompetente
+desorganizado
+desordenado
+vacío
+topless bn:00403026n
+vano
+apelable
+salvo
+aplomado
+seguro aplomado
+asegurado
+cubierto
+pausado
+mesurado
+acompasado
+cuidadosa
+cauto
+cauteloso
+minucioso
+neutral
+imparcial
+desapasionado
+policromático
+insolvente
+desvergonzado
+diurno
+horrible
+desapacible
+odiosa
+incomible
+disgustoso
+ofensivo
+grosero
+malhumorado
+intragable
+desagradable
+irritable
+fastidioso
+antipático
+quejica
+malévolo
+odioso
+aborrecible
+repugnante
+detestable
+insultante
+alterable
+modificable
+inquiridor
+inquisidor
+eficaz
+eficiente
+competente
+ilimitado
+total bn:01222648n
+incondicional
+rotundo
+categórico
+irrestricto
+terminante
+compacto
+cambio
+todo bn:07694235n
+concluido
+entero
+terminado
+lleno
+extenso
+íntegro
+perfecto
+pleno
+llena
+absoluto
+remediable
+afortunado
+exitoso
+triunfador
+mundano
+seglar
+secular
+terrestre
+laico
+terrenal
+temporal
+profano
+tronco bn:14562382n
+restos mortales
+objeto
+cadáver
+estructura orgánica
+campo bn:04140792n bn:14277715n bn:01247226n bn:00775533n bn:04240241n bn:04240932n bn:03407694n bn:03550998n bn:03553045n bn:00202905n
+muerto
+cuerpo muerto
+asociación
+estructura física
+comunidad
+cuerpo
+difunto
+cadáver humano
+corpus bn:15551103n
+corporación
+restos
+calavera bn:16305454n
+teoria de cuerpos
+carcasa
+corpacho
+torso bn:03498643n
+teoría de cuerpos
+fiambre bn:03700604n
+tieso
+objeto físico
+cenizas
+purificado
+limpio bn:00845837n
+preciso
+desprendido
+benévolo
+espléndido
+rumboso
+garboso
+dadivoso
+magnífico
+generoso
+pródigo
+magnánime
+generosa
+caritativo
+astado
+cornudo
+proactivo
+comerciable
+vendible
+impresionable
+no debido
+indebido
+solos
+inigualado
+único
+el único
+inigualable
+incomparable bn:01947669n
+público bn:00544135n bn:10688730n
+abierto
+discreta
+bien
+delgado
+cursi bn:03469744n
+flaco
+fino bn:01279885n
+delicado
+sutil
+esbelto
+semejante
+parecida
+similar
+parecido
+insaciado
+insaciable
+insubordinado
+pechera
+caja torácica
+busto
+melón bn:00495930n
+senos
+seno bn:00752910n bn:02237004n
+tetas
+teta
+pechos
+pectus
+mama bn:15631137n bn:02883842n bn:01978852n bn:02934413n bn:02891303n bn:01191194n bn:03085805n
+pechuga
+macoca
+mamas
+cavidad torácica
+tórax
+pecho
+perecedero
+caduco
+efímero
+intercambiable
+trasmutable
+convertible
+cambiable
+permutable
+transformable
+transmutable
+exacta
+cortés
+correcta
+acertada
+educado
+exacto
+justo
+cívico
+corregido
+cumplido
+malo bn:01722653n bn:03195598n bn:02578504n bn:01004335n bn:03497900n
+mal
+injusto
+profundo
+hondo bn:00566109n bn:03196348n
+profunda
+técnica
+técnico
+proficiente
+desobediente
+sin guión
+extemporáneo
+provisional
+indiferente
+improvisado
+fijo
+estable
+incomprensible
+inconmensurable
+inexplicable
+juicioso
+sabio
+digna bn:00791781n
+digno
+solemne
+meritorio
+merecedor
+decoroso
+adinámico
+resistencia pacífica
+pasiva
+pasivo
+pacífico bn:15620511n
+manejable
+tratable
+permisible
+tormentoso
+borrascoso
+tempestuoso
+específico
+disponible
+utilizable
+desechable
+sincero bn:01214290n
+sésil
+duradero
+útil
+servible
+servicial
+práctico
+funcional
+negro
+ruidoso bn:00427316n
+escandaloso
+ruidosa
+permeable
+discordante
+escote
+canal catiónico
+canal de tv
+canal de riego
+canal bn:17109921n
+canal de comunicaciones
+canales ionicos
+ducto
+activación/desactivación de canales iónicos
+curso del agua
+canal de comunicación
+activación-desactivación de canales iónicos
+canal ionico
+canales iónicos
+canal de comunicacion
+conducto
+canal natural
+canal de television
+estrecho bn:15750867n
+canal iónico
+canal televisivo
+canal de datos
+activacion-desactivacion de canales ionicos
+vía
+canal de televisión
+canal de transmisión
+curso
+canal cationico
+canal de navegación
+productor
+productivo
+generativo
+considerable
+destacable
+importante
+notable
+sensible
+apreciable
+grande bn:00883526n
+endeble
+flojo
+quebradizo
+débil bn:02994754n
+mórbido
+frágil bn:01562967n
+tenue
+tímido
+frangible
+debilitado
+delicada
+rompible
+deficiente
+analógico
+unidimensional
+lineal
+recto
+derecho bn:03761725n
+antidemocrático
+huso mitotico
+huso acromático
+huso acromatico
+huso mitótico
+necesario
+básico
+subyacente
+rudimentario
+fundamental bn:12383747n bn:02697353n
+alcalina
+canónico
+elemental bn:03098754n bn:00146214n bn:00359335n bn:00478382n bn:00526260n
+alcalino
+canónica
+básica
+halagador
+lameculos
+adulador
+halagüeño
+lisonjero
+izquierda
+zurda
+izquierdo
+zurdo
+moderna
+moderno
+contemporáneo
+contemporánea
+negativa
+negativo
+inclemente
+riguroso
+severo
+moral
+ético
+honorable
+honrado
+ética
+impotente
+impotentes
+inseguro
+dudoso
+indeciso
+irresoluto
+auspicioso
+auspiciosa
+contributivo
+contribuyente
+contribuidor
+sumiso
+obediente
+bajo
+humillado
+humilde
+modesto bn:00201545n
+incorrupto
+seductor
+incitante
+embelesador
+magnético
+atractivo
+encantador
+tentador
+encantadora
+embelesadora
+atractiva
+invicto
+apacible
+sosegado
+plácido bn:00427528n
+relajado
+calmado
+tranquilo
+detenido
+calmo
+serena bn:09696924n bn:14926541n bn:16931031n bn:01522452n bn:00915438n
+rutinario
+quieto
+relajante
+monótono
+tranquilizador
+calmante
+sereno bn:17252883n
+septentrional bn:03370262n
+norteño
+indefinido
+indeterminado
+incierto
+arenoso
+arenáceo
+vago
+indefinida
+izquierda politica
+izquierdismo politico
+dirección relativa
+izquierdismo político
+mano izquierda
+izquierdismo
+izquierdista
+izquierda política
+izquierdas
+mano siniestra
+sexual
+inverso
+teórica
+teórico
+antiguo
+mayor bn:01797068n bn:00019333n bn:00499122n
+previa
+anciano
+vieja bn:03453605n
+anterior
+viejo
+precedente
+previo
+anciana
+inexperto
+novato bn:00195635n
+ancho amplio ancha
+amplia
+ancha
+ancho
+largo bn:00216997n bn:00298471n bn:00050032n
+cristalino
+lúcido
+transparente
+diáfano
+límpido
+tejido
+ficticio
+falsa
+adulterado
+imitativo
+engañosa
+engañoso
+artificiosa
+astuto
+falsificada
+insincera
+ilusorio
+imitado
+falso bn:02995528n
+contrahecho falsificado
+fingido
+trapicheado
+falseado
+artero
+desleal
+insincero
+contrahecho
+falsificado
+mañoso
+ilusoria
+poco sincero
+distinguido
+cultivado
+culto
+caballero
+caballeroso
+refinado
+gracioso
+galante
+constipada
+constipado
+estreñido
+astringente
+inadmisible
+inaceptable
+insensible
+genes
+gen bn:00039441n bn:00037629n bn:00068246n bn:00068264n bn:07714243n bn:03166118n bn:16484944n bn:00008793n bn:00032684n bn:00037011n bn:02391088n bn:02472064n bn:01998276n bn:00065888n bn:00009635n bn:00068247n
+cistrón
+gene bn:00019262n bn:00814214n
+pedunculado
+afrodisiaco
+estimulante
+inspirador
+vigorizador
+afrodisíaco
+energizante
+macabro
+desgarrador
+deprimente
+desalentador
+cruel
+apesadumbrado
+desconsolado
+deseoso
+aprensivo
+plumado
+desarrollado
+vivaz
+entusiasmado
+vivo bn:15937498n bn:00257824n bn:01323346n
+animado
+viviente
+sensitivo
+excitado
+avivado
+convencional
+establecido
+vulnerable bn:02663049n bn:03773743n bn:03468821n bn:03458907n
+nacional
+interna
+interior bn:00549521n
+interno
+insalubre
+malsano
+insano
+defectuoso
+antihigiénico
+poco saludable
+enfermizo
+no saludable
+precavido
+tolerante
+indefensible
+indefensable
+liberal bn:00278294n
+indefendible
+abierta
+descubierto
+explícito
+indefenso
+al aire libre
+evidente
+comunicativo
+receptivo
+allelomorph
+alelomorfo
+alelo
+alegre bn:14818108n
+compatible
+ignorante
+inconsciente
+desigual bn:02030560n
+impredecible
+cargo irregular
+desuniforme
+anormal
+dispar bn:01730736n
+desviada
+inusual bn:02344637n
+denticulado
+cargo imprevisible
+desviado
+desnivelado
+irregular
+insólito
+anómalo
+atípico
+disparejo
+desparejo
+anómala
+oculto
+inadvertido
+inobservado
+disimulado
+desapercibido
+invisible bn:16126827n bn:15031193n bn:01257281n
+alarmante
+crítico
+crucial bn:03263586n
+grave bn:06581155n bn:14702636n bn:00214618n
+crítica
+indistinguible
+aferente
+médica
+médico
+adaxial
+ventral
+anticolinérgico
+desabrochado
+despegado
+desabotonado
+ostensible
+obvio
+visible
+pícaro
+taimada
+taimado
+maligno
+lagartona
+lagarta
+sagaz
+malicioso
+ladino
+bellaco
+socarrón
+lagartón
+lagarto bn:03768221n
+zorro bn:01247642n bn:00838230n bn:01003291n
+astuta
+perspicaz
+espectáculo
+muestra de poblacion
+muestra de tela
+modelo bn:01281267n
+modelo conceptual
+presentación
+trozo
+muestra
+exhibición
+especimen
+ejemplar
+señal
+ejemplo
+muestreo en estadística
+dechado
+técnica de muestreo
+muestreo
+degustación
+caso bn:02971733n
+muestra estadística
+muestra estadistica
+muestra de población
+punta bn:00576221n
+cabezazo
+mente
+cabeza bn:03531156n
+sesera
+excepcional
+extraordinario
+singular bn:14997801n
+raro
+cosa bn:16512490n bn:00750164n
+datos
+materia bn:00629694n
+cosas
+equipamiento
+equipo
+persistente
+asiduo
+asíduo
+perseverante
+extranjero
+exterior
+externa
+externo
+recomendable
+aconsejable
+inconfundible
+obvia
+patente
+sencillo
+manifiesto bn:02777570n
+líquido
+líquida
+asexuado
+asexual
+oponible
+adversario
+adversaria
+diametral
+antónimo
+opuesto
+antípoda
+oponente
+superficial bn:01749344n
+poco profundo
+benigna
+benigno
+pálido
+despejado
+franco bn:17977128n bn:04240532n bn:02703161n
+nítido
+nombrado
+oficial
+formal
+monocromático
+ingenua
+cándido
+ingenuo
+residencial
+poderoso
+viril
+vigoroso
+poderosa
+fuerte bn:02279193n
+potente
+emulgente
+emulsión
+emulsificación
+emulsionante
+concentrado emulsionable
+emulsion
+maldecido
+maldito
+frugal
+asequible
+barata
+barato
+cutre
+sórdido
+gacho
+mala bn:00136512n bn:00518945n
+corriente
+sensiblero
+económico
+hortera
+chungo
+económica
+caseoso
+constructivo
+segundo
+éste
+ésta
+postrero
+reciente
+final bn:00034512n
+extremo
+mínimo
+terminal bn:17131484n bn:00184465n bn:21528378n bn:00002260n bn:00076597n
+irrompible
+inquebrantable
+parcial
+discriminador
+adepto
+veterano
+amaestrado
+hábil
+habilidoso
+ducho hábil habilidoso
+entrenado
+diestro
+experto
+experta
+ducho
+perito bn:03447515n
+hemogomina
+desoxihemoglobina
+hemoglobina
+compasivo
+compasiva
+clemente
+redomado
+natural
+no diluída
+puro bn:03450726n
+no diluído
+saturado
+virtuoso bn:01622979n
+contaminado
+impuro
+lascivo
+mugriento
+impúdico
+contaminante
+inmundo
+sucia
+contaminada
+preparado
+ingenioso
+amoblado
+amueblado
+equipado
+vistoso
+brioso
+vital bn:02982998n bn:11293374n
+inoperante
+ineficaz
+inoperativo
+ocioso
+infructuoso
+inoperativa
+inútil vano
+inútil
+fútil
+ineficiente
+inepto
+subordinado
+subordinante
+académico
+estudioso
+universitario
+académica
+erudito
+erudita
+inconquistable
+irreductible
+irreducible
+inequívoco
+unívoco
+sensorio
+sensorial
+absuelto
+libre
+exculpado
+desenganchado
+exonerado
+deflacionario
+deflacionista
+descuidado
+desprotegido
+negligente
+zarrapastroso
+desastrado
+irresponsable
+político
+política
+casto bn:00170058n
+perfeccionista
+exigente
+detallista
+antigua bn:00004671n bn:02436836n
+arcaico
+vetusta
+fechado
+vetusto
+anticuado
+primero
+ex-
+del norte bn:00205508n
+norte
+al norte
+boreal
+distintivo
+típico
+irreparable
+insolucionables
+irremediable bn:00799281n
+inmodificable
+incambiable
+inenmendable
+palpable
+equívoco
+equívoca
+ambigua
+ambiguo
+fantástico
+improbable
+increíble
+inverosímil
+federal bn:00199518n
+común
+mediano
+mutuo
+ordinario
+aburrido
+vernacular
+mediocre bn:01205191n
+vulgar bn:00847630n
+vernáculo
+intermedio bn:03724776n
+mediana bn:01237107n
+intermedia
+medio
+media bn:00234839n bn:00520776n
+medio, a
+desventajoso
+desfavorable
+impropicio
+perjudicial
+desaventajado
+buen
+buena bn:00511512n
+respetable
+segunda
+primario
+primitivo
+imbécil
+patoso
+insignificante
+estúpido
+desmañado
+cretino
+idiota bn:03441324n
+tonto
+bobo bn:01230132n
+desempleado
+desocupado
+inestable
+pendiente
+infinita
+infinito bn:17367590n
+disfemística
+disfemístico
+ada bn:00001232n bn:00400667n bn:01385334n bn:14958499n bn:01438928n bn:01021994n bn:00351384n bn:00482396n bn:00488426n bn:00495906n
+adenosín desaminasa
+insalvable
+invencible
+insuperable
+insalvables
+insalvable insuperable
+dúplex medio
+unidireccional
+registrado
+certificado
+lastimoso
+infortunado
+escaso
+exiguo
+escasa
+desventurado
+pobre
+miserable
+mísero
+cuitado
+desdichado
+raquítico
+jadeante
+maravilloso
+sensacional
+estupendo
+fabuloso
+tremendo
+clamoroso
+fascinador
+brutal
+formidable bn:16691143n
+sorprendente
+genial
+bárbaro
+emocionante
+admirable
+impresionante
+asombroso
+extraordinaria
+fenomenal
+fascinante
+estiloso
+recortado
+grácil
+chic bn:03890936n bn:00497651n
+elegante
+cortado
+inconsecuente
+antagónico
+incompatible
+nuevo bn:00197960n
+nueva
+novedoso
+joven
+prístino
+inaudito
+novedosa
+novel bn:00807913n
+intratable
+incurable
+sospechado
+presunto
+sospechoso
+escrupuloso
+esmerado
+meticuloso
+aceptable
+suelto
+separado
+independiente bn:03836690n bn:02661483n
+sociable
+social
+insoluble
+definitivo
+decisivo
+definido
+determinante
+indiferenciado
+sin diferencias
+físil
+fisionable
+ningún
+discutidora
+argumentativo
+discutidor
+antagonista
+pasable
+espiritual
+pía
+religioso
+religiosa
+pío
+devota
+devoto
+conservado
+preservado
+protegido
+irreverente
+cuantitativo
+cuantitativa
+discontinuo
+barba bn:10335129n
+vibrisa
+mostacho
+bigote
+infalible
+probable
+prospectivo
+previsto
+futuro
+macanudo
+glorioso
+gloriosa bn:00019806n
+ribozoma
+ribosomas
+ribosoma
+fornido
+fornida
+escabroso
+corpulento
+resistente
+cuadrado
+musculoso
+carnudo
+recio
+carnoso
+cárnico
+robusto
+apresto
+captura
+subjetivo
+subjectivo
+apagado bn:00756868n
+apocado
+cacofónico
+con miedo
+temeroso
+asustado
+con temor
+tener miedo
+con susto
+desconcertante
+indomado
+montaraz
+salvaje
+silvestre
+propio
+elegible
+mejor
+excelente
+realzado
+selecto
+incrementado
+superior bn:00203111n bn:00608366n bn:02244465n bn:00186154n bn:00255670n bn:00387499n bn:00398852n
+florido
+subsanable
+reparable
+corregible
+rectificable
+el mundo bn:03336586n
+gaia bn:18120661n bn:02653760n bn:02172465n bn:00036999n bn:03680597n
+mundo
+estado federado alemán
+madre tierra
+estado soberano
+patria bn:02726291n
+estado federado de alemania
+suelos
+globo terrestre
+elemento tierra
+país
+estado de mexico
+suelo
+terreno
+el planeta
+estado federado
+entidad teritorial administrativa de mexico
+territorio
+sol 3
+terra bn:01265992n bn:01938052n bn:03584384n
+tercer planeta
+países
+tierra bn:02642724n bn:17000709n
+globo
+estado alemán
+nuestro planeta
+organización territorial de méxico
+la tierra
+estado mexicano
+suciedad
+perfil edáfico
+planeta azul
+estado
+sol iii
+land alemán
+tierra firme
+hacienda bn:00042421n
+estado de méxico
+⊕ bn:00178793n
+land de alemania
+nación
+dominio
+land bn:09681307n bn:00637933n bn:02279818n
+planeta tierra
+el globo
+finca
+globo terráqueo
+intrépido
+atrevido
+osado
+arriesgado
+temerario
+aventurero
+audaz
+muerta
+estropeado
+violado
+incumplido
+interrumpido
+dañado
+quebrado
+roto
+adulterante
+adulterador
+entrometido
+no deseado
+indiscreto
+indeseable
+ansioso
+nervioso
+ávida
+ilusionado
+ávido
+impaciente
+blando
+susceptible
+suavizado
+suave al tacto
+retentivo
+aire-aire
+del oeste
+hespérido
+al bn:01021212n
+occidental bn:00201361n
+oeste bn:14343565n
+ascendente
+ascendiente
+cariñoso
+adorable
+principiante
+tierno
+inexperto bisoño
+estral
+estroso
+empeorado
+peor
+canceroso
+satánico
+demoníaco
+diabólico
+infernal bn:01323092n bn:03298187n
+malvado
+maléfico
+realista
+realístico
+naturalista
+sangre
+restringido
+limitado
+condicional
+depresivo
+utópico
+persuasivo
+convincente
+agrietado
+curado
+maduro
+madura bn:01081490n bn:17185528n
+extraño
+ignoto
+incógnito
+desconocido
+poco familiar
+anónimo
+inpalpable
+intangible
+impalpable
+creativo
+creativa
+puntual
+repetible
+citable
+quisquilloso
+maniático
+puntilloso
+disolvente
+disolutivo
+disolvente orgánico
+solvente
+diluyente
+fundente
+atrevida
+intrépida
+valeroso
+impertérrita
+impertérrito
+bravo bn:14160326n bn:15197964n bn:01447895n bn:00012841n bn:00299856n
+sin miedo bn:15990300n
+imperturbable
+valiente
+impávida
+impávido
+supremo
+sumo bn:01710250n bn:00075163n
+alto bn:00558655n bn:03567399n bn:03502334n bn:00219441n
+alta bn:00573432n bn:00608409n bn:15240569n bn:01823422n bn:01019764n bn:00253201n
+eminente
+elevado
+senior
+reducido
+corto
+pequeño bn:03816903n
+poco bn:03131845n
+chico bn:09726717n bn:00571169n bn:02591238n bn:00192210n
+parco bn:02372403n
+insuficiente
+introito
+extrañado
+estupefacto
+desconcertada
+perpleja
+perturbado
+perplejo
+inconexo
+estupefacta
+extrañada
+confundido
+desconcertado
+sorprendida
+confusa
+aturdido
+sorprendido
+alejado
+distante
+remota
+allunyat
+lejano
+lejana
+remoto
+panza
+abdomen bn:00000249n
+guata bn:01657332n
+barriga
+vientre
+tripa
+estómago
+baúl
+mano derecha
+derechistas
+derechismo politico
+derecha cristiana
+lateralidad manual
+militante derechista
+derechas
+derecha política
+derechismo político
+derecha politica
+conservadurismo político
+derechista
+mano diestra
+preferencia manual
+derecha
+conservadurismo politico
+derechismo
+impermeable
+a prueba de agua
+frontal anterior
+delantero
+frontal
+amoroso
+cálido
+caliente bn:02975875n bn:00404837n
+afectuoso
+caluroso
+incoherente
+cuestionable
+distinto
+iconfundible
+marcado
+pragmático
+práctica
+optimista
+optimístico
+espacioso
+grata
+desahogado
+confortable
+cómoda
+arbitrario
+manchado
+imperfecto
+enviciador
+adictivo
+aditivo
+requerido
+precisa
+genuina
+legítimo
+auténtica
+viciado
+rancio
+revenido
+privado
+endomorfo
+pícnico
+poliploide
+bucal
+hablado
+oral
+inconformista
+incorrecto
+equivocado
+intraducible
+rosario bn:01898892n bn:01290752n bn:01339933n bn:01320596n bn:01403018n bn:01407507n bn:02522744n bn:03416949n
+espinazo
+dorso
+costera bn:14884257n bn:03384690n
+orilla
+costa bn:01631097n bn:04140326n bn:00775640n bn:12566251n
+ribera bn:15245403n bn:03462973n
+playa bn:03197787n
+espina dorsal
+columna vertebralis
+orilla del mar
+arenal bn:03112532n
+línea de costa
+costas
+linea costera
+espalda
+línea costera
+raquis
+columna vertebral
+línea de la costa
+litoral bn:00051567n bn:01694695n
+cuello bn:01972788n
+pescuezo
+cerviz
+nuca
+regazo
+articulada
+articulado
+beneficiado
+farragoso
+extenuante
+pesado
+incómoda
+cansador
+suplicante
+engorrosa
+cansado
+agotador
+engorroso
+problemático
+automático
+automática
+involuntario
+antiséptico
+temporero
+migratorio
+audible
+perceptible
+oíble
+discernible
+lactosa
+lac bn:03611617n
+misterioso
+místico
+sectario
+normal bn:00543589n bn:00239615n
+perpendicular
+laxo
+presuntuosa
+presuntuoso
+orgullosa
+altivo
+orgulloso
+despectivo
+altiva
+imperioso
+soberbio
+desdeñoso
+arrogante
+soberbio altanero
+intolerante
+angosto
+marginal
+estrecho de miras
+aire elemento
+rio aire
+aire bn:00573618n bn:00002283n bn:03634959n
+aura bn:01906282n bn:03487756n bn:02863167n bn:03084753n bn:00007183n bn:03708179n bn:14477746n bn:02062098n bn:16179061n bn:03229361n
+atmósfera terrestre
+aojo
+mal de ojo
+atmosphere bn:00006807n bn:00169520n
+río aire
+viento
+atmósfera bn:00006807n
+aoajadura
+concentrado
+atenta
+embelesado
+alerta
+absorto
+cuidado
+lucrativo
+rentable
+territorial
+epizoario
+explícita
+expreso
+explícit
+amoldable
+adaptable
+exón
+exon bn:00020369n
+exones
+arbolado
+boscoso
+selvático
+caulescente
+caulinar
+caulinares
+inconstante
+menor
+inferior
+satisfecho
+arado
+labrado
+sanguinolento
+cruento
+sangriento
+ensangrentado
+seco bn:15013130n
+sin leche
+diaforético
+perspiración
+sudación
+sudorífica
+sudorifico
+sudar
+hidrosis
+sudoroso
+sudor
+sudoracion
+sudorifica
+sudorífico
+diaforesis
+sudoresis
+traspiración
+sudoración
+transpiración
+diaforetico
+aconsejado
+circunspecto
+crónico
+crónica
+empedernido
+habitual
+inveterado
+indecoroso
+frívolo
+indecente
+ligero
+dependiente
+afiliado
+adscrito
+conectado
+anexo
+liso
+inhumano
+despiadado
+implacable
+rencoroso
+desalmado
+vágil
+peinado bn:00712666n
+armadura
+estructura de interpretación
+arquitectura
+armazón
+estructura
+marco bn:15840884n bn:01898455n bn:00337628n
+formas musicales
+sistema esqueletico
+osamenta
+estructuración
+forma musical
+patrón
+construcción
+estructura anatómica
+esqueleto humano
+forma
+bastidor
+estructura musical
+conformación
+maqueta
+systema skeletale bn:00036188n
+sistema esquelético
+esqueleto
+inmediato
+contiguo
+contigua
+regenerado
+quirúrgica
+operatorio
+quirúrgico
+asfáltico
+endurecido
+rechoncho
+achaparrado
+duro
+masculino
+predicativo
+original bn:12371918n
+peculiar raro
+curiosa
+rara
+curioso
+peculiar
+extraña
+tramontano
+transmontano
+cercana
+cabe
+próxima bn:15038383n
+próximo
+cerca
+atómica
+atómico
+nuclear
+contundente
+elástico
+elástica
+clavado
+fiel
+fidedigno
+cabello
+cabellera
+pelambre
+pelos
+pelo
+deseable
+dócil
+desemejante
+diferente
+despreciable
+inservible
+sin valor
+sumergible
+determinable
+penetrable
+permisivo
+razonable
+ileso
+indemne
+inteligente
+cuerdo
+ganado bn:00563909n bn:00184188n
+conciso
+lacónico
+abreviado
+concisa
+sucinto
+retraído
+huraño
+asocial
+esquivo
+arisco
+insociable
+racional
+hábil diestro
+especializado
+calificado
+cualificado
+escurridizo
+desplazable
+resbaladizo
+resbaloso
+pabellón
+accesorio
+ala bn:14581675n bn:01263262n bn:01031242n
+comercial
+impenetrable
+inexpugnable
+insegura
+vergonzoso
+peligroso
+peligrosa
+difidente
+riesgoso
+arbitrable
+subsiguiente
+consecuente
+consiguiente
+siguiente
+subsecuente
+concomitante
+ulterior
+resultante
+recíproco
+impopular
+en tierra firme
+acil
+acilo
+grupo acilo
+corrupto
+desacertado
+desaconsejado
+insensato
+adicional
+extra bn:16434410n bn:03730229n bn:02068149n
+de más
+accesional
+iniciador
+primera bn:03304369n
+prematuro
+temprano
+primer bn:01688794n bn:00260294n
+inaugural
+iniciativo
+teatral
+imperativo
+vinculante
+obligatorio
+de atrás
+trasero
+cualitativa
+cualitativo
+aborigen
+nativa
+indígena
+nativo
+correspondiente
+apropiada
+contenido
+reprimido
+restrictivo
+patriótico
+leal bn:00463842n
+importuno
+periférico
+brava bn:00138310n
+arrojado
+corajudo
+envalentonado
+incorpóreo
+inmaterial
+incorporal
+incorpórea
+tirable
+descartable
+impropio
+con sentido
+significativo
+con sentimiento
+significante
+de izquierda
+inamovible
+inmóvil
+inalterable
+estacionario
+prenatal
+∥ bn:00108246a
+paralelo
+paralela
+derivacional
+airado
+rabioso
+enojado
+airada
+enfadada
+enfadado
+anual
+añal
+anal
+artístico
+estética
+estético
+ornamental
+cosmético
+decorativo
+casero
+doméstico
+familiar
+sombrío
+serio bn:00844421n
+átono
+indivisible
+terrible
+espantoso
+atroz
+agonizante
+espantosa
+moribundo
+explosiva
+explosivo
+detonador
+gobierno
+sistema termodinámico
+regímenes
+autoridad
+sistema
+regimen
+orden
+sistema aislado
+régimen político
+regimenes
+ordenación
+disposición
+organización
+sistema termodinamico
+naturaleza
+esquema
+regimen politico
+aparato
+sistema de órganos
+unidad
+régimen
+sistema orgánico
+sistema biologico
+entusiástico
+entusiasta
+sucesivo
+inminente
+venidero
+vecino bn:01262751n
+renovable
+infiel
+antipatriótico
+reconfortante
+sesgado
+oblicuo
+diagonal
+inclinado
+oblicua
+originario
+primitiva
+parejo
+desenrollado
+desenroscado
+llano bn:00565384n
+suave bn:02622066n
+plana bn:02865660n bn:03893925n
+raso
+nivelado
+llana
+plano bn:00728249n bn:00252449n bn:00236376n
+bienvenida bn:01258711n
+bienvenido
+atenuado
+pernicioso
+insidioso
+batoideos
+rajiformes bn:00009039n
+método de la raya
+semirrecta
+partido
+carrera bn:01660412n
+recta
+línea
+metodo de la raya
+raya
+partidura
+ráyido
+batoidea bn:00066314n
+linea recta
+línea recta
+retiro bn:17081739n bn:15191996n bn:02540046n bn:03413426n bn:03472858n
+trazo bn:03086470n
+demente
+mezquino
+subalterno
+trivial
+intrascendente
+minúsculo
+baladí
+nimio
+ineligible
+inelegible
+unitario
+iluminado
+ardiente
+ardiendo
+encendido
+llama
+candente
+indiscernible
+infeccioso
+séptico
+infectado
+fructífero
+fértil
+informal
+párpados
+palpebra
+parpados
+párpado
+parpado
+ralo
+estrambótico
+estrafalario
+inusitado
+extravagante
+excéntrico
+disperso
+cd4 bn:00016919n
+emotivo
+emocional
+descongelado
+lm bn:00051669n
+lúmenes
+apical
+lumenes
+lumen bn:03461558n bn:00051669n
+comprensivo
+desagradecido
+ingrato
+mojado
+empapado
+húmedo
+gaseoso
+precoz
+democrático
+democrática
+variado
+diversificado
+despertado
+despierta
+sorpresivo
+espectacular
+dramático
+chocante
+velado
+servil
+lloroso
+desamueblado
+niñito
+majareta
+ido bn:00045853n
+necio
+chalado
+estúpida
+loco bn:09960937n bn:00140872n bn:00837886n bn:03816782n bn:00496886n
+irrazonable
+majara
+chiflado
+zumbado
+tocado
+sonado
+tarado
+tonta
+vestible
+ponible
+llevable
+consonántico
+consonante
+verbal
+pop bn:00063557n bn:03791418n bn:03159734n bn:00087243v
+popular bn:01245168n bn:01327213n bn:02461212n
+romo bn:17753077n bn:01071986n
+sordo
+desafilado
+invidente
+ciego
+embotado
+cfc bn:00017436n
+freon bn:00036470n
+clorofluorocarburo
+freón bn:00036470n
+clorofluorocarbonos
+clorofluorocarbono
+subsónico
+dactilar
+digital bn:15182937n
+válido
+lícito
+legal bn:01019500n
+amistosa
+amigo
+bondadoso
+amable
+enfermo
+enferma
+impermisible
+inasequible
+no disponible
+inaccesible
+agotado
+reproduciendo genes
+vagina
+aguda
+agudo bn:03266855n bn:03510178n
+pesaroso
+criado
+adoptivo
+chiquito
+enano
+menudo
+diminuta
+diminutivo
+chiquita
+liliputiense
+pequeñito
+diminuto
+regocijado
+feliz bn:03580170n bn:01687595n
+contento
+eufórico
+respectivo
+desconfiado
+receloso
+céntrico
+central bn:03198225n bn:00478772n bn:00552062n bn:00546451n bn:01344893n bn:01894598n bn:00176557n
+centrista
+emprendedora
+emprendedor
+relevante
+provincial
+provinciano
+vocálico
+adiabático
+asociacional
+asociativo
+anórtico
+triclínico
+posible
+potencial
+no santificado
+impío
+usual
+acostumbrado
+acostumbrada
+consuetudinario
+firme fijo
+cavidad oral
+cavidad bucal humana
+cavidad bucal
+boca humana
+nariz bn:02412584n
+rima oris bn:00056135n
+boca bn:14501372n bn:03498066n
+desembocadura
+placentario
+cerebral
+intelectual
+diligente
+graciosa bn:00775367n
+humorística
+cómico
+divertido
+humorístico
+chistoso
+risueño
+asoleado
+soleado bn:03237236n
+cómica
+céntrica
+avara
+rata
+agarrado
+tacaña
+avaricioso
+avaro
+rácano
+cicatero
+tacaño
+roñoso
+consecutivo
+seguido
+irracional
+residuo
+basura orgánica
+eliminación de residuos sólidos
+desperdicios
+basura inorgánica
+desechar
+eliminacion de residuos sólidos
+basura inorganica
+recogida de basuras
+residuos solidos
+deshecho
+residuos sólidos
+rsu
+desecho
+basura
+desechos
+residuo solido
+eliminacion de residuos solidos
+chatarra
+basura organica
+residuo sólido
+recogida de basura
+residuos
+aeróbico
+aerobio
+equitativo
+impermanente
+terminable
+variable
+mudable
+conmutable
+aplicable
+extensible
+nada halagador
+poco halagador
+anulable
+revocable
+destructible
+derrame
+entozoario
+pusilánime
+medroso
+basal
+region umbilical
+pupo
+hipótesis omphalos
+ombligo
+tierra de cinco minutos
+ónfalo
+región umbilical
+omphalus bn:00009800n
+cachube
+progresivo
+paulatino
+gradual
+adicto
+constitucional
+innumerable
+múltiple
+varios
+multitudinario
+innombrable
+infinto
+múltiples
+incontable
+incalculable
+multiple
+nulo
+inválido
+inabordable
+meridional
+sur bn:03121260n bn:03659762n bn:00241587n
+infrangible
+inviolable
+zona
+region geografica
+region
+zona geográfica
+área
+área geográfica
+zona geografica
+regiones
+parte
+región geográfica
+región
+standard bn:17192460n bn:17377133n
+estándar
+vasta
+espaciosa
+vasto bn:03598192n
+reinante
+predominant
+dominante
+prevalente
+predominante
+dirigente
+gobernante
+prestigioso
+irrepetible
+cobarde
+vil
+miedosa
+miedoso
+tradicional
+mutable
+distinta
+cambiante
+inconcreto
+inexacto
+absorbente
+quejicoso
+neto bn:08431426n
+blanco bn:03786726n bn:00557049n
+albar
+blanca bn:02627295n bn:00203279n bn:14337874n
+albo
+caucásico
+periódico
+comprimible
+compresible
+escueto
+sin adornos
+liso y llano
+entorno
+medios de comunicación masivos
+medio de comunicación
+corazón bn:00547705n bn:16851325n
+utillaje
+punto equidistante
+método
+medio nutritivo
+medios
+camino bn:16151587n bn:01247176n bn:01424846n bn:03503305n
+medios de comunicacion masivos
+medios de comunicación
+centro bn:03412698n
+vía de comunicación
+medios masivos de comunicacion
+mitad
+modo bn:02145324n
+instrumento
+instrumental bn:00046973n
+medio de comunicacion
+medios de comunicacion de masas
+mass media
+medios de comunicacion
+mcm bn:00459237n bn:03818879n
+medio de difusión
+via de comunicacion
+núcleo
+medio de difusion
+manera
+medio de cultivo
+medios masivos de comunicación
+medios de comunicación de masas
+punto medio
+punto central
+creciente
+abstracto
+característico
+característica
+lindo bn:01037470n
+guapo bn:03177096n
+cautivador
+bella bn:01125631n bn:15326959n bn:03550079n
+bonita bn:00199053n
+hermosa bn:00548477n bn:01399097n
+hermoso
+bello bn:00747238n bn:01840323n
+precioso
+deleitoso
+lavable
+ventilado
+curable
+inigual
+organizado
+pulcro
+ordenado
+de apertura
+preliminar
+introductorio
+inicial
+hídrico
+rendido
+fatigado
+exhausto
+extenuado
+antrorso
+zarpa
+mano bn:00810973n
+manus bn:01364882n bn:14140941n
+palma bn:02201426n
+reparto
+picante
+salado bn:00556712n
+salada
+incompleto
+inacabado
+descabal
+superable
+posparto
+postnatal
+divisible
+leñador
+lenador
+madera de combustible
+leña
+recogida de leña
+perennifolia
+perennifolio
+perenne
+verosímil
+creíble
+templado
+tibio
+abreviada
+inflacionista
+inflacionario
+irrepresentable
+sólido
+rápida
+expedito
+raudo
+rápido
+expedita
+veloz
+ágil
+atributivo
+prenominal
+órgano olfactivo
+olfato
+orificio nasal
+imparable
+poco gentil
+inflexible
+poco atento
+poco amable
+poco servicial
+intransigente
+síncrono
+descriptivo
+sincrónico
+hipertónico
+quimico
+químico
+quimica
+química
+caballete
+tablero
+pons bn:00771850n
+puente troncoencefálico
+protuberancia
+protuberancia anular
+bóveda bn:03421224n
+puente de mando
+anexo:puentes romanos
+tabique nasal
+puente troncoencefalico
+puente
+puente de varolio
+anestroso
+residente
+rítmico
+no estreñido
+ajustado
+regulado
+elegido
+alternativa
+resolución
+respuesta
+opción
+decisión
+disolución
+resultado
+solución
+elección
+no derivado
+inorgánica
+inorgánico
+vegetativo
+vegetal bn:03405171n
+socialista
+chicharra
+voluble
+locuaz
+prolijo
+verboso
+hablador
+inadvertible
+imperceptible
+empírico
+empírica
+inicuo
+enfático
+agresivo
+maleducado
+descortés
+rudo bn:03193477n
+soez
+incivil
+lodazal
+légamo
+barro bn:01898550n bn:02884611n bn:00772124n bn:16164316n bn:14522707n
+lodo
+vicugna bn:00040078n bn:15572290n
+cieno
+genus lama
+barrizal
+fango
+lama bn:00038381n bn:00135995n bn:00775645n bn:00049751n bn:03416045n
+mud bn:00019625n bn:02900191n bn:00615341n bn:00056212n
+fangal
+género lama
+competitivo
+comparativo
+relacionado
+relativo
+excitable
+extraterritorial
+del este
+asiático
+oriental bn:03290831n
+plomo
+número atómico 82
+pb bn:00061132n bn:00006915n bn:00061131n
+coloreado
+colorado bn:00017119n bn:15270720n bn:01905694n bn:00844152n
+cromático
+esquemático
+agrario
+agrícola bn:00652903n
+rural
+admisible
+forastero
+foráneo
+suertudo
+bienaventurado
+vestigial
+rastro
+organo vestigial
+órgano rudimentario
+órgano vestigial
+rudimento
+pista bn:15150734n
+organos vestigiales
+organo rudimentario
+estructura vestigial
+órganos vestigiales
+vestigio
+vestigio evolutivo
+noble bn:00287597n bn:01062951n bn:15858652n bn:00490973n
+señorial
+imponente
+residuo metálico
+chatarreria
+barreduras
+sobras
+residuo doméstico
+desperdicio alimenticio
+chatarrería
+escoria
+migajas
+impureza
+acentual
+acentuado
+monoaural
+conclusivo
+influyente
+esencial bn:03036753n
+concluyente
+postguerra
+posguerra
+descontento
+contrariado
+disgustado
+insatisfecho
+cementera
+cementos dentales
+cemento dental
+microconcreto
+pegamento
+torre cbc
+concreto
+empaste
+hormigón
+cemento
+cementum
+aglomerado rígido
+hormigon
+maniobra de flanco
+ataque envolvente
+vuelo de las aves
+vuelo de ave
+flanco
+costado
+lado
+analítica
+analítico
+factible
+realizable
+alcanzable
+sostenible
+de improviso
+repentina
+precipitado
+repentino súbito
+brusco
+repentino
+abrupto
+súbito
+reactivo
+proteina
+proteína
+proteínas
+sororal
+fraterno
+fraternal
+erróneo
+opaca
+opaco
+tibia bn:03886921n bn:03872389n
+cachondo
+muy caliente
+unilateral
+hecho en casa casero hechizo
+responsable
+vuelto hacia atrás
+azonal
+tierra-aire
+áspero bn:03825845n
+calloso
+injurioso
+prejudicial
+dañino
+nocivo
+dañoso
+lesivo
+perniciosa
+nociva
+insaturado
+no saturado
+ptgs2
+impecable
+inaudible
+retornable
+reintegrable
+destacado
+paciente
+cromosoma
+cromosomático
+cromosómico
+cromosomática
+genóforo
+número cromosómico
+dianthus hinoxianus
+materno
+natal bn:03506195n
+decrépito
+femenino
+feble
+irritante
+agresiva
+belicoso
+beligerante
+provocador
+hipertrofiado
+on bn:14899407n
+sindicalista
+sindical
+alcohólico
+alcoholizado
+alcohólica
+copiosa
+bastante
+colmado
+copioso
+cuantioso
+urbano bn:14568129n
+naciente
+monoovular
+dicigótico
+monocigótico
+univitelino
+idéntico
+biovular
+alterado
+medulla oblongata
+bulbo raquídeo
+médula oblongada
+bulbos
+bulbo raquideo
+bulbillo
+médula oblonga
+medula oblonga
+medula oblongada
+medula oblongata
+bulbo
+asistemático
+avariento
+avarienta
+mezquina
+codiciosa
+los maniáticos
+avariciosa
+acaparador
+adquisitivo
+codicioso
+nominal
+encubierto
+extinguible
+perinatal
+tóxico
+sueño
+adormilado
+adormecido
+somnoliento
+soñoliento
+inarticulado
+conjunto
+colectivo
+absoluta
+laborioso
+espinoso
+firme
+difícil
+arduo
+fatigoso
+dura bn:01524049n
+fragmento de metal
+ineducable
+testaruda
+contumaz
+rebelde bn:01231578n bn:02458787n bn:02475001n bn:03210597n bn:03474415n
+pertinaz
+incorregible
+insumiso
+testarudo
+desafiante
+ingobernable
+terca
+obstinada
+obstinado
+recalcitrante
+provocativo
+terco bn:00118878n
+resistible
+desorganizada
+indisciplinado
+alocado
+repulsivo
+fechable
+datable
+noético
+consuntivo
+implícita
+implícito
+polvo bn:03168766n
+río po
+rio po
+po bn:00006892n bn:00006917n bn:00075837n bn:00049550n bn:00083934v bn:00178032n bn:01057337n bn:00582695n bn:03985906n bn:00046303n bn:00085252v bn:00093903v bn:00098909a
+polonio
+número atómico 84
+polvos
+irreversible bn:02352472n
+rocío bn:14485212n
+rocio bn:01057117n bn:14485212n
+invulnerable
+magnate de medios
+gaceta
+publicaciones periódicas
+papel de periódico
+editor de periódico
+prensa escrita
+revista
+diario
+vespertino
+publicación periódica
+propietario de medios
+papel prensa
+publicaciones periodicas
+publicacion periodica
+empresario de medios
+perentorio
+calmada
+silente
+pacífica bn:00199997n
+tranquila
+silencioso
+silenciosa
+perceptivo
+exento
+nocturno bn:15289341n
+presidencial
+añadido
+recuperable
+reutilizable
+reciclable
+flexible
+sin manías
+acomodaticio
+conciliador
+sin problemas
+innominada
+innominado
+inidentificado
+volátil
+acreditado
+revolucionaria
+innovador
+revolucionario
+ofensiva
+arbóreo
+costoso
+caro bn:00537611n bn:03174962n bn:00328957n
+papila
+truculento
+horripilante
+horroroso
+espeluznante
+hórrido
+pluridimensional
+multidimensional
+retráctil
+curvado
+curvo
+privilegiado
+dotada
+talentoso
+dotado
+talentosa
+alborotado
+tumultuoso
+perturbante
+revuelto
+facultativo
+polar bn:03821322n
+árctico
+gélido
+glacial
+ártico
+ártica
+gravable
+imponible
+inconcebible
+impensable
+inimaginable
+imposible
+puerta
+porta bn:00059100n bn:00713738n bn:01258352n
+agujero
+abertura bn:02654413n
+orificio
+cavidad
+líquido refrigerante
+refrigerante
+inextinguible
+destructor
+demoledor
+devastador
+destructivo
+aminoácido
+suficiente
+adaptativo
+adaptativa
+procedimental
+procesal
+procedural
+paranormal
+extrasensorial
+substancial
+termoplástico
+glotón
+acuática
+fluvial
+acuático
+marítimo
+costero bn:01265799n
+atrofiado
+rígido
+apretado
+tenso
+tirante
+producto de reacción
+multiplicar
+capacidad de proceso
+producción
+mercancías
+producto químico
+mercadería
+artículo
+mercancía
+género
+producto
+multiplicación
+staccato bn:03091164n
+anabático
+embargable
+adosable
+sujetable
+intersticio
+comarcal
+local
+infantil
+escalable
+exportable
+prevenible
+evitable
+aventurado
+retrospectivo
+representativo
+juguetón
+plausible
+cooperativo
+progresista
+declarado
+presentado
+flexional
+flexivo
+inflexional
+flexionado
+astilla
+dictiostela
+eustela
+actinostela
+esquirla
+estela bn:03491258n
+atactostela
+hostil
+antipática
+concertado
+unido
+combinado bn:03796558n
+coordinante
+agrupado
+coordinado
+cumplidor
+confidente
+fidedigna
+de confianza
+confiable
+fiable
+perdonador
+misericordioso
+conforme
+irreemplazable bn:00169925n
+insustituible
+macizo
+zonal
+levantado
+individual bn:07573239n
+única
+solo bn:03675782n bn:15912198n bn:00570951n bn:14791374n bn:06527689n bn:15859570n bn:01686186n bn:01957928n bn:02257805n bn:01545497n bn:03327575n bn:00930845n bn:03894850n bn:00864906n bn:03335303n bn:03438698n bn:00072745n bn:03650675n bn:00375828n
+solitario
+privada
+espumoso bn:00844196n
+efervescente
+parable
+impregnación
+racial
+particular
+personal
+titubeante
+vacilante
+afilado
+puntiagudo
+inalterado
+intacto
+pintable
+marroquinería
+cuero bn:00560030n bn:01506278n
+cabritilla
+chivo
+pelaje
+cabrito
+piel
+savia bn:15634722n bn:02288732n bn:00855959n
+zumo de fruta
+succus bn:00048535n
+jugo
+jugo de frutas
+jugo de fruta
+zumo
+vigilante bn:00334899n bn:03659523n
+alerto
+fosa axilar
+sobaco
+axila
+punitivo
+rimbombante
+fastuoso
+ostentoso
+pretencioso
+plegable
+pulido
+lustroso
+violable
+atareado
+en uso
+ocupado
+tal
+así
+escrito
+cogollo
+piedra semipreciosa
+gema bn:02231018n
+gemas
+piedra
+gemma
+vástago
+pimpollo
+yema
+brote
+retoño
+yema del huevo
+piedras preciosas
+piedras semipreciosas
+piedra preciosa
+yema de huevo
+joya bn:03787591n bn:02497206n
+sinapsis
+botón presináptico
+sinapsis quimica
+boton presinaptico
+postsinápticas
+sinapsis química
+boton presináptico
+botón presinaptico
+postsinapticas
+valioso
+desmemoriado
+olvidadizo
+impersonal
+pis bn:00800367n
+pipí
+orines
+aguas
+orina
+orín
+meado
+taxonómico
+sistemático
+metódica
+sistemática
+metódico
+individualizado
+cíclico
+bendecido
+bendito
+fehaciente
+fiero
+incontrolado
+cimarrón bn:01749163n bn:01749757n bn:00019103n
+feroz fiero
+asilvestrado
+ferino
+feroz bn:03015084n
+apocrino
+manco
+hoyuelo
+ps bn:00063810n bn:03574453n bn:00064991n bn:00063467n
+poly bn:00063467n
+poliestireno
+habiloso
+irrelevante
+ortogonal
+preparación
+formulación
+concéntrico
+concéntrica
+homocéntrico
+equilibrado
+meollo
+enjundia
+corazón humano
+extracto
+esencia
+quid bn:03431606n
+duramen bn:00029165n
+médula
+alma bn:21318895n bn:03314046n bn:00560651n bn:01159218n bn:01957987n bn:17317597n bn:17352752n bn:00187943n bn:00205299n bn:02010539n bn:00219392n bn:00278771n bn:00309919n bn:00395745n bn:00410705n
+sustancia
+corazon humano
+medula
+repetitivo
+redundante
+diente
+terminos anatomicos de localizacion
+incisivos
+diente incisivo
+terminologia anatomica de localizacion
+incisivo
+terminología anatómica de localización
+términos anatómicos de localización
+dens incisivus
+paleta
+esporádico
+adoptable
+remunerado
+pagado
+diestra
+alado
+accesible
+abordable
+infértil
+yermo bn:15046995n
+infructífero
+estéril
+improductivo
+infecundo
+inalienable
+indigno
+inmerecido
+imprimible
+publicable
+vena
+flebología
+aleaciones
+metal bn:00043479n bn:13814789n bn:03874620n
+electronegatividad
+aleación
+metalicidad
+explicable
+objetivo
+desequilibrado
+desquiciado
+loca bn:02229145n
+defensivo
+entrante
+reentrante
+indispensable bn:02257989n
+sustantivo
+imprescindible
+profético
+proximal
+multiforme
+multifacético
+diverso
+corticoide
+corticosteroides
+corticosteroide
+corticoesteroide
+corticoides
+prensil
+huesudo
+monoclínico
+piadoso
+exotérico
+miembro extremidad
+miembro
+extremidad
+tiramina
+nato bn:00056978n bn:03804554n bn:03413962n
+distópico
+fatal
+cultivable
+arable
+lavorable
+de cultivo
+labrantío
+cultivada
+frecuente
+alfabética
+alfabético
+reverente
+sobrecogido
+incongruo
+disparate
+incongruente
+impune
+reanimado
+reactivado
+reavivado
+excitante
+doble
+compuesto
+biauricular
+binaural bn:01982853n
+imperdonable
+inexcusable
+cintura
+talle
+prescindible
+dispensable
+excusable
+venial
+acicular
+declarativo
+asertiva
+asertivo
+agente espesante
+agente gelificante
+agentes espesantes
+espesante
+anatoxina
+toxoide
+fraccionario
+tóxica
+ptgs1
+cox1
+cox-1 bn:00023425n
+cyclooxygenase
+cox 1
+ciclooxigenasa 1
+ecuatorial
+ponderable
+representante
+representacional
+desaconsejable
+dulce bn:15381551n bn:00427884n
+afectuosa
+poco ilustrado
+genus conium
+genus cicuta
+cicuta bn:00019071n
+conium bn:00021868n bn:15978903n
+conium maculatum bn:00014756n
+filial
+hilio
+no excitado
+inánime
+inanimado
+manual
+anaerobio
+anaeróbico
+sien bn:00324885n
+expresable
+declarable
+decible
+descriptible
+anticlímax
+morena bn:00769226n bn:03863953n
+castaño
+dorado bn:01479434n
+dorada
+café
+parda
+marrón
+moreno bn:01660143n bn:01967010n bn:16119393n
+pardo bn:03205622n
+bruno bn:01179197n bn:15570762n bn:01437937n bn:14766991n bn:03502927n bn:01039568n bn:00390973n
+atezado
+pardusco
+materia colorante
+colorido
+apariencia
+tinte
+viso
+colorante
+gama bn:14999607n bn:00191887n bn:00246697n
+semblanza
+material colorante
+color bn:07525077n bn:18101346n bn:01238540n bn:07837030n bn:01892011n bn:00518807n
+pigmento
+coloración
+color del vino
+negra
+tez
+matiz
+armado
+manufacturado
+sintético
+aire-tierra
+comprensible
+entendible
+inteligible
+innegable
+indubitable
+irrefutable
+incuestionable
+incontestable
+incontrovertible
+tolerable
+inagotable
+distinguible
+sacerdotal
+endémica
+endémico
+controvertido
+controversial
+polémico
+controvertida
+disuasivo
+horrorosa
+disuasiva
+disuasorio
+complejo
+inutilizable
+complicado
+complexo
+operable
+racemoso
+dáctilo
+dactilo
+dedos
+dáctilos
+epimedes
+digiti manus
+dedo
+dactilos
+dedos de la mano
+dedo de la mano
+dígito
+tratado
+con tratamiento
+conquistable
+ojo
+corazón financiero
+central business district
+centre bn:00164637n bn:13860973n bn:00017204n bn:03271050n
+centro financiero
+distritos financieros
+distrito financiero
+distrito central de negocios
+centro de ciudad
+corazon financiero
+centro-valle de loira
+centro ciudad
+centro nervioso
+downtown bn:01438017n bn:01602810n bn:13916184n bn:03437503n bn:00278283n
+cbd
+infrecuente
+superfluo
+indeseado
+demasiado
+excedente
+excesivo
+sobrante
+aspecto de musica
+aspecto de música
+elemento
+element bn:00030300n
+aspecto musical
+elemento químico
+componente
+factor bn:03781656n
+elemento musical
+ingrediente
+integrante
+constituyente
+aromático
+oloroso
+odorífero
+perfumado
+fragante
+saturnino
+adusto
+desabrido
+agrio
+apesadumbrada
+taciturno
+hosco
+retraïdo
+austero
+lúgubre
+descorazonador
+gramatical
+shunt
+derivación
+membretado
+continuado
+contínuo
+repetido
+recurrente
+acrilamida
+dna bn:00026301n bn:15350727n bn:03066956n
+adn bn:00832154n
+ácido deoxirribonucleico
+ácido desoxirribonucleico
+adn bicatenario
+cesante
+telómeros
+telomeros
+telomero
+telómero
+oleosa
+paniculo adiposo
+panículo adiposo
+aceite lubricante
+oleoso
+tejido graso
+tejido adiposo subcutáneo
+grasa
+tejido adiposo
+lipoideo
+grasas
+inespecífico
+eferente
+psicoactivo
+psicotrópico
+gregario
+alomorfo
+poco elástico
+no elástico
+inelástico
+pegajoso
+expansiva
+expansivo
+fluido biologico
+estado animico
+fluido corporal
+temperamento
+estado de ánimo
+humor bn:00045202n
+fluido biológico
+sentido del humor
+liquido biologico
+líquido biológico
+estado de animo
+estar
+estado anímico
+ánimo
+clima
+reversible
+nada crítico
+no crítico
+cismontano
+abaxial
+dorsal
