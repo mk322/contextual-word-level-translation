@@ -1,0 +1,4355 @@
+dramatización
+naipes
+retroceso
+barajas bn:01309592n bn:17327756n
+juegos por dinero
+representación
+juego de apuestas
+culatazo
+cartas
+juegos de apuestas
+juego por dinero
+actuacion
+juego
+naipe
+interpretación
+apuesta
+rebote
+jugada
+baraja
+carta bn:17015712n bn:13935832n
+actuación
+repercusión
+ludo bn:00052260n
+ayuda
+apoyo
+democracia
+república
+estado federado
+tierra bn:02642724n bn:17000709n
+estado mexicano
+estado de méxico
+estado federado de alemania
+land de alemania
+estado
+land bn:09681307n bn:00637933n bn:02279818n
+país
+estado de mexico
+nación
+estado alemán
+organización territorial de méxico
+estado federado alemán
+res publica bn:03404222n
+pueblo bn:01756988n bn:00065132n
+entidad teritorial administrativa de mexico
+estado soberano
+países
+land alemán
+territorio
+sudamerica
+sudamérica
+américa meridional
+américa del sur
+suramérica
+america del sur
+suramerica
+américa del sud
+south america
+pintado
+array bn:00005869n
+imagen
+tabular
+tablero
+encerado
+pintura artística
+vector bn:02756908n
+pizarron
+vectór
+gráficas estadísticas
+grafica
+grafico
+pintura
+pizarra bn:00267626n
+matriz bn:14970465n bn:00705347n
+gráficos
+gráficos estadisticos
+blackboard bn:00453345n
+arrays
+hoja de datos
+pintor
+arreglo
+graficos
+esquema
+lienzo
+formación
+graficos estadisticos
+graficas estadisticas
+pizarrón
+escena
+gráficos estadísticos
+pintora
+cuadro
+fotograma
+graficas
+gráfico
+elemento de matriz
+graficos estadísticos
+orden
+clave bn:02110618n bn:00780461n
+tabla bn:01467463n
+gráfica
+grado musical
+nivel de burbuja
+grado bn:01241860n bn:03355049n
+nivel
+aeronave
+aeroplano
+avión bn:00495874n
+concurrentes
+reunión
+reunión grupal
+encuentro
+concurrencia
+congreso
+convención bn:00157282n
+liga
+puente de teleconferencia
+llamada de conferencia
+alianza bn:01657558n
+liga deportiva
+convencion bn:00157282n
+conferencia
+llamada en conferencia
+dato
+informacion
+información
+data bn:03249037n bn:01516669n bn:02296834n
+datos
+noticia
+protesta
+queja
+reclamación
+reclamo
+querella
+semana
+semana de trabajo
+fin de semana
+semanal
+septenario
+semana laboral
+hegemonia
+hegemónico
+hegemonía
+hegemónica
+hegemón
+clima
+américa central
+centroamérica
+organizaciones
+organizativa
+ordenación
+estado confesional
+gobernanza
+administración
+constitución bn:01278272n bn:16575846n bn:03319878n
+administración pública
+gerencia
+establecimiento
+dirección
+religión de estado
+iglesia estatal
+sistema
+iglesia oficial
+organización
+organizar
+fundación bn:03865815n
+sociedad
+iglesia establecida
+disposición
+organizativo
+caso bn:02971733n
+vez bn:00510668n bn:00510667n
+modelo bn:01281267n
+muestra
+ejemplo
+modelo conceptual
+dechado
+ocasión
+representante
+instancia
+ejemplar
+inmigrante
+inmigrado
+expatriado
+largo tiempo
+mucho tiempo
+edad geológica
+época
+era bn:01325584n bn:21652728n bn:00838707n bn:03571853n
+edades
+término
+edad
+vencimiento
+periodo histórico
+período histórico
+plazo
+año
+cita
+años
+ano tropical
+ano trópico
+año solar
+ano tropico
+año trópico
+anu bn:02218148n bn:00004792n
+año tropical
+ano solar
+an bn:00003718n bn:00003522n bn:00003542n bn:00003551n bn:00003554n bn:00004556n bn:00064249n bn:00079003n bn:00091986v bn:07978075n bn:07727211n bn:07564063n bn:06199114n bn:00004792n bn:00003549n bn:14141803n bn:00020164n bn:00848147n bn:00025253n bn:00008363n bn:00007181n bn:12446682n bn:00068762n bn:00377560n bn:00100902a bn:00003548n bn:00007583n bn:00016403n bn:00025233n bn:00096979a bn:00100903a
+año tropico
+ano bn:00000510n
+participación
+contribución
+aportación
+ventas bn:17162605n
+facturación
+renta fija
+ingresos anuales
+ingresos
+retorno
+departamento de ventas
+beneficio
+eurocopa
+euro bn:00031888n
+eur bn:00031888n
+€ bn:01037827n bn:00031888n
+presupuesto
+presupuestar
+credito de gasto presupuestario
+crédito de gasto presupuestario
+presupuestado
+biográfico
+vida bn:03068908n bn:03461131n bn:03728475n
+videojuego
+biografia
+juego de ordenador
+biografico
+biográficos
+biografias
+toda la vida
+biografías
+juego de computadora
+existencia
+animación
+biografía
+juego de video
+biograficos
+comida
+cena
+hoteles
+albergue
+industria hotelera
+hotel bn:09724738n bn:00533020n bn:01874691n bn:03887412n bn:03834279n bn:00440580n
+hora del día
+h bn:02786219n bn:00042371n bn:00042373n bn:00251329n bn:07720905n bn:00554284n bn:01434124n bn:03752566n bn:01939172n bn:03316299n bn:14774737n bn:14982406n bn:00043948n bn:00043249n bn:03349220n
+hora bn:03086224n bn:12564670n
+60 minutos
+hr bn:16484494n bn:16555971n
+organo jurisdiccional
+corte bn:15430900n
+juzgado
+organo judicial
+sala de justicia
+órgano jurisdiccional
+corte de justicia
+tribunal de justicia
+órgano de justicia
+tribunales
+tribunal bn:15750202n
+tribunales de justicia
+órgano judicial
+organo de justicia
+tema bn:01440907n bn:00798964n
+proceso
+litigio
+acción
+caso judicial
+proceso judicial
+asunto
+cosa bn:16512490n bn:00750164n
+causalidad
+juicio
+cuestión
+demanda judicial
+argumento
+causa bn:01827365n
+materia bn:00629694n
+pleito
+preocupación
+demanda
+aspecto
+caso legal
+sistema termodinámico
+unidad
+sistema aislado
+naturaleza
+sistema termodinamico
+media bn:00234839n bn:00520776n
+media muestral
+esperanza matemática
+valor esperado
+promedio
+media aritmética
+valor medio
+esperanza matematica
+media estadistica
+media poblacional
+término medio
+media estadística
+congrua
+curatos
+vicario
+secretaria de estado
+parroco
+pastor protestante
+ministerio
+eclesiástico
+reverendo
+consejería
+pastor bn:01072478n bn:10170427n
+ministerios
+secretaría de estado
+sacerdote
+curato
+cura de parroquia
+ministerial
+departamento ministerial
+cura bn:16760897n
+ministro
+clérigo
+párroco
+rector
+cura párroco
+cura parroco
+sacerdote católico
+pastora
+oro negro
+keroseno
+petróleo crudo
+petróleo bruto
+petróleo mineral
+crudo
+petróleo
+petrolífero
+acordes de piano
+convenio
+armonía
+pacto
+protocolo
+acuerdo internacional
+avenencia
+acorde mayor
+acorde menor
+tratado
+contrato
+concordancia
+tratado internacional
+concertación
+denuncia
+acuerdo
+acorde musical
+compromiso
+concordancia gramatical
+acordes
+acorde
+postura
+cofradía
+corporación medieval
+corporación de oficios
+gremio de artes y oficios
+corporativa
+corporación
+compañía
+casa
+corporación de artes y oficios
+empresa
+resistencia bn:03417001n
+corp
+estancia bn:01439100n bn:03768070n bn:03299393n bn:00429345n
+colegio
+firma
+club
+clube
+fraternidad
+logia
+corporativo
+asociación gremial
+gremio de artesanos
+empresas
+sociedad empresarial
+gremio
+asociación
+sistema gremial
+sociedad corporativa
+lodge bn:00544278n
+descubrimientos
+descubrir
+descubrimiento legal
+descubrimiento
+hallazgo
+interés
+lookup table
+investigación
+investigación científica
+encuesta
+búsqueda
+exploración
+estudio
+busca bn:03502412n
+cacheo
+atención
+investigacion
+toma de tierra
+terra bn:01265992n bn:01938052n bn:03584384n
+recalada
+puesta a tierra
+tierra firme
+globo
+terreno
+sol iii
+el globo
+madre tierra
+sol 3
+la tierra
+tercer planeta
+perfil edáfico
+⊕ bn:00178793n
+gaia bn:18120661n bn:02653760n bn:02172465n bn:00036999n bn:03680597n
+aterrada
+masa
+planeta azul
+globo terrestre
+nuestro planeta
+mundo
+suelo
+globo terráqueo
+el mundo bn:03336586n
+suelos
+el planeta
+suciedad
+patria bn:02726291n
+planeta tierra
+investigadora
+investigador
+jueves
+muerte
+asesinato
+homicidio
+muerte por tortura
+homicidio calificado
+homicida
+pijo
+miembro extremidad
+pene bn:02153116n
+falo
+tranca
+poronga
+integrante
+poste
+papirola
+pirulo
+verga
+pija
+pipe bn:00753532n
+pito
+pirulo pito
+chota
+miembro
+polla bn:00676529n bn:01686633n bn:03447521n
+carajo bn:03245184n
+garompa
+extremidad
+pendejo
+pirula bn:00506234n
+grupo funcional
+dinastica
+casa real
+miembro de la familia
+tribus bn:01703631n
+casas regias
+dinástica
+unidad familiar
+dinastia
+hogar
+saga bn:02650752n bn:17171720n bn:15882839n bn:02849017n bn:14180266n bn:00162504n bn:02346860n bn:14480780n bn:00068819n bn:03533325n
+grupos funcionales
+familia bn:03603185n bn:00032896n bn:14859793n bn:14918471n
+grupo de la tabla periodica
+parientes
+casa regia
+dinastía
+dinastía real
+dinastía regia
+familia biológica
+línea familiar
+grupo
+pariente
+familiar
+dinásticos
+linaje
+grupo de la tabla periódica
+tribu
+núcleo familiar
+hermandad
+radical
+dinástico
+familia biologica
+dinasticos
+casas reales
+casa de su magestad
+casa de su majestad
+dinastico
+grupo químico
+menaje
+clan
+clanes
+família
+río connecticut
+rio connecticut
+conneticut
+connecticut bn:00021904n
+finalización
+callejon bn:01999176n
+callejón
+impasse
+conclusión
+cul-de-sac bn:00574048n
+terminar
+finalizar
+terminación
+final bn:00034512n
+acabar
+cierre
+fin
+experto
+juez
+jueza
+magistrado
+árbitro
+togado
+pena capital
+ejecución
+castigo capital
+pena de muerte
+juicio con jurado
+jurado bn:00172254n
+problema bn:01731068n
+dificultad
+complicación
+obstáculo
+impedimento
+pega
+banco
+sucursal bancaria
+banca bn:02304182n
+tener la cuenta en
+casa bancaria
+entidad bancaria
+bancos
+entidad financiera de depósito
+hacendista
+financiero
+moneyman bn:00034544n
+financista
+bien raíz
+bien inmueble
+bienes raíces
+bienes inmuebles
+inmobiliaria
+inmueble
+estado de la materia
+estado de agregacion de la materia
+provincia
+provincias
+zona de ventas
+estado físico
+estado de agregación de la materia
+estado federal
+fannie mae bn:00033638n
+federal national mortgage association
+freddie mac bn:00033911n
+corporación federal de prestamos hipotecarios
+corporacion federal de prestamos hipotecarios
+freddy mac
+fhlmc bn:00033911n
+corporación federal de préstamos hipotecarios para viviendas
+corporación federal de préstamos hipotecarios
+federal home loan mortgage corporation
+corporacion federal de préstamos hipotecarios
+gravamen
+hipotecas
+mutuo
+contrato de mutuo
+hipotecante
+credito hipotecario
+prestamo hipotecario
+gravámen
+hipoteca
+hipotecaria
+contrato de hipoteca
+crédito hipotecario
+hipotecar
+deudor hipotecario
+hipotecario
+préstamo hipotecario
+escalas numéricas larga y corta
+escalas numericas corta y larga
+escala larga
+billón
+1000000000 bn:00000014n bn:14352104n
+escalas numéricas corta y larga
+escalas numericas larga y corta
+1000000000000 bn:08115390n bn:00000015n bn:00052758n bn:00000014n
+escala corta
+dolar de las islas caimán
+kyd
+dólar neozelandes
+dólar surinamés
+dólar bn:02404515n
+$ bn:00028116n bn:00079129n bn:00028115n
+usd bn:00079129n bn:00028115n
+dólar de nueva zelanda
+dólar americano
+united states dollar bn:00079129n
+dólar de las islas caiman
+dolar de nueva zelanda
+dólar trinitense
+dolar de las islas caiman
+dólar norteamericano
+dólar estadounidense
+us$ bn:00079129n
+dólar de trinidad y tobago
+dólar de las islas caimán
+dólar de ee.uu.
+dolar neozelandés
+dolar caimano
+dolar neocelandes
+dólar de ee.uu
+dolar neocelandés
+dolar de trinidad y tobago
+dólar neozelandés
+dolar neozélandes
+dolar trinitense
+dólar caimano
+dólares neozelandeses
+dólar neocelandes
+dolar bn:02404515n
+dolar neozelandes
+dolar estadounidense
+nzd bn:00057522n
+comisario artístico
+comisario de exposición
+curador
+curadora
+conservadurismo
+conservador de arte
+conservadora
+conservador
+conservador de museo
+conservatismo
+comisario
+lío
+ejercicio
+problem bn:14409040n
+codigo deontologico
+código de ética
+código deontológico
+código ético
+codigo deontológico
+ética
+ofensa
+infracción
+falta
+violación
+delito menor
+delito
+contravención
+consideración reguardar
+consideración
+respeto mutuo
+respeto
+reconocimiento mutuo
+respecto
+reconocimiento
+aprecio
+respetable
+estima
+codificación jurídica
+criptografía
+código informático
+códigos
+cifrado
+algoritmo de descifrado
+codificación juridica
+código de leyes
+codificacion
+cifra
+código
+código secreto
+codificación
+algoritmo de cifrado
+codificacion juridica
+criptográfico
+codificacion jurídica
+movimiento codificador
+manifestación
+declaración
+afirmación
+declaración fiscal
+declaración tributaria
+declaración de impuestos
+renta
+pauta
+regla graduada
+regla bn:00967514n
+ciclo
+normal bn:00543589n bn:00239615n
+regulación
+prescripción
+norma bn:01849151n bn:01191679n bn:03528133n bn:01031920n bn:00058008n
+fórmula
+patrón
+chairman
+directora
+presidente del consejo de administración
+maximo mandatario
+máximo mandatario
+pdte
+pdte.
+moderador
+presidente de la república
+presidente
+presidenta
+director bn:03218642n bn:03431120n
+convocante
+chairperson
+susto
+miedos
+temor
+temores
+terror bn:01860946n
+pavura
+miedo
+espanto
+pavor
+accion militar
+invasion militar
+invasión militar
+invasores
+ocupación
+intrusión
+invasión bn:01414095n bn:03897642n
+invasiones
+invasion bn:01414095n bn:01752043n bn:03897642n
+cañero
+plomero de astilleros
+gasfitero
+lampista
+plomero
+montador de tuberías
+fontanero
+derecha política
+conservadurismo politico
+conservadurismo político
+derechismo político
+derechismo politico
+línea recta
+semirrecta
+linea recta
+derecha
+recta
+línea
+militante derechista
+derechas
+derecha politica
+derechista
+derecha cristiana
+derechistas
+dirección relativa
+derechismo
+junio
+jun bn:00007854n bn:00030292n bn:00036863n bn:04274923n bn:21149233n bn:18101483n bn:01436126n bn:01808273n bn:17179813n bn:00005810n bn:04272735n bn:00023251n bn:00071137n bn:03489763n bn:00504702n bn:00005803n bn:00008603n bn:00084611v
+jun.
+recriminación
+vie bn:00216810n
+viernes
+fichero de texto
+escrito
+documento
+documentación
+cédula
+.txt bn:00028018n
+archivo de texto
+documento de texto
+txt bn:00028018n
+papeles
+ficheros de texto
+documentos de texto
+óxido-reducción
+pausa
+devolución
+oxidación-reducción
+alivio
+respiro bn:03686075n
+redox
+minoración
+bonificación
+reducción
+reacción de oxidación-reducción
+abatimiento
+merma
+aminoración
+suspensión
+debilitamiento
+rebaja
+mengua
+aplacamiento
+descuento
+disminución
+reducción-oxidación
+decaimiento
+rebate
+gases de invernadero
+gases invernaderos
+gases de efecto invernadero
+gases de invernaculo
+gases de invernáculo
+gas invernadero
+gas de efecto de invernadero
+gas de invernadero
+gas de efecto invernadero
+gases invernadero
+año anomalístico
+papel
+asalto
+figura heraldica
+peso bn:04241511n
+figuras fisicas del escudo
+categoría
+embestida
+figura heráldica
+acometimiento
+carga
+función
+oficio
+muebles
+relleno
+figura
+figuras físicas del escudo
+carga eléctrica
+agresión
+parte
+carga electrica
+ataque
+arremetida
+mueble heráldico
+rol
+cargo bn:01795463n bn:00196028n
+mueble heraldico
+condiciones metereológicas
+ritmo musical
+agógica
+condiciones atmosféricas
+células rítmicas
+rítmico
+condena
+tiempo atmosférico
+condiciones
+cadencia
+rítmicos
+pulso
+tiempo bn:00470783n
+ritmica
+tiempo gramatical absoluto
+condición atmosférica
+metro bn:01014404n bn:03077546n bn:02409894n bn:03077501n bn:03737013n
+tiempo de condena
+ritmo
+tempo bn:00060099n bn:03474599n
+ritmos
+ritmicos
+compás
+estado del tiempo
+tiempo gramatical
+tiempo meteorológico
+rítmica
+resolución
+resultado
+solvente
+disolución
+solución
+respuesta
+objeto
+sujeto
+tema musical
+firmante
+tema melódico
+tópico
+motivo
+sujeto gramatical
+subjetivismo
+objeto representado
+propósito
+contenido
+vector físico
+suma vectorial
+voz
+porción
+vector matemático
+vector de desplazamiento
+componente
+parte contratante
+vector espacial
+vector matematico
+segunda parte
+vector geométrico
+vector geometrico
+particella
+campo bn:04140792n bn:14277715n bn:01247226n bn:00775533n bn:04240241n bn:04240932n bn:03407694n bn:03550998n bn:03553045n bn:00202905n
+campo de batalla
+vector euclidiano
+llamada a procedimiento
+litigación
+tarea
+operación
+subrutina
+método
+rutina
+procedimiento
+subprograma
+nova york
+new york city bn:00041611n bn:00518989n
+ciudad de nueva york
+estado de nueva york
+new york bn:00030605n bn:03579775n bn:15051322n bn:02829862n bn:02807096n bn:01773732n
+nueva york
+ny bn:00030605n
+persea persea
+legalista
+abogados
+notario
+persea americana var drymifolia
+picapleitos
+persea drymifolia
+barrister
+persea americana var nubigena
+aguacate
+persea americana var. nubigena
+abacate
+persea americana bn:00002132n
+avocado
+persea gratissima
+abogado
+letrada
+jurista
+palta
+palto
+abogada
+persea nubigena
+defensor
+letrado
+licenciado en derecho
+laurus persea
+abogadas
+persea americana var. drymifolia
+colmillo
+equipo de defensa
+contraataque
+impugnación
+guardia
+medida defensiva
+refutación
+defensa
+defender bn:03298289n bn:01128588n bn:02377144n
+negación
+estructura defensiva
+mecanismo de defensa
+vindicación
+parcialidad
+inclinación
+predisposición
+prejuicio
+sesgo
+reaccionaria
+contra-revolucion
+contra-revolución
+contrarrevolucion
+reaccionarios
+inmovilista
+ultraderechista
+reaccionarismo
+contrarrevolucionaria
+reacción
+reaccionario
+contrarrevolución
+contra revolucion
+reaccionarias
+contra revolución
+contrarrevolucionario
+ultraconservador
+destiladera
+foto bn:00920424n
+fotografía bn:03688703n
+fotografías
+alambique
+alquitara
+destilador
+fotos
+retrato
+fotoperiodicidad
+exposición
+espacio teatral
+imagen panorámica
+escenarios
+espacio escenico
+vista bn:07669964n bn:00199426n bn:03621187n
+panorámica
+perspectiva
+escenario
+panoramica
+espacio escénico
+panorama bn:00196414n bn:00579941n bn:15161653n bn:00006384n bn:00024759n bn:00944109n bn:00210593n
+escenarista
+imagen panoramica
+vista panoramica
+vista panorámica
+supervivencia del mas apto
+selección biológica
+teoria de la seleccion natural de darwin
+escogimiento
+teoría de la seleccion natural
+teoria de la seleccion natural
+selección natural
+selección
+decisión
+supervivencia del más apto
+escogencia
+supervivencia de los fuertes
+seleccion natural
+elección
+teoría de la selección natural
+teoria de la selección natural
+sobrevivencia del más apto
+sobrevivencia del mas apto
+delantera
+superioridad
+ventaja
+ante bn:01081999n
+subastas
+subasta
+luz bn:00266004n bn:00995806n bn:00266008n
+oferta
+puja bn:03681045n
+casas de subastas
+remate
+licitación
+tarificacion universal
+precio
+tarifa plana
+daño
+canon bn:16199914n bn:00221813n
+tarificación universal
+tarifa bn:02443986n
+precio unitario
+tarifas
+billete
+precios
+importe
+bbl
+barril de petroleo
+barril
+barril de petróleo
+salida bn:00203151n bn:00201601n
+produccion económica
+producto
+producción
+capacidad de proceso
+producción económica
+produccion
+producto final
+produccion economica
+rendimiento
+pista de juego
+campo deportivo
+campo de fuerzas
+columna
+sembradío
+campo de deportes
+campos agrícolas
+campo agrícola
+labrantío
+campo de fuerza
+terreno de juego
+campo rural
+republica de costa rica
+costa rica bn:00023012n bn:03750706n
+costa bn:01631097n bn:04140326n bn:00775640n bn:12566251n
+república de costa rica
+accion
+labor
+hecho
+accion fisica
+mecanismo de percusión del piano
+quehacer
+faena
+trabajo
+mandado
+acto
+tarea pendiente
+cometido
+acción natural
+actividad
+proceso natural
+toma de decisiones
+límite
+máximo
+fila bn:02783229n
+cola bn:00020520n bn:03076616n bn:01515402n
+hilera
+sala bn:00979659n bn:00139445n bn:00519532n bn:02341392n
+marco bn:15840884n bn:01898455n bn:00337628n
+rango bn:02806045n
+escala bn:15597195n bn:00808510n
+ámbito
+esfera
+alcance
+gama bn:14999607n bn:00191887n bn:00246697n
+extensión
+oración interrogativa
+indagación
+interrogante
+averiguación
+titular
+inquirir
+consulta
+interrogación
+pregunta
+functor
+encabezado
+agricultura
+economia politica
+sistema económico
+sistema economico
+ahorro
+ciencia económica
+economía política
+explotación
+parsimonia bn:15300642n
+economia
+ciencias económicas
+cultivo
+armeria bn:00077060n
+granjería
+economia política
+avaricia
+labranza
+codez
+sistemas económicos
+economía
+económicas
+parquedad
+c bn:00014378n bn:00014379n bn:00006890n bn:02449894n bn:00014377n bn:00015129n bn:03770218n bn:03171085n bn:01434340n bn:01513896n bn:03752573n bn:03316319n bn:01939147n bn:03277073n bn:03267571n bn:03637497n bn:03423774n
+copia en papel carbón
+copia
+copia con papel carbón
+número atòmico 6
+número atómico 6
+carbono
+carbonaceo
+copia de carbón
+arista
+limite matemático
+lado
+límites matemáticos
+limite matematico
+raya
+borde bn:00343962n
+demarcación
+limite bn:17300197n
+línea de demarcación
+frontera
+límite matematico
+límite matemático
+aumento
+adición
+crecimiento
+crecida
+incremento
+multiplicación
+temperatura
+temperatura del aire
+multa
+dias de multa
+días de multa
+multa pecuniaria
+amercement
+multa coercitiva
+1 millón
+1 000 000
+cuchucientos
+chorrocientos
+1,000,000 bn:00000013n
+enemil
+meg bn:00000013n bn:01551388n
+gazillion
+sepetecientos
+1 millon
+tropecientos
+1000000 bn:00000013n
+quichicientos
+millón
+10^6
+mil millares
+jillion bn:00010441n
+1.000.000
+millon
+chorromil
+cuchumil
+sopotocientos
+estabilidad
+firmeza
+tendencia
+ademán
+actitud
+propensión
+predilección
+actitudes
+posición
+proclividad
+institucional
+instituciones
+institución
+institucion
+vehemencia
+acento prosódico
+énfasis
+acentuacion
+acento cromático
+acento melódico
+paroxítona
+acento musical
+acentuar
+acento prosodico
+acento de altura
+acento de intensidad
+tilde bn:00077238n
+acentuación
+acento tonico
+paroxitona
+acento
+acento tónico
+acento tonal
+acento melodico
+acentuacion musica
+contraposición
+contraste
+volcán san jose
+volcan san josé
+volcán san josé
+capital de costa rica
+san jose bn:01333167n bn:01244695n bn:01722706n bn:01419961n bn:01426087n bn:01407521n bn:01408804n bn:01653876n bn:01654494n bn:01528605n bn:17257689n bn:03354148n bn:00913566n bn:02084570n bn:00015531n bn:00069108n bn:00237962n bn:00314744n
+city of san josé
+volcan san jose
+pueblo de san josé de guadalupe
+city of san jose
+san josé bn:01244695n bn:01722706n bn:01426087n bn:01408804n bn:01653876n bn:01654494n bn:01528605n bn:17257689n bn:03354148n bn:02084570n bn:00015531n bn:00069108n bn:00237962n bn:00314744n
+pueblo de san jose de guadalupe
+cantón de san josé
+fianza
+margen teórico estimado
+fórmula de perímetro
+perimetro
+contorno
+mte
+perimetral
+perímetro
+margen
+formula de perimetro
+intensidad sonora
+volúmenes
+mole bn:00055552n
+volumen
+libro
+volumenes
+partes del libro
+fuerza
+intensidad de sonido
+intensidad
+cruce
+tracamundana
+enlace viario
+equity swap
+cruce de caminos
+cambalache bn:02487482n
+intercambio
+descambio
+swaps
+cambio
+permuta financiera
+swap
+permuta
+diálogo
+operación de permuta financiera
+encontronazo
+operacion de permuta financiera
+comercio
+encrucijada bn:14664680n
+canje
+lonja
+trueque
+caso morfologico
+caso gramatical
+caso morfológico
+concordato
+trato
+presencia
+nocion
+noción
+concepto
+pensamiento
+idea bn:03381429n bn:03313919n
+inmigracion
+tasa de inmigración
+inmigraciones
+inmigrantes
+emigrante económico
+inmigración
+inmigrante ecónomico
+12 bn:00000020n bn:02868205n bn:02702243n bn:16532343n bn:02377217n
+duodécimo
+docena
+doze
+xii bn:00000020n
+doce bn:03267910n
+norma de derecho
+normas jurídicas
+isla de principe
+norma jurídica
+principio
+fundamentación
+normas juridicas
+norma legal
+norma juridica
+fundamento
+isla de príncipe
+precepto
+portavoz
+vocero
+intérprete
+vocera
+estilo
+modo bn:02145324n
+guisa
+manera
+talante
+forma
+maneras
+vía
+moda bn:02997347n
+limonado
+pajizo
+amarillo bn:00729375n
+azafranado
+gualdo bn:03525200n
+rubio bn:01823651n bn:03633834n
+numeral
+concordancia en número
+letra numeral
+numeros
+número gramatical
+números
+numerales
+número
+numero
+singular bn:14997801n
+triada
+preterito perfecto simple
+pasado
+preterito indefinido
+antaño
+pretérito
+psd
+tiempo pasado
+pretérito perfecto simple
+pretérito indefinido
+preterito
+united states of america bn:00003341n
+usa bn:00003341n bn:01109149n bn:01802008n bn:03892121n
+ee.uu.
+estados unidos de america
+eeuu
+e.e.u.u.
+estados unidos de américa
+estados unidos
+américas
+estados
+ee. uu.
+united states bn:00003341n
+eua bn:00436950n
+américa bn:00706871n bn:01017138n
+instituto
+conflictos
+repunta
+conflicto
+disputa
+diferencia
+disputar
+conflicto interpersonal
+altercado
+discusión
+rubber check
+quiebra
+juicio de quiebra
+bancarrota
+juicio de quiebras
+insolvencia
+cheque sin fondos
+insolvencia definitiva
+mitad
+un medio
+zona geográfica
+zona geografica
+region
+zona
+área
+region geografica
+región
+región geográfica
+regiones
+demócrata
+populista
+maña
+capacidad
+condensador
+aptitud
+capacidad electrica
+capacidad jurídica
+ingenio bn:01286242n
+condensador eléctrico
+capacitancia
+capacitor electrico
+habilidad
+talento
+técnica
+arte bn:03467415n
+poder bn:17670234n
+destreza bn:02437045n
+capacidad eléctrica
+corredor
+banco de inversiones
+banco de inversion
+banca de inversión
+banco de inversión
+bancos de inversion
+banca de negocios
+bancos de inversión
+corredora
+banca de inversion
+banco de negocios
+asegurador
+tormenta de nieve
+viento blanco
+nevazón
+nevada bn:00009083n bn:00559053n bn:01785493n bn:03276933n bn:02405266n bn:00383887n
+ventisquero
+nevazon
+ventisca
+nevasca
+tempestad de nieve
+ventisca de nieve
+jugador de balompié
+balompieista
+jugadora de futbol
+futbolista
+jugador de fútbol
+jugadora de balompié
+jugadora de fútbol
+jugador de futbol
+hierro
+palo bn:01463335n bn:02409662n bn:00266463n bn:03665760n
+palos de golf
+palo de golf
+línea de producción
+proceso corporal
+actividad termodinámica
+función corporal
+actividad química
+ramo de negocio
+género de actividad comercial
+fugacidad relativa
+campeonato
+economista
+ilustración
+conocimientos
+beca bn:14561951n
+cognición
+saber
+noesis
+sabiduría
+cognicion
+conocer
+aprender
+erudición
+aprendizaje
+ciencia
+enciclopedismo
+conocimiento
+mayo bn:00212437n bn:00546862n bn:00296122n
+decisión por consenso
+consenso
+decision por consenso
+decisiones por consenso
+especialista
+perito bn:03447515n
+efecto
+impacto bn:00181784n
+consecuencia
+crecimiento economico
+crecimiento económico
+paga
+emolumento
+nómina
+remuneración
+jornal
+asignación
+retribución
+pago bn:15752004n
+sueldo
+ganancias
+salario
+estipendio
+soldada
+utilización
+lugar
+curro
+laburo
+talacha
+oficina
+ocupacion
+contratación
+profesión
+uso bn:17430926n
+chamba bn:03411697n
+empleo
+puesto
+camello
+brete
+ninguno
+zip bn:01144723n bn:03480705n
+cero bn:00992859n
+nada bn:14277186n bn:03197381n bn:14579735n
+0 bn:00000004n bn:03149812n bn:00007146n bn:00000138n bn:03347883n
+nulo
+nix bn:02398196n
+localización
+ubicación
+coyuntura
+situación
+trance bn:15309814n bn:04563967n
+desventaja
+retadora
+competidora
+rival
+adversaria
+aspirante
+desafiador
+contendiente
+retador
+competidor
+contrincante
+competición
+adversario
+desafiadora
+ganancias netas
+ingreso neto
+ganancia
+rendimiento neto
+beneficio neto
+utilidad neta
+lucro
+ingresos netos
+beneficios
+prueba
+hecho filosofico
+realidad
+faktum
+evidencia
+hecho filosófico
+escuadrón
+equipos
+grupo de rock
+banda de rock
+cuadrilla
+turno bn:03395404n
+banda bn:16934211n bn:03671099n
+grupo de música
+escuadra
+banda de musica
+conjunto
+celda de trabajo
+banda de música
+grupo musical
+banda musical
+equipo
+proceso físico
+capital bn:17142587n
+washington bn:00575367n bn:00032035n bn:00539878n bn:00591231n bn:01194817n bn:00581525n bn:03716209n bn:00207014n bn:02004838n bn:00225540n bn:00243121n bn:00245584n bn:00270193n bn:00278956n bn:00288164n bn:00292906n bn:00300328n bn:00376801n bn:00402608n bn:00453437n bn:00494337n
+distrito federal de ee.uu.
+president washington
+booker taliaferro washington bn:00012125n
+estado de washington
+capitolio bn:01180279n
+ciudad de washington
+distrito de columbia
+washington d. c.
+booker t. washington bn:00012125n
+george washington bn:00040239n bn:00148363n
+washington d.c. bn:00003365n
+booker t washington
+secretario de estado
+ministro de estado
+ministros
+ministra
+consejero
+miembro del gobierno
+consejera
+miércoles
+ombligodelasemana
+decimal
+digitos
+dígito
+digito
+número decimal
+dígito decimal
+dígitos
+cifras
+roce bn:00811529n
+refriega
+escaramuza
+riña
+berrinche
+enfrentamiento
+trifulca
+zalagarda
+cirugía
+operación militar
+operacion militar
+zurugía
+procedimiento quirúrgico
+quirúrgico
+intervención
+operaciones militares
+operación matemática
+maniobra
+proceso matemático
+suma bn:01520330n
+monto
+cantidad
+alteración
+variación
+revisión
+mutación
+evolución
+modificación
+valor de mercado
+heroísmo
+teorías del valor
+valor bn:00504684n
+l value
+r value
+heroicidad
+teoría del valor
+valor monetario
+teoria del valor
+valor económico
+l-value
+valor economico
+teorias del valor
+r-value
+bajo
+medias bn:03202590n
+bajo bufo
+bajo cómico
+basso buffo
+basso cantante
+bajo caractère
+bajo comico
+bajo cantante
+bajo caractere
+medias de rejilla
+campaña
+fondo bn:03501611n bn:00216924n
+bajo ligero
+bajo buffo
+base bn:17439608n
+bajo profundo
+desasosiego
+cuita
+inquietud
+quebradero
+ansiedad
+intranquilidad
+ansia
+tribulación
+aflicción
+quebradero de cabeza
+zozobra
+angustia bn:01545980n
+seguro
+seguridad
+fiador
+bombardeo aereo
+bombardeo
+línea de fuego
+bombardeo aéreo
+mar bn:00969584n bn:15211886n
+martes bn:00053569n
+inestabilidad
+desequilibrio
+tropa
+vigor
+potencia
+poderío
+vis bn:03437233n bn:03690125n bn:03690132n
+iraq
+república de irak
+irak bn:00002362n
+humanidad
+especie humana
+raza humana
+hombre bn:03101034n
+género humano
+analista
+sicoanalista
+analista de sistemas
+analista-investigador
+psicoanalista
+clase baja
+puerperio
+movimiento obrero
+gestación
+proletariado
+activismo obrero
+clase obrera
+movimientos obreros
+obrerista
+obreristas
+clase trabajadora
+cuarto estado
+clases pobres
+clase pobre
+obra bn:03118618n
+lucha obrera
+trabajadores
+proletaria
+embarazo
+obrerismo
+trabajadores de cuello azul
+clases trabajadoras
+trabajadores de col bleu
+proletarias
+proletario
+palmada
+ovación
+aplauso
+palmas bn:00763859n bn:01918755n bn:01920581n
+palmadas
+vítor
+aclamación
+regreso
+regreso a casa
+vuelta
+habitación
+domicilio
+casa planetaria
+piso
+bloque de pisos
+signo del zodiaco
+almacén
+residencia
+vivienda
+vasa bn:15394062n bn:01132077n
+signo del zodíaco
+negocio
+signo zodiacal
+morada bn:00199573n
+casa zodiacal
+signo
+habitáculo
+tienda
+intervalo
+plazo de tiempo
+tiempo fraccionado
+interrupción
+desembolso
+pagos
+abono
+minuto sexagesimal
+minuto de arco
+arcominuto
+minutos de arco
+arcmin
+arcominutos
+minuto arco
+minuto
+minuto angular
+min bn:00070510n bn:00071797n bn:16429141n bn:01176169n bn:20205052n bn:15367969n bn:03775276n bn:04531098n bn:02470987n bn:00020345n bn:00062878n bn:00055095n bn:00019281n bn:00093773v
+minutos sexagesimales
+reporte
+informe
+memoria bn:17192558n bn:00595809n
+testigo
+testificación
+atestiguamiento
+testimonio
+atestación
+testiga
+economia de mercado
+economía de mercado
+mercado capitalista
+aceptación
+crédito
+adicion
+sumatoria
+siesta bn:00071499n bn:01576865n
+montante
+suma algebraica
+cabezada
+monta bn:03502598n
+el somme
+batalla del somme
+río somme
+sumar
+cabezadilla
+somme bn:03770296n
+aditividad
+sumatorio
+operación de suma
+operacion de suma
+sueñecito
+pestañada
+siesta liviana
+total bn:01222648n
+tasa bn:03402309n
+cuota
+honorario
+honorarios
+ceremonia de graduación
+venero
+acto de graduación
+fuente
+origen bn:17607656n
+graduación
+incoación
+comienzo
+raíz
+germen
+nacimiento bn:03845277n bn:03439373n
+raíces
+acto de graduacion
+comenzamiento
+iniciación
+inicio
+apertura
+portero de fútbol
+guardameta
+arquero
+guardavalla
+portero
+golero
+sáb
+sábado
+israelí
+éxito bn:12413539n
+victoria bn:15514116n bn:00570278n bn:00662693n bn:01236778n bn:01720634n bn:02802331n bn:01430978n bn:01688216n bn:01426093n bn:01407534n bn:01817468n bn:03104591n bn:01459263n bn:00185582n bn:00190122n bn:14447358n bn:02593341n bn:00079947n bn:00079950n bn:03520682n bn:00273435n bn:00335251n bn:00454783n
+triunfo bn:01898240n bn:01712914n bn:00844434n
+tel aviv yafo
+tel aviv bn:00076369n
+tel-aviv
+תל אביב
+tel aviv-yafo
+final four 1994
+tanda bn:01569650n bn:02108052n
+estaciones del año
+estación del año
+estaciones
+período
+temporada deportiva
+temporada
+estación
+temporada de competición deportiva
+temporada regular
+estacion
+grupo de trabajo
+grupos de trabajo
+estrategia directiva
+estrategias directivas
+equipo de trabajo
+equipos de trabajo
+textos
+manual de instrucciones
+libros de texto
+texto
+pasaje
+libro de texto
+organismo vivo
+organismo autónomo administrativo
+oficinista
+organismos
+organismo autónomo
+oficinas comerciales
+oficinas
+ser
+seres vivos
+organismo
+despacho
+organización gubernamental
+departamento
+ser vivo
+organismos vivos
+organismo público
+criatura
+agencia estatal
+despachos
+autoridad
+agencia gubernamental
+agencia pública
+agencia
+objetivo terapéutico
+indicio
+indicación
+índice
+indicacion
+indicant
+promotor fiscal
+procurador fiscal
+procuradora
+fiscal bn:02409648n
+agente del ministerio público
+procurador
+agente fiscal
+corchete
+presión hidráulica
+presion mecanica
+presión
+automatico
+coacción
+fuerza coercitiva
+presion hidraulica
+coerción
+coercion
+cerveza de barril
+presión mecánica
+gafete bn:14888887n
+presion
+veredicto
+fallo judicial
+sentencia judicial
+fallo bn:03420306n
+sentencia
+punición
+pena bn:17018286n bn:01393390n
+dictamen
+sentencia condenatoria
+veredicto condenatorio
+determinación
+finde
+emisión
+transmisión
+difusión
+trasmisión
+emanación
+programa
+expulsion
+expulsión
+exclusión
+jugadores
+actor bn:00874596n bn:01554801n
+actor dramático
+jugador
+histrionista
+artista
+histrión
+apostador
+participante
+ejecutor teatral
+actriz
+jugadora
+comediante
+nov
+navidad bn:00819743n
+noviembre
+navarra
+entrada de lápiz 
+tinta
+letra bn:00840781n
+calidad
+carácter alfabético
+característica
+carácter
+modales
+conducta social
+comportamiento
+comportamiento social
+proceder
+comportamientos
+conducta
+elemento musical
+constituyente
+aspecto de música
+factor bn:03781656n
+rudimento
+aspecto de musica
+en bn:00030649n bn:00030862n bn:12210301n bn:02239086n bn:03046908n bn:15189105n bn:03647428n
+elemento químico
+elemento
+aspecto musical
+ingrediente
+número atómico 1
+hidrógeno
+ázoe
+az bn:14053464n bn:17358571n
+n bn:15429934n bn:00056688n bn:17565571n bn:03650125n bn:01858691n bn:01835486n bn:01513915n bn:03752554n bn:01864247n bn:03316271n bn:03336609n bn:14686016n bn:14620603n bn:03303892n bn:03830535n bn:14983305n bn:00238000n bn:00265909n bn:00058225n bn:00058314n bn:00006901n bn:00056686n bn:14024665n bn:03806040n
+nitrógeno
+número atómico 7
+número atómico 8
+o bn:15429513n bn:00267866n bn:00058390n bn:15686544n bn:01176518n bn:15766116n bn:14973513n bn:01086178n bn:01218981n bn:15779563n bn:01835512n bn:01835500n bn:17178045n bn:03752582n bn:02572560n bn:16353523n bn:03292826n bn:16391460n bn:03266592n bn:01388416n bn:03628626n bn:00058929n bn:00058939n bn:00058728n bn:01490139n bn:03856527n
+oxígeno
+oxigeno
+p bn:00060045n bn:03506566n bn:01167703n bn:17255326n bn:03752556n bn:03221527n bn:15244670n bn:14982413n bn:00062194n bn:00062196n
+fósforo
+número atómico 15
+sulfuro
+número atómico 16
+s bn:00068673n bn:03165436n bn:14318781n bn:15727973n bn:00672297n bn:14835970n bn:07699046n bn:03178281n bn:01434426n bn:01834130n bn:03137359n bn:03126412n bn:03752579n bn:03316348n bn:03297747n bn:01939187n bn:14983348n bn:03423778n bn:00071519n bn:00068779n bn:00054702n
+azufre
+bacteria bn:00007854n bn:16483883n
+bacterias
+trióxido de arsénico
+arsénico
+óxido arsenioso
+anhídrido arsenioso
+as bn:03219670n bn:00005917n bn:00537941n bn:00991456n bn:00566195n bn:01019538n
+número atómico 33
+aes bn:00428534n
+arsenico
+óxido de arsénico
+forma de vida
+microbio
+posibilidad
+satélite
+planeta
+cuerpo planetario
+ancas bn:17362963n
+posaderas
+satélite natural
+as de oros
+tuje
+posas
+gluteo
+cachetes
+nalgas
+asentaderas
+traseros
+cachas
+trasero
+luna bn:01275603n bn:14488503n bn:15386608n bn:01339931n bn:01341432n bn:02234677n bn:17219763n bn:03343763n bn:00052318n bn:16391292n bn:00350749n
+pompis
+pompas
+ocóte
+glúteos
+fundillo
+pandero
+traste
+rulé
+culo bn:02726208n
+grupa
+mes lunar
+nalga
+glúteo
+poto
+keister
+asiento bn:00256032n
+gluteos
+mes sinódico
+lunación
+tras
+posterior
+oleaje
+onda bn:03838699n
+ola bn:00191921n bn:03700248n bn:00849103n
+ola marina
+lloro bn:00172257n
+quejido
+registro vocal
+llanto
+cargos
+voz humana
+quejumbre
+gemido
+denunciante
+lamentaciones
+lamentación
+lamento bn:12163906n
+ay bn:02836529n bn:01638134n
+felonía
+delito mayor
+crimen
+felonia
+delitos
+delito grave
+crimen mayor
+crimen grave
+caja idiota
+televisión
+video bn:00079972n
+aparato de televisión
+television bn:00076373n bn:03758789n bn:02345620n
+caja tonta
+televisor
+vídeo
+caja boba
+tv bn:00076373n
+tele tv
+tele
+cine
+pelicula
+realización de cine
+película
+obra cinematográfica
+film bn:00735555n
+filme
+película de cine
+películas
+película fotográfica
+persona individuo
+ser humano
+humano
+alguno
+alma bn:21318895n bn:03314046n bn:00560651n bn:01159218n bn:01957987n bn:17317597n bn:17352752n bn:00187943n bn:00205299n bn:02010539n bn:00219392n bn:00278771n bn:00309919n bn:00395745n bn:00410705n
+alguien bn:03019603n
+personaje real
+mortal
+persona gramatical
+persona bn:01566880n bn:00017749n bn:01698802n bn:00143547n bn:14504203n
+individuo
+venezolano
+venezolana bn:01335479n
+venezuela bn:00067239n bn:10172336n bn:03664437n
+rb venezuela
+república de venezuela
+la república bolivariana de venezuela
+ve bn:15251757n
+república bolivariana de venezuela
+estados unidos de venezuela
+coma bn:16245723n bn:11496057n bn:01153598n bn:16722223n bn:01036335n
+etapa
+. bn:00115184r bn:01779016n bn:00036777n
+separador de millares
+punto tipografico
+coma decimal
+⠲
+separador decimal
+ítem
+punto tipográfico
+punto
+tramo
+fase
+entrada
+estación veraniega
+estación estival
+estio
+verano
+estío
+estación de verano
+derecho de peticion
+peticion
+derecho de petición
+solicitud
+petición
+peticiones
+peticiones de internet
+pedido
+petición por internet
+peticion por internet
+peticiones por internet
+regímenes
+regimen
+regimen politico
+gobierno relacional
+régimen
+gobernancia
+gobernabilidad
+regimenes
+régimen político
+gobierno
+costo
+coste
+mano de obra
+hombres
+personal
+arriesgado
+peligro bn:00729723n bn:02590951n
+riesgos
+peligrosidad
+escollo
+riesgo
+amanaza
+escabrosidad
+inversionista
+accionista
+socio capitalista
+dentro de
+interior de un conjunto
+interior bn:00549521n
+máquinas
+vehículo
+aparato
+mecanismo
+turismo
+maquinaria
+carro bn:03518793n
+dispositivo
+máquina de tren
+máquina
+auto bn:12406694n
+maquina de tren
+locomotora
+coche
+locomotoras
+automóvil
+matasanos
+médico cirujano
+cirujano
+cirujana
+mal
+iniquidad
+inmoralidad
+maldad
+exigüidad
+carestía
+parvedad
+escasez
+exceso de demanda
+deficiencia
+escaso
+deseo
+carencia
+penuria
+apretura
+déficit
+anestesiólogo
+anestesiador
+anestesióloga
+anestesista
+certidumbre
+fe bn:00006856n
+confianza
+consumidor
+diciembre
+periodo
+catamenia bn:03558780n bn:00241287n
+menstruación
+ciclo sexual femenino
+mensual
+mes de calendario
+mes natural
+mes sinodico
+ciclo ovarico
+menorragia
+meses
+ciclo ovárico
+metrorragia
+ciclo menstrual
+achaque
+mes
+menstruacion
+ciclos menstruales
+menstruo
+mes sideral
+aproximación
+estimación
+valoración
+notación postfija
+pronosticador
+notacion polaca inversa
+pista bn:15150734n
+vaticinador
+numero índice
+vidente
+índice numérico
+reverse polish notation bn:00063793n
+número indice
+notacion de postfijo
+indicador numérico
+notacion postfija
+indicador
+rpn
+adivino
+notación de postfijo
+número índice
+numero indice
+notación polaca inversa
+universidad ann arbor
+university of michigan bn:00079156n
+universidad de míchigan
+universidad de michigan
+existente
+existir bn:00370509n
+conjetura
+teoría bn:00076834n
+supuesto
+creencia
+suposición
+surmisal bn:00021870n
+especulación
+hipótesis científica
+hipotesis cientifica
+hipótesis
+hipotesis de trabajo
+hipótesis de trabajo
+hipotesis
+mercado de valores
+mercado financiero
+mercados financieros
+mercado
+mercado bursátil
+mercado internacional de capitales
+series y sucesiones
+sucesión
+series matemáticas
+serie infinita
+serie matematica
+serie matemática
+secuencia
+series infinitas
+series matematicas
+serie bn:16322622n
+cooperativa de ahorro y credito
+sacco
+cooperativas credito
+savings and credit cooperative
+asociación de crédito
+cooperativas crédito
+cooperativas de credito
+unión crediticia
+cooperativa de ahorro y crédito
+cooperativas de crédito
+cooperativa de crédito
+obligacion
+promesa
+obligación
+adquisición
+compra
+recurso escaso
+multiplicar
+commodity
+género
+artículo de consumo
+bien escaso
+bien
+bien de primera necesidad
+producto químico
+mercancia
+mercancías
+bien económico
+bien comercial
+commodities
+producto matemático
+bien de consumo
+mercancía
+bienes
+artículo
+producto de reacción
+producto infinito
+mercadería
+∏
+productorio
+comité
+comisión
+comite directivo
+comite ejecutivo
+comité directivo
+comite
+comité ejecutivo
+disciplina academica
+área de estudio
+especialidad académica
+materia académica
+cátedra
+disciplina bn:03734669n
+area de jurisdicción
+asignatura
+disciplina académica
+campo de estudio
+flagelo
+curso
+especialidad academica
+ramo
+azote
+área temática
+míster
+dt bn:12375989n
+entrenador deportivo
+amaestrador
+director técnico
+adiestrador
+preparador
+entrenadora deportiva
+instructor
+técnico
+seleccionador
+gerente
+entrenadora
+entrenador
+entrenador de fútbol
+embaucamiento
+engañifa
+arana
+tocomocho
+aletazo
+estafa
+engaño
+hacer trampas
+mangancia
+petardo
+timo bn:15827083n
+pufo
+trampa
+embaimiento
+trapacería
+superchería
+fraude
+ius naturale
+derechos naturales
+derecho natural
+iusnaturalista
+estatut
+ley bn:00823521n
+derecho bn:03761725n
+ley natural
+iusnaturalismo
+estatuto
+jurisprudencia
+jusnaturalismo
+guarida
+escondite
+escondrijo
+madriguera
+penada
+penado
+penados
+castigo
+criminalización
+penadas
+penalización
+penable
+derecho penal ejecutivo
+canal de televisión
+canal televisivo
+canal de tv
+canal bn:17109921n
+canal de television
+reportaje
+asistencia
+ayuda humanitaria
+colaborador
+ayuda alimentaria
+misiones humanitarias
+ayuda exterior
+ayuda financiera
+ayudante
+asistente
+auxiliar
+socorro bn:03496690n bn:00560580n bn:01393786n bn:01408814n bn:01459259n bn:00429109n
+ayuda internacional
+auxilio
+astucia
+zorrería
+taimería
+ardid
+estratagema
+treta
+artificio
+artimaña
+ingeniosidad
+sagacidad
+martingala
+malicia
+picardía
+socarronería
+truco
+perspicacia
+regate
+taima
+inventiva
+ingenuidad
+candidez
+listeza
+inteligencia
+volición
+albedrío
+voluntad
+huesos del carpo
+ossa carpalia
+carpal bn:00006143n
+huesos carpianos
+articulación radiocarpiana
+articulatio radiocarpea bn:00006143n
+muñeca
+ossa carpi
+carpo bn:03632970n
+proposiciones logicas
+propuesta
+clausula
+proposición lógica
+proposicion logica
+proposiciones lógicas
+proposicion
+afirmación matemática
+cláusula
+proposición
+proposiciones
+paje de armas
+pajes
+paje bn:00751508n
+paginación
+paje de lanzas
+página
+albor
+alba bn:01860714n bn:02801326n bn:00729384n bn:00747170n bn:00911275n bn:03859315n bn:02054916n bn:00377788n bn:00507867n
+amanecida
+orto bn:00778556n
+amanecer
+dilúculo
+crepúsculo matutino
+aurora bn:00574185n bn:01553394n bn:00547575n bn:00571145n bn:00612904n bn:00644393n bn:01341397n bn:01425703n bn:01895263n bn:02273750n bn:01898548n bn:01868176n bn:03116015n bn:01535045n bn:00202526n bn:03277013n bn:03237518n bn:00007207n bn:01975750n bn:01000255n bn:01028196n bn:00245592n bn:00253061n bn:00233127n bn:03601106n bn:00292199n bn:00378729n bn:00395617n bn:00453305n bn:00486229n bn:00500256n
+lubrican
+lubricán
+madrugada bn:00418023n
+alborada bn:02766192n
+am bn:00003194n bn:01132010n bn:16129393n bn:00003196n
+crepusculo matutino
+salida del sol
+mañana
+diluculo
+participacion politica
+constribución
+accionado
+participación política
+accionariado
+colaboración
+implicación
+patrimonio empresarial
+fondo de maniobra
+capital de rotacion
+capital de trabajo
+capital de rotación
+capital circulante
+capital financiero
+fondo de rotacion
+fondo de rotación
+capital corriente
+cadena de empresas
+urdimbre
+cadena
+cadena de texto
+cadena de caracteres
+cadena de agrimensor
+cacique
+caudillo bn:03266196n
+cabeza bn:03531156n
+liebre
+jefe tribal
+responsable
+jeque
+jefa
+caballo amblador
+dirigente
+jefe
+líder
+agrupación
+agrupación musical
+grupo matemático
+unidad completa
+grupo matematico
+círculo
+colectivo
+totalidad
+montón bn:00511869n
+estadio
+fase planetaria
+hostigamiento
+acoso
+acosamiento
+estudiante
+pupilo
+alumna
+estudiante universitario no licenciado
+estudios de pregrado
+educando
+pregrado
+alumno
+pupila
+estudiante universitario
+estudiante universitaria
+discente
+noticias
+actualidad
+noticiero
+hecho periodístico
+suceso de actualidad
+programa de noticias
+informativos
+actualidades
+telediario
+noticiario
+informativo
+jacques anatole françois thibault
+jacques anatole francois thibault
+france bn:00036202n bn:11289633n
+republica francesa
+república francesa
+francia
+anatole france bn:00003873n bn:03287364n
+necesidad
+necesidad como término jurídico
+necesidades
+necesidad como término juridico
+necesidad como termino jurídico
+necesidad como termino juridico
+picapedrero
+entallador
+cantería
+alarife
+albanil
+labrante
+cantero
+enfoscador
+albañiles
+maestro cantero
+albañil
+tallista
+cabuquero
+albañi
+albañí
+aplicación servidor
+programa servidor
+host bn:00044911n bn:03651573n
+servidor informatico
+camarera
+mesera bn:01549597n
+camarero
+servidor
+garzón bn:00189766n
+servidor informático
+equipo host
+aplicación servidora
+aplicacion servidora
+moza
+ordenador principal
+mozo
+mesero bn:03519704n
+aplicacion servidor
+servidor de computadora
+servicio
+servidores
+servidor de red
+mesonero
+restorán
+comedor
+piqueteadero
+restaurante
+atletismo
+deporte
+deportes
+contrario
+enemiga
+opositor
+oposición
+contendedor
+oponente
+contraria
+enemigo
+antagonista
+realización
+desempeño
+cumplimiento
+popularidad
+progreso bn:00563170n bn:02243075n bn:02518076n
+avance
+adelanto bn:00198598n
+corte de apelación
+tribunal de apelacion
+tribunal de apelación
+corte de apelacion
+corte de segunda instancia
+parametro
+parámetro
+argumento de un número complejo
+argumento de un numero complejo
+adaptación
+adaptacion
+adaptacion biologica
+adaptación biológica
+adaptacion biológica
+adaptaciones biológicas
+género femenino
+mujer
+humana
+esposa
+esposo
+mugier
+ser humano femenino
+mujer casada
+marido
+cónyuge
+señora bn:15851520n
+hembra bn:01661165n
+sexo femenino
+hembra adulta
+europa bn:03242180n bn:00422777n bn:03812231n bn:00819391n bn:00031894n bn:14241599n bn:01029062n bn:03703614n
+mercado común
+comunidad economica europea
+union europea
+ue
+cee bn:03119781n
+c.e.e.
+unión europea
+comunidad económica europea
+manejo de conflictos socioambientales
+tramitación
+gestión
+negociador
+negociación
+negociaciones
+negociacion
+signo dólar
+cambio climatico global
+cambios climaticos
+cambio climático
+crisis climática
+cambio climático global
+crisis climatica
+cambio climatico
+cambios climáticos
+ccg
+inundación
+diluvio
+avenida bn:15465921n
+aluvión
+crecidas
+avalancha bn:00126544n
+marea creciente
+sequía
+sequia
+sequedad
+seca
+sequias
+aridez
+xerotes bn:00028967n
+sequías
+deforestación
+deforestacion
+desforestación
+problemas ambientales la explotacion forestal
+desforestacion
+desmontadura
+problemas ambientales la explotación forestal
+limpieza de tierras
+secretaria
+arquimesa
+asistente administrativo
+secretario
+asistente personal
+escribanía
+auxiliar administrativo
+escritorio
+diseño
+ilustracion
+imagenes
+rango de una función
+imagen mental
+dibujo
+conjunto imagen
+imagen de una función
+imágenes
+ausencia
+dosis
+género arizona
+genus arizona
+arizona bn:00005684n bn:01653700n bn:00430544n
+coautor
+co-autor
+edición literaria
+publicación
+editorial
+tirada
+edición de libros
+edicion
+tiraje
+edición
+profesora
+profesor
+maestra
+enseñante
+profesores
+profesorado
+profesoral
+maestro bn:01819682n
+catedrático
+apelaciones
+telefonazo
+atractivo
+marcador
+llamada
+llamada de voz
+llamada telefonica
+apelar
+apelación
+teléfono
+apelable
+encanto bn:00362680n bn:00857544n
+apelado
+recurso de apelacion
+telefonema
+llamada de teléfono
+llamada telefónica
+aliciente
+apelacion
+llamadas
+apelante
+recurso de apelación
+comunicacion social
+teoría de comunicación
+comunicación social
+comunicación
+herido
+sacrificio humano
+baja bn:03872420n
+primo bn:00064397n
+oblación
+incauta
+asesinato ritual
+oblacion
+incauto
+inocentón
+incauto engrupido engañado
+accidentado
+prima bn:07666925n bn:01664474n
+engrupido
+parte perjudicada
+bajas
+sacrificio
+víctima
+señorito
+chica
+muchacha
+hijo
+mujercita
+joven
+señorita bn:15030964n
+niña bn:00267713n
+hija
+fille bn:00839983n
+jovencita
+chico bn:09726717n bn:00571169n bn:02591238n bn:00192210n
+novela folletín
+novela por entregas
+serial literario
+batería
+fascículo
+literatura serial
+serial
+novela feuilleton
+set bn:00070715n
+desocupacion
+cesantía
+desempleo
+cesantia
+desocupación
+paro bn:10237620n bn:03251904n bn:03620589n
+tasa de desempleo
+ala bn:14581675n bn:01263262n bn:01031242n
+cara
+faz
+facción
+ciencia de la administracion
+ciencias de administracion y gestion
+administrador de empresas
+patronal
+administrativa
+administracion
+administración de empresas
+administradores
+administraciones
+órgano administrativo
+organos administrativos
+planta administrativa
+ciencia de la administración
+ciencias de administración y gestión
+management bn:00786880n
+administrativo
+george w. bush bn:00014098n
+george bush
+george walker bush bn:00014098n
+marte
+march bn:04287176n bn:03734079n bn:03219423n
+mars bn:00561073n bn:01822146n bn:00552753n bn:16459468n bn:00761260n bn:00812378n bn:03804393n bn:01815785n bn:00053537n bn:03333536n
+♂ bn:00053536n
+planeta rojo
+marzo
+partes de la oracion
+categoria morfosintactica
+categoría morfosintáctica
+parte de la oracion
+parte del habla
+medio ambiente
+partes de la oración
+madera bn:00195375n
+ecosistema
+categoría gramatical
+parte de oración
+categorías gramaticales
+calaña
+medioambiente
+natura
+categoria gramatical
+categorias gramaticales
+parte de la oración
+desestabilización
+running bn:02937882n bn:16990206n bn:03450097n bn:03648309n
+lance bn:00811349n
+correr
+carrera bn:01660412n
+cuenta
+lanzamiento
+carrera a pie
+carreras
+footing
+jogging bn:00048279n
+bolada
+segundo
+instante
+rato
+momento
+suspiro
+posesiones
+propiedad
+bueno
+posesión
+virtud
+bondad
+pertenencia
+referencia
+mención
+alusión
+cuerpo legislativo
+cámaras legislativas
+instituciones parlamentarias
+cámara legislativa
+cámaras parlamentarias
+asamblea parlamentaria
+camaras parlamentarias
+parlamento
+asociación sin fin de lucro
+disociación
+entidad sin fin de lucro
+asociación voluntaria
+disociacion
+organización sin fin de lucro
+asociación sin ánimo de lucro
+entidad sin ánimo de lucro
+organización sin ánimo de lucro
+organización no lucrativa
+reforma
+asistencia medica
+sanidad
+atencion medica
+prestaciones sanitarias
+cuidado
+atención médica
+asistencia sanitaria atención médica
+atención sanitaria
+asistencia sanitaria
+atencion sanitaria
+asistencia médica
+relación
+coito
+congreso de estados unidos
+polvo bn:03168766n
+relación sexual
+congreso de eeuu
+coitus
+comportamiento sexual
+copulación
+congreso de los estados unidos
+cópula bn:01032997n
+acto carnal
+relaciones sexuales
+concúbito
+comportamiento sexual humano
+carnal knowledge
+acto sexual
+evaluación
+opinión
+buen criterio
+discernimiento
+criterio
+parecer
+enjuiciamiento
+corte suprema
+corte suprema de los estados unidos
+desaprobación
+condenación
+osteópata
+cleveland bn:00572852n bn:00019742n bn:00126421n bn:00551816n bn:00565011n bn:00683864n bn:00581720n bn:03384755n bn:00210446n bn:00225385n bn:00346213n bn:00408638n bn:00460668n bn:00470639n bn:00495530n
+cleveland ohio
+atentado terrorista
+acto brutal
+targeted killing
+homicidio doloso
+magnicidio
+atentado
+homicidio voluntario
+asesinato público
+condiciones normales de presion y temperatura
+aire bn:00573618n bn:00002283n bn:03634959n
+atmósfera bn:00006807n
+condiciones normalizadas de presión y temperatura
+condiciones estándar
+condiciones normales
+ambiente
+cnpt
+condiciones normales de presión y temperatura
+condiciones estandar
+condiciones normalizadas de presion y temperatura
+tpn bn:00045477n
+atmosfera bn:00006807n
+ptn
+atm bn:00006804n
+carnaval bn:00636789n bn:00960648n
+medio de comunicación
+medios de comunicacion
+medios de comunicación de masas
+medio
+prensa
+medios de comunicación masivos
+medio de comunicacion
+medio de difusion
+medios periodísticos
+medios de comunicación
+vía de comunicación
+medio de difusión
+mass media
+mcm bn:00459237n bn:03818879n
+medios masivos de comunicación
+via de comunicacion
+medio informativo
+medios de comunicacion de masas
+periodismo
+medios masivos de comunicacion
+medios de comunicacion masivos
+medios
+equivocación
+foul
+culpa
+yerro
+error bn:15503005n
+falta personal
+día solar
+día bn:03180434n bn:00456074n
+jornada
+dia bn:00025893n bn:14981214n bn:03704045n bn:17589163n bn:03799214n bn:03180434n bn:00456074n
+oposición política
+oposicion
+oposicion politica
+oposición politica
+oposicion política
+salud
+salud humana
+estudio jurídico
+estudio juridico
+bufete
+firmas de abogados
+firma de abogados
+bufete de abogados
+tribunal supremo
+tribunal supremo de justicia
+suprema corte de justicia
+corte suprema de justicia
+corte suprema del estado
+suprema corte
+corte suprema estatal
+supremo tribunal de justicia
+república de panamá
+sombrero de panama
+panama bn:00060340n bn:03185879n bn:03161332n bn:03840997n bn:03408818n bn:00229734n bn:00397952n bn:00493492n
+panamá bn:03185879n bn:03840997n bn:03408818n bn:00060340n
+sombrero de paja toquilla
+sombrero de paja
+sombrero de panamá
+panama hat
+jipijapa
+sombrero panamá
+capital de panamá
+jipe
+republica de panama
+ciudad de panamá
+ciudad de panama
+sombrero panama
+canotier
+centro docente
+universidad
+escuela
+institución educativa
+academias
+academia
+ciencias del derecho
+derechos
+derecho subjetivo
+líder de partido político
+cocinera
+cocinero
+líder político
+líder del partido
+jefe de cocina
+lideresa del partido
+chef bn:01562718n bn:01472071n
+compra-venta
+tendero
+tratante
+comercialización
+proveedor
+merchandising
+acuerdo de venta
+dependiente
+vendedora
+expendedor
+mercática
+agente comercial
+mercadotecnia
+marketing
+técnicas de mercado
+comercial
+técnicas de venta
+márquetin
+comerciante
+mktg
+mercadóloga
+marquetin
+contrato de compraventa
+tipos de proveedeores
+mercadotécnia
+tipos de proveedores
+campaña de marketing
+comprador
+micro-mercadotecnia
+compras
+mercadologo
+mercadólogo
+vendedor
+mercadologa
+mercadeo
+mercadear
+venta bn:00273189n
+traficante
+márketing
+compra venta
+compraventa
+juguetería
+venta minorista
+venta al detalle
+particular
+venta al por menor
+particularidad
+comercio al por menor
+comercio minorista
+minorista
+venta al detall
+distribuidor minorista
+detalle
+pormenor
+detallista
+varón
+bloke bn:03155761n
+hombre adulto
+tipo nomenclatural
+humano masculino
+tipo
+excéntrico
+tipo de referencia
+macho bn:01273867n
+tipos de datos
+clase
+ser humano masculino
+tipo de datos
+muchacho
+tipo de dato
+niño
+especie
+tío
+plan bn:00809795n bn:02538465n
+plano bn:00728249n bn:00252449n bn:00236376n
+planeamiento
+diseño de estrategias
+planta
+planificación
+plano arquitectónico
+entrega
+salvación
+preservación
+rescate
+salvamento
+liberación
+corte senorial
+corte noble
+courtyard
+cour
+galanteo
+corral bn:02839543n
+patio
+cortes reales
+curtilage
+cortile
+corte real
+corte señorial
+cortejo
+corte regia
+festejo
+court bn:17568066n bn:01919868n
+seguidores
+vicepresidente de la república
+vicepresidente del gobierno
+viceprimera ministra
+viceprimer ministro
+vicepresidenta
+vicepresidencia
+vicepresidente
+vice presidente
+vicepresidente de la republica
+dow jones industrial
+djia
+dow jones
+dow jones industrial average
+promedio industrial dow jones
+nasdaq bn:00056893n
+nasdaq stock market
+debate
+debatir
+controversia
+argumentacion
+teoría de la argumentacion
+polémica
+teoria de la argumentación
+bronca
+programa de debates
+desavenencia
+controversial
+argumento en general
+argumentación
+pelea
+teoria de la argumentacion
+quimera
+pendencia
+lid
+teoría de la argumentación
+órganos sensoriales
+sensacion
+facultades sensoriales
+sentidos
+significación
+cinco sentidos
+sensación
+procesamiento sensorial
+sentido
+consciencia
+organos sensoriales
+significado
+creación
+introducción
+instauración
+proporción
+premio nobel
+premio nobel de literatura
+nobelista
+googleada
+buscador de google
+google bn:00212508n
+yahoo bn:00081801n bn:00081800n
+y!
+yahoo! inc.
+yahoo! inc
+yahoo! bn:00081801n
+o.n.u.
+nn. uu.
+organizacion de las naciones unidas
+naciones unidas
+onu bn:00322923n
+organización de las naciones unidas
+united nations bn:00078931n
+suertudo
+peligrar
+probabilidad
+buena suerte
+mala suerte
+fortuna bn:01898780n bn:05109175n bn:00036001n bn:16814139n bn:01750339n bn:00193261n bn:03263180n bn:00465154n
+buena fortuna
+arriesgar
+azar
+seyous
+oportunidad
+chance bn:03800139n bn:00776869n bn:03277296n bn:00298816n
+ventura bn:18128635n bn:00202406n bn:00254007n
+suerte
+indemnificaciones
+indemnizar
+indemnidad
+resarcimiento
+indemnización por daños y perjuicios
+indemnizacion
+indemnización
+indemnizacion por daños y perjuicios
+reparación
+restitución
+daños y perjuicios
+compensación
+daños
+desagravio
+compensacion
+indemnizacion por danos y perjuicios
+enmiendas
+indemnizaciones
+indemnizacion de perjuicios
+indemnización por danos y perjuicios
+indemnización de perjuicios
+grados sexagesimales
+grado arco
+diploma bn:01246496n bn:00027280n
+grado sexagesimal
+generosidad
+politica organizacional
+política organizacional
+política
+lista de departamentos ejecutivos federales de estados unidos
+secretaría de estado de los estados unidos
+prestación
+ministerio de los estados unidos
+servicio religioso
+servicio económico
+saque
+servir
+departamento ejecutivo federal de estados unidos
+ministerio estadounidense
+lista de secretarías de estado de estados unidos
+oficio religioso
+ministerio de estados unidos
+departamento ejecutivo federal de los estados unidos
+united states federal executive department
+lista de secretarías de estado de los estados unidos
+secretaría de estado de estados unidos
+estatus legal
+prestigio
+distinción
+estatus
+status
+ddhh
+derecho humano
+derechos humanos
+red de telecomunicación
+redes de comunicaciones de datos
+trama bn:00235731n
+redes de datos
+látice
+redecilla
+entramado
+redes de comunicacion
+redes de computadoras
+redes informaticas
+reticulo
+cyberespacio
+retícula
+red de comunicacion
+datos móviles
+red de comunicación
+malla bn:01953585n
+red de transmisión de datos
+internet bn:00024712n bn:02228971n
+red de ordenadores
+redes de computadores
+red de comunicaciones de datos
+redes de ordenadores
+bonete bn:03631936n
+red de comunicaciones
+retículo
+red de computadoras
+red de telecomunicacion
+cuadrícula
+red de computadores
+ciberespacio
+red bn:18102986n bn:14421507n bn:15388904n bn:03033894n bn:01429946n bn:13837299n bn:03366993n bn:14573155n bn:03875855n
+red informática
+redes informáticas
+red telecomunicaciones
+red irregular
+red de transmision de datos
+redes de comunicación
+establecimiento de una red de computadoras
+ingenieria de redes
+red informatica
+red de información
+segundo estómago
+seguridad social
+bienestar social
+ss bn:01250563n bn:12181075n bn:12414043n bn:00069662n bn:14973530n bn:00233753n
+pobre
+indigente
+pelado
+pobretón
+modus operandi bn:01873509n
+visita
+exhibición
+f bn:00032575n bn:00032580n bn:01757412n bn:17014789n bn:02347785n bn:15893804n bn:01833974n bn:03286301n bn:15239441n bn:00061137n bn:00006921n
+presentacion bn:01419942n
+sesión
+presentación artística
+presentación publica
+performance bn:00636385n
+presentacion artistica
+espectáculo
+presentación
+alcalis
+pie bn:00039345n bn:00062294n bn:15362355n bn:01362956n bn:00045379n bn:00285581n
+base de hilbert
+infraestructura urbana
+álcalis
+álcali
+base de operaciones
+base numerica
+pies
+alcancía
+hucha
+caja de caudales
+base aritmética
+base de numeración
+infraestructura
+base numérica
+alcali
+base aritmetica
+base de numeracion
+base vectorial
+traba
+obstrucción
+barrera
+cartroad bn:00016294n
+recorrido
+itinerario
+sendero
+camino bn:16151587n bn:01247176n bn:01424846n bn:03503305n
+trayectoria
+ruta bn:00039514n
+senda
+estilo de vida
+camino de carro
+parado
+desempleado
+operario
+obrera
+trabajadora
+peón
+operaria
+obrero de construcción
+obrero
+trabajador
+desgracia
+desdicha
+septiembre
+setiembre
+trastero
+bodega
+depósito bancario
+colca
+gambuza
+repositorio
+despensa
+pañol
+almacenes
+deposición
+ingreso
+depositaría
+almacen
+magazén
+depósito
+magazen
+depositario
+cliente
+parroquia bn:02617753n
+patronaje
+clientela
+mensajes publicitarios
+reclame
+promulgación
+promoción
+spot bn:00029112n bn:01267536n bn:03339269n
+publicidades
+aviso publicitario
+pregón
+propagación
+proclamacion
+proclamación
+aviso bn:01120744n
+diseno publictario
+divulgación
+propaganda bn:03283954n bn:00064735n bn:03604043n
+publicidad
+hacer público
+publicitario
+diseno publicitario
+advertising
+diseño publictario
+diseño publicitario
+publicitaria
+anuncio publicitario
+proclama
+mensajes comerciales
+anuncio
+advertizement bn:00001227n
+rueda de prensa
+ruedas de prensa
+conferencia de prensa
+auditor
+evento de programa
+acaecimiento
+evento
+auricular
+escuchador
+oyente
+acontecimiento
+controlador de eventos
+episodio
+suceso
+incidente
+inspección
+test
+cuestionario
+análisis
+examen
+examinación
+escrutinio
+control bn:07530965n bn:07724991n bn:03112614n bn:00587300n bn:00953898n bn:03278568n bn:02408849n
+década
+decenio
+decada
+periodista
+ecuanimidad
+equidad
+recesion económica
+recesión económica
+recesión
+recesion economica
+descenso
+recesion
+versión
+reanudación
+version bn:00147582n
+reinicio
+melodias
+apariencia
+melodía
+melódicos
+expresión
+cuerda
+mímica facial
+linea melodica
+ton bn:03501792n
+expresiones faciales
+aria bn:11863257n bn:02181087n bn:01286646n bn:00766890n bn:10833478n bn:03084066n bn:01657864n bn:02286740n bn:02264721n bn:03170030n bn:03119712n bn:00884543n bn:03738057n bn:16179824n
+melodicos
+melodico
+estampa
+atmósfera terrestre
+línea melódica
+tonada
+expresión facial
+melodías
+mirada
+melodia
+melódico
+reloj
+contador
+ficha
+puntuación
+tanto bn:02446141n
+tantos
+puntaje
+dominación
+autorización
+dominio
+seguimiento
+supervisión
+superintendencia
+vigilancia
+pérdidas
+en rojo
+pérdida
+números rojos
+delegada
+delegado
+ἤθος
+espíritu
+ethos bn:00031735n
+genio
+actitud vital
+aspecto imperfectivo
+aspecto verbal
+aspecto perfectivo
+faceta
+aspecto perfecto
+aspecto imperfecto
+aspecto gramatical
+laureles bn:00558123n bn:16445814n
+condecoración
+eminencia
+premio
+espaldarazo
+distincion
+laurel bn:00580309n bn:01402964n bn:00218003n bn:00208894n bn:00371798n bn:00298483n bn:00389934n bn:00391991n
+honores
+galardón
+preeminencia
+honor
+república dominicana
+república dominica
+quisqueya bn:00964207n
+republica dominicana
+dominican republic bn:02573330n
+santo domingo bn:01334047n bn:01154463n bn:01339619n bn:03099789n bn:01860048n bn:17109764n bn:03896861n bn:00015632n
+haití español
+nicaragua bn:00057614n
+república de nicaragua
+persuasión bn:16994803n
+convencimiento
+punto de vista
+opinion
+visión
+apreciación
+izquierda
+mano izquierda
+izquierdismo político
+izquierdista
+jardín izquierdo
+izquierdismo
+mano siniestra
+izquierdas
+izquierda política
+izquierdismo politico
+izquierda politica
+izquierdo
+remanente
+residuo
+resto
+restante
+sobra
+embajada
+recado
+corretaje
+comision
+inopia
+miseria
+pauperismo
+desabrigo
+pobreza
+empobrecimiento
+pobretería
+virtuoso bn:01622979n
+entendida
+maven bn:01205270n
+wiz bn:00000790n
+estrella bn:15490843n bn:16374323n
+monstruo del lago champlain
+campeón
+crack bn:01211707n bn:13830916n bn:00023466n
+mavin bn:00000790n
+entendido
+es bn:00006930n bn:01752737n
+diestro
+ducho
+campeon
+superestrella
+campeona
+hacha
+el viejo continente
+ranking
+ránking
+ordenamiento
+clasificación
+clase social
+sala de clase
+clases sociales
+estrato
+salon de clase
+salón de clase
+infraclase
+sala de clases
+aulario
+superclase
+estrato social
+subclase
+aula
+defensa central
+zaguero
+parte de atrás
+interes bancario
+tipo de interes bancario
+tasa de interes bancaria
+tipo de interes
+t a.e.
+tipos de interés
+t.a.e.
+intereses
+interés bancario
+tasa de interés bancaria
+t a e.
+rédito
+redito
+tipos de interes
+interes nominal
+interes
+cierre del telón
+outro
+indefinición
+indeterminación
+montaña
+cúmulo
+montículo
+aglomerado
+agregación
+acumulación
+pila bn:01013380n bn:01685384n bn:03497939n bn:00452491n bn:03571226n
+polemica
+polemista
+correo
+cartero
+component
+influencia
+temario
+paquete de programas informaticos
+paquete
+programa informático
+programa electoral
+aplicación
+aplicación informática
+programacion modular
+sistema software
+elementos de programación
+programa de computación
+software bn:00021497n
+programa de estudios
+enseñanza general
+currículo
+currícula
+curriculum
+módulo bn:00553864n
+soporte lógico
+logical
+programa político
+plataforma de partido
+programación modular
+programa de computador
+plan de estudios
+programa de ordenador
+syllabus
+plataforma
+plan de estudios currículo
+paquete de programas informáticos
+paquete de software
+banalidad
+nimiedad
+fruslería
+cliché bn:16158560n
+futilidad
+cliche bn:16158560n
+lugar común
+perogrullada
+trivialidad
+noche
+noches
+tarde
+manus bn:01364882n bn:14140941n
+manos
+pata bn:02139352n bn:00749289n bn:01102587n bn:01332585n
+zarpa
+mano bn:00810973n
+palma bn:02201426n
+reparto
+árbol de carpetas
+dosier
+espaldar
+historial
+carpeta de archivos
+subcarpeta
+directorio
+dossier bn:00028327n
+carpeta
+directorio padre
+subdirectorio
+expediente
+sostener
+legajo
+respaldar
+respaldo
+punto de referencia
+referencia bibliográfica
+remisión
+seguidor
+amigo
+adepta
+héroe
+adepto
+aficionado
+aficionada
+protagonico
+protagónico
+protagonista
+protagonismo
+protagonizar
+amiga bn:01248074n
+entusiasta
+seguidora
+anthem bn:03809276n bn:00004526n
+himno
+hymnus
+himnos
+aristocracia
+nobles
+nobiliaria
+nobleza
+nobiliario
+segundo estado
+aristócrata
+grandeza
+honorable
+tribunal de honor
+sistema de honor
+código de honor
+codigo de honor
+honra
+acto teatro
+actividad humana
+praxiológico
+acción humana
+praxiologico
+praxiología
+praxeológico
+praxiologia
+praxeologia
+título
+praxeologica
+escritura
+praxeologico
+praxeología
+praxeológica
+acto teatral
+acta bn:01107419n
+actuación legal
+tutela
+relato
+narración
+trastorno
+cacao
+historia bn:00906779n bn:02015422n bn:00044270n
+tecnica narrativa
+movida
+kerfuffle
+encargos
+revoloteo
+anal
+barrila
+historias bn:02257745n
+alboroto
+tumulto
+técnica narrativa
+historia de heródoto
+narrativa
+agitación
+modo narrativo
+narracion
+cronica
+cronicón
+disturbio
+bullicio
+añal
+modo de narración
+cronístico
+sarao
+ruido
+los nueve libros de historia
+los nueve libros de la historia
+historias de heródoto
+cronistico
+cronicon
+anales
+disturbios
+historia de herodoto
+trapisonda
+ruptura
+pendientes
+fabula bn:01782564n
+conmoción
+modo de narracion
+confusión
+relacion
+perturbación
+tomate
+crónica
+historias de herodoto
+apellido
+substantivo
+nombres
+nombre sustantivo
+nombre propio
+denominación
+sustantivo abstracto
+nombre concreto
+epíteto
+nombre
+surname
+apellidos
+nombre abstracto
+apellidar
+sustantivo
+sustantivo concreto
+nombre substantivo
+nombrar
+concentración
+esmero
+asiduidad
+molalidad
+densidad
+dedicación
+concentración molar
+concentracion molar
+normalidad
+constancia bn:13826811n
+concentrado
+molal
+concentracion
+intelectualidad intelecto
+jocosidad
+líquido biológico
+fluido biologico
+liquido biologico
+humor bn:00045202n
+estado anímico
+estado de animo
+fluido biológico
+humorada
+estar
+agudeza
+ánimo
+sentido del humor
+estado animico
+fluido corporal
+temperamento
+estado de ánimo
+vivencia
+experiencia
+realismo
+sustituto reemplazo suplente
+sustituto
+substituto
+suplente
+asalariada
+asalariado
+trabajo manual
+artesanado
+final de la tarde
+víspera
+even
+atardecer
+anochecer
+duda bn:03402523n
+incertidumbre
+razon
+entendimiento
+razón filosofía
+raciocinio
+razón
+intelecto
+porqué
+mente
+razon filosofia
+calle
+vía ferroviaria
+tráfico rodado
+via ferroviaria
+via ferrea
+via de ferrocarril
+trafico rodado
+carreteras
+vias ferreas
+ferreo
+vía del ferrocarril
+carretera
+línea ferrea
+vias férreas
+vías férreas
+vías ferreas
+linea ferrea
+línea férrea
+via férrea
+ferrovia
+rieles
+férreo
+vías de comunicación
+vía férrea
+vía ferrea
+ferrovía
+vía de ferrocarril
+ontogenia
+desarrollo
+parcelación de la tierra
+desarrollo musical
+expansión
+desenvolvimiento
+ontogénesis
+parcelación
+maduración
+escala temporal geologica
+escala temporal geológica
+eras geológicas
+era geológica
+periodo geologico
+escala de tiempo geologico
+período geologico
+escala de tiempo geológico
+período geológico
+periodo geológico
+edad geologica
+era geologica
+eras geologicas
+escala cronoestratigráfica global
+desvelo
+afán
+esfuerzo
+comentarista
+comentador
+observador
+número atómico 47
+argén
+argen bn:02635011n
+cobres
+plata
+lana pasta pisto
+dinero bn:00012054n
+divisa
+ag bn:15031760n bn:00297633n
+real bn:02651489n bn:17708675n bn:01675076n bn:04140930n bn:14805783n bn:21518215n bn:04141129n bn:14332184n bn:00713929n bn:03730233n bn:17184010n bn:14521997n bn:00254364n bn:00342248n
+mercado mundial
+mercados economicos
+mercado economico
+mercados económicos
+mercado de bienes y servicios
+mercado económico
+mercados
+custodio bn:03194061n
+fiduciario
+tuición
+administrador del fideicomiso
+fideicomisario
+tutoría
+educación de niños desprovistos de cuidado parental
+custodia bn:01739063n
+fiduciaria
+tutería
+instalación artística
+subestructura
+instalación
+cimiento
+cimientos
+instalación de arte
+cimentacion
+cimentación
+local
+delegación
+mandato político
+mandato politico
+mandato
+delegacion
+blanquitos
+dientes
+punta bn:00576221n
+diente humano
+prolongación
+diente
+asombro
+extracto
+enjundia
+medula
+centro bn:03412698n
+esencial bn:03036753n
+meollo
+substancia
+esencia
+sustancia
+corazón bn:00547705n bn:16851325n
+quid bn:03431606n
+médula
+núcleo
+pueblo espanol
+romance bn:01316101n bn:03078640n bn:03104932n bn:01992749n bn:16213653n
+castellano bn:00743313n
+española bn:00724375n
+castellano septentrional
+lengua castellana
+español bn:00073092n
+idioma español
+espanol castellano
+dialecto castellano septentrional
+pueblo español
+español castellano
+lengua española
+idioma castellano
+españoles
+dialecto castellano
+es-es
+siglo
+centuria
+critica
+crítico
+evaluador
+reseña
+recensión
+crítica
+lector
+industria del petroleo
+industria petrolífera
+industria petrolera
+industria del petróleo
+industria petrolifera
+hábito
+costumbre
+praxis bn:03196567n bn:01519201n
+práctica
+orientacion
+direccion
+mecanismo de dirección
+orientación
+sistema de dirección
+juzgado de instrucción
+apartamento-estudio
+microvivienda
+deber
+deberes escolares
+deberes
+etude bn:00334887n
+trabajos extraescolares
+trabajo escolar
+étude bn:00334887n
+trabajos escolares
+trabajo extraescolar
+minivivienda
+tarea escolar
+tareas escolares
+preppy
+potencia del mundo
+potencia fisica
+caballos de vapor
+caballo de potencia metrico
+potencia mundial
+caballo
+caballo vapor
+potencia física
+gran potencia
+caballo de fuerza
+superpotencia
+caballo de potencia métrico
+hiperpotencia
+grandes potencias
+superpotencia internacional
+cv bn:00024518n bn:03664488n
+c.v.
+caballo de vapor
+superpoder
+disminucion
+precipicio risco
+bajada
+risco bn:01345980n
+precipicio
+peñasco bn:01165417n
+bajón
+cantil
+acantilados
+acantilado
+caída
+despeñadero
+octubre
+guía
+asesor
+consultor bn:01857466n
+orientador
+consejo
+asesora
+concejo
+consultora
+mensaje
+mensajes
+notificación
+mensaje textual
+mensajeria
+mensajería
+abusos sexuales
+abusador sexual
+violación sexual
+agresion sexual
+violacion sexual
+estupro
+abuso sexual
+menores
+menor de edad
+crío
+menores de edad
+pibe
+mozalbete
+lolo bn:00387651n
+chango
+ninzzo
+chavalo
+chiquillo
+cría
+edad legal
+chibolo
+minoridad
+alevín
+menor
+minoridad legal
+chavo
+chaval bn:01898452n
+pececillo
+minoria de edad
+chiqüelo
+tike
+muchachuelo
+niños
+minoría de edad
+papa frita
+jovenzuelo
+cabro
+nene bn:00715790n
+fondo del lecho
+yacimiento
+marco de cama
+piltra
+lecho fluvial
+vaguada
+armazón de cama
+cama bn:00634886n bn:03664193n
+lámina
+capa
+cabezal
+lecho
+cauce
+lecho de río
+cama (sin#spanish
+arroyada
+pasada
+catrera
+trabajo en cadena
+línea de ensamblaje
+línea telefónica
+tupla
+cadena de montaje
+línea de ensamble
+cadena de produccion
+transportador de banda
+renglón
+sección
+cadena de producción
+verso
+segmento de línea
+hilera de números
+registro bn:02004987n
+línea de montaje
+ligne bn:00051172n bn:14880191n bn:00771305n bn:00820655n
+sector
+segmento
+línea de teléfono
+circuito telefónico
+cable bn:14548655n bn:03423651n
+cable eléctrico
+frase
+línea de transmisión
+comunicadora social
+corresponsalía
+corresponsal
+redactor de noticias
+newswriter bn:00022866n
+impresor
+repórter
+newsperson
+periodista corresponsal
+comunicador social
+newspaperwoman bn:00022866n
+reportero
+reportera
+coliseo
+glaciar de circo
+caos
+artista de circo
+circense bn:01880336n
+anfiteatro
+desconcierto
+arte circense
+corrie
+cwm bn:00019236n
+desbarajuste
+artes circenses
+pandemonio
+circo
+apasionamiento
+pasión bn:00562961n
+pasion bn:00562961n
+espectador
+publificación
+audiencia
+populacho
+público bn:00544135n bn:10688730n
+anae
+national aeronautics and space administration bn:00056879n
+administración nacional de aeronáutica y del espacio
+nasa bn:00056879n bn:01285086n
+inversora
+inversor
+palabra
+vocablo
+centro de convenciones
+sala de exposiciones
+centro de conferencias
+centros de convenciones
+jarana
+sonanta
+guitarra bn:16749797n
+hoja de papel
+hoja
+papelito
+pliego bn:15775483n
+cuartilla
+folio
+papeleta
+recaudador de fondos
+recolección de fondos
+imparcialidad
+imparcial
+propincuidad
+línea de negocio
+lob bn:00014137n
+negocios
