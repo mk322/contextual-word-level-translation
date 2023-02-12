@@ -5,11 +5,4 @@ gpt_neo_output="./Results/gpt-neo/"
 bloom_output="./Results/bloom/"
 gpt_j_output="./Results/gpt-j/"
 
-python -u evaluate.py \
-    --model_name gpt-neo \
-    --model_size 125M \
-    --target_lang $target_lang \
-    --dict_file $dict_file \
-    --incorrect_words_file $incorrect_words_file \
-    --incorrect_words_num 50 \
-    --out_path $gpt_neo_output
+C:/Users/10494/anaconda3/envs/cse446/python.exe print_bn.py --lang=da --full_lang=Danish --tlang=en

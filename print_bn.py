@@ -28,7 +28,7 @@ def output_sense_label(correct_dict, wrong_dict, output_file, t_lang="zh"):
             for word in set(target_list+correct_dict[key]):
                 key_word = word.replace(" ", "_")
                 if word not in word_label_dict:
-                    s = word.replace("\n", "")
+                    s = word
                     word_label_dict[word] = set()
                     for synset in bn.get_synsets(key_word, from_langs=[lang_dict[t_lang]]):
                         word_label_dict[word].add(str(synset.id))
@@ -49,4 +49,4 @@ if __name__ == "__main__":
         correct_trans_dict = json.load(f1)
     with open(wrong_tran, "r") as f2:
         wrong_trans_dict = json.load(f2)
-    output_sense_label(correct_trans_dict, wrong_trans_dict, out_path)
+    output_sense_label(correct_trans_dict, wrong_trans_dict, out_path, args.tlang)
