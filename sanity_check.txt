@@ -1,0 +1,90 @@
+Source Language: Catalan Target Language: en
+total # examples: 1947
+total # examples that have no correct translation: 0
+total # examples that have multiple sense labels but with no wrong translation: 0
+total # examples that have multiple sense labels but with no unique wrong translation: 79
+
+Source Language: Catalan Target Language: es
+total # examples: 1947
+total # examples that have no correct translation: 0
+total # examples that have multiple sense labels but with no wrong translation: 0
+total # examples that have multiple sense labels but with no unique wrong translation: 118
+
+Source Language: Catalan Target Language: zh
+total # examples: 1947
+total # examples that have no correct translation: 678
+total # examples that have multiple sense labels but with no wrong translation: 0
+total # examples that have multiple sense labels but with no unique wrong translation: 84
+
+Source Language: Basque Target Language: en
+total # examples: 1580
+total # examples that have no correct translation: 0
+total # examples that have multiple sense labels but with no wrong translation: 8
+total # examples that have multiple sense labels but with no unique wrong translation: 25
+
+Source Language: Basque Target Language: es
+total # examples: 1580
+total # examples that have no correct translation: 41
+total # examples that have multiple sense labels but with no wrong translation: 8
+total # examples that have multiple sense labels but with no unique wrong translation: 40
+
+Source Language: Basque Target Language: zh
+total # examples: 1580
+total # examples that have no correct translation: 388
+total # examples that have multiple sense labels but with no wrong translation: 7
+total # examples that have multiple sense labels but with no unique wrong translation: 43
+
+Source Language: German Target Language: en
+total # examples: 862
+total # examples that have no correct translation: 0
+total # examples that have multiple sense labels but with no wrong translation: 17
+total # examples that have multiple sense labels but with no unique wrong translation: 40
+
+Source Language: German Target Language: es
+total # examples: 862
+total # examples that have no correct translation: 6
+total # examples that have multiple sense labels but with no wrong translation: 17
+total # examples that have multiple sense labels but with no unique wrong translation: 32
+
+Source Language: German Target Language: zh
+total # examples: 862
+total # examples that have no correct translation: 100
+total # examples that have multiple sense labels but with no wrong translation: 17
+total # examples that have multiple sense labels but with no unique wrong translation: 33
+
+Source Language: French Target Language: en
+total # examples: 1160
+total # examples that have no correct translation: 0
+total # examples that have multiple sense labels but with no wrong translation: 34
+total # examples that have multiple sense labels but with no unique wrong translation: 80
+
+Source Language: French Target Language: es
+total # examples: 1160
+total # examples that have no correct translation: 23
+total # examples that have multiple sense labels but with no wrong translation: 32
+total # examples that have multiple sense labels but with no unique wrong translation: 91
+
+Source Language: French Target Language: zh
+total # examples: 1160
+total # examples that have no correct translation: 149
+total # examples that have multiple sense labels but with no wrong translation: 34
+total # examples that have multiple sense labels but with no unique wrong translation: 76
+
+Source Language: Italian Target Language: en
+total # examples: 2278
+total # examples that have no correct translation: 0
+total # examples that have multiple sense labels but with no wrong translation: 11
+total # examples that have multiple sense labels but with no unique wrong translation: 67
+
+Source Language: Italian Target Language: es
+total # examples: 2278
+total # examples that have no correct translation: 21
+total # examples that have multiple sense labels but with no wrong translation: 11
+total # examples that have multiple sense labels but with no unique wrong translation: 111
+
+Source Language: Italian Target Language: zh
+total # examples: 2278
+total # examples that have no correct translation: 290
+total # examples that have multiple sense labels but with no wrong translation: 11
+total # examples that have multiple sense labels but with no unique wrong translation: 185
+

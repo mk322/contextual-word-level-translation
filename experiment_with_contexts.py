@@ -98,7 +98,7 @@ for source_word in words_dict.keys():
 if not os.path.exists(args.out_path):
     os.makedirs(args.out_path)
 
-uncontext_txt = f"{args.out_path}{args.target_lang}_{args.model_size}_{args.incorrect_words_num}_uncontext.txt"
+uncontext_txt = f"{args.out_path}{args.target_lang}_{args.model_size}_{args.incorrect_words_num}_uncontext_mfs.txt"
 with open(uncontext_txt, "w") as f:
     f.write(str(uncontext_dict))
 
@@ -139,7 +139,7 @@ for source_word in words_dict.keys():
                 result_dict[(source_word, j)].append((target_word, avg_score))
 
 
-context_txt = f"{args.out_path}{args.target_lang}_{args.model_size}_{args.incorrect_words_num}_context.txt"
+context_txt = f"{args.out_path}{args.target_lang}_{args.model_size}_{args.incorrect_words_num}_context_mfs.txt"
 with open(context_txt, "w") as outfile:
     outfile.write(str(result_dict))
 

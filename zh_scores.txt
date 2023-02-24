@@ -1,0 +1,432 @@
+Basque tranPrompt 20B
+ALL 0.40379746835443037
+
+Basque tranPrompt 3b
+ALL 0.45759493670886076
+
+Basque tranPrompt 7b1
+ALL 0.4829113924050633
+
+Basque engPrompt 20B
+ALL 0.4462025316455696
+
+Basque engPrompt 3b
+ALL 0.5025316455696203
+
+Basque engPrompt 7b1
+ALL 0.529113924050633
+
+Basque zhPrompt 20B
+ALL 0.4316455696202532
+
+Basque zhPrompt 3b
+ALL 0.5101265822784811
+
+Basque zhPrompt 7b1
+ALL 0.5449367088607595
+
+Estonian tranPrompt 20B
+ALL 0.6568284142071036
+
+Estonian tranPrompt 3b
+ALL 0.6128064032016008
+
+Estonian tranPrompt 7b1
+ALL 0.6148074037018509
+
+Estonian engPrompt 20B
+ALL 0.6763381690845423
+
+Estonian engPrompt 3b
+ALL 0.6373186593296648
+
+Estonian engPrompt 7b1
+ALL 0.6313156578289144
+
+Estonian zhPrompt 20B
+ALL 0.6678339169584793
+
+Estonian zhPrompt 3b
+ALL 0.6438219109554777
+
+Estonian zhPrompt 7b1
+ALL 0.6413206603301651
+
+Spanish tranPrompt 20B
+ALL 0.7396002160994057
+
+Spanish tranPrompt 3b
+ALL 0.722312263641275
+
+Spanish tranPrompt 7b1
+ALL 0.7466234467855214
+
+Spanish engPrompt 20B
+ALL 0.7612101566720691
+
+Spanish engPrompt 3b
+ALL 0.7433819556996218
+
+Spanish engPrompt 7b1
+ALL 0.7558076715289033
+
+Spanish zhPrompt 20B
+ALL 0.7206915180983252
+
+Spanish zhPrompt 3b
+ALL 0.7839005942733658
+
+Spanish zhPrompt 7b1
+ALL 0.791464073473798
+
+Danish tranPrompt 20B
+ALL 0.7929754426042261
+
+Danish tranPrompt 3b
+ALL 0.6910336950314107
+
+Danish tranPrompt 7b1
+ALL 0.6878926327812679
+
+Danish engPrompt 20B
+ALL 0.8198172472872645
+
+Danish engPrompt 3b
+ALL 0.7647058823529411
+
+Danish engPrompt 7b1
+ALL 0.7778412335808109
+
+Danish zhPrompt 20B
+ALL 0.8158195316961736
+
+Danish zhPrompt 3b
+ALL 0.7652769845802398
+
+Danish zhPrompt 7b1
+ALL 0.7858366647629925
+
+Korean tranPrompt 20B
+ALL 0.64304531085353
+
+Korean tranPrompt 3b
+ALL 0.6438356164383562
+
+Korean tranPrompt 7b1
+ALL 0.6469968387776607
+
+Korean engPrompt 20B
+ALL 0.6630663856691253
+
+Korean engPrompt 3b
+ALL 0.6340885142255005
+
+Korean engPrompt 7b1
+ALL 0.6396206533192834
+
+Korean zhPrompt 20B
+ALL 0.6572708113804004
+
+Korean zhPrompt 3b
+ALL 0.6301369863013698
+
+Korean zhPrompt 7b1
+ALL 0.6454162276080084
+
+Bulgarian tranPrompt 20B
+ALL 0.7370585874799358
+
+Bulgarian tranPrompt 3b
+ALL 0.646970304975923
+
+Bulgarian tranPrompt 7b1
+ALL 0.651083467094703
+
+Bulgarian engPrompt 20B
+ALL 0.7603330658105939
+
+Bulgarian engPrompt 3b
+ALL 0.7227126805778491
+
+Bulgarian engPrompt 7b1
+ALL 0.7328451043338684
+
+Bulgarian zhPrompt 20B
+ALL 0.754715088282504
+
+Bulgarian zhPrompt 3b
+ALL 0.7218097913322632
+
+Bulgarian zhPrompt 7b1
+ALL 0.7329454253611557
+
+Catalan tranPrompt 20B
+ALL 0.47583081570996977
+
+Catalan tranPrompt 3b
+ALL 0.5469953775038521
+
+Catalan tranPrompt 7b1
+ALL 0.5721623009758603
+
+Catalan engPrompt 20B
+ALL 0.554185927067283
+
+Catalan engPrompt 3b
+ALL 0.576271186440678
+
+Catalan engPrompt 7b1
+ALL 0.5824345146379045
+
+Catalan zhPrompt 20B
+ALL 0.5423728813559322
+
+Catalan zhPrompt 3b
+ALL 0.5690806368772471
+
+Catalan zhPrompt 7b1
+ALL 0.5839753466872111
+
+Italian tranPrompt 20B
+ALL 0.7418788410886743
+
+Italian tranPrompt 3b
+ALL 0.654521510096576
+
+Italian tranPrompt 7b1
+ALL 0.6233538191395961
+
+Italian engPrompt 20B
+ALL 0.7440737489025461
+
+Italian engPrompt 3b
+ALL 0.7392449517120281
+
+Italian engPrompt 7b1
+ALL 0.766900790166813
+
+Italian zhPrompt 20B
+ALL 0.7300263388937664
+
+Italian zhPrompt 3b
+ALL 0.7559262510974539
+
+Italian zhPrompt 7b1
+ALL 0.7743634767339772
+
+Japanese tranPrompt 20B
+ALL 0.6636411470665614
+
+Japanese tranPrompt 3b
+ALL 0.6796895553801631
+
+Japanese tranPrompt 7b1
+ALL 0.6641673243883188
+
+Japanese engPrompt 20B
+ALL 0.7081031307550645
+
+Japanese engPrompt 3b
+ALL 0.6873191265456459
+
+Japanese engPrompt 7b1
+ALL 0.6790732068030565
+
+Japanese zhPrompt 20B
+ALL 0.7023151802157327
+
+Japanese zhPrompt 3b
+ALL 0.7024467245461721
+
+Japanese zhPrompt 7b1
+ALL 0.6946856090502499
+
+Dutch tranPrompt 20B
+ALL 0.6188636363636364
+
+Dutch tranPrompt 3b
+ALL 0.5622727272727273
+
+Dutch tranPrompt 7b1
+ALL 0.5784090909090909
+
+Dutch engPrompt 20B
+ALL 0.6413636363636364
+
+Dutch engPrompt 3b
+ALL 0.5804545454545454
+
+Dutch engPrompt 7b1
+ALL 0.6065909090909091
+
+Dutch zhPrompt 20B
+ALL 0.6234090909090909
+
+Dutch zhPrompt 3b
+ALL 0.5804545454545454
+
+Dutch zhPrompt 7b1
+ALL 0.5977272727272728
+
+Galician tranPrompt 20B
+ALL 0.6782506833268255
+
+Galician tranPrompt 3b
+ALL 0.7102694260054666
+
+Galician tranPrompt 7b1
+ALL 0.7110503709488482
+
+Galician engPrompt 20B
+ALL 0.6868410777040219
+
+Galician engPrompt 3b
+ALL 0.7133932057789926
+
+Galician engPrompt 7b1
+ALL 0.7169074580242093
+
+Galician zhPrompt 20B
+ALL 0.6821554080437329
+
+Galician zhPrompt 3b
+ALL 0.7051932838734869
+
+Galician zhPrompt 7b1
+ALL 0.7157360406091371
+
+Croatian tranPrompt 20B
+ALL 0.7430917416706142
+
+Croatian tranPrompt 3b
+ALL 0.6895626085583452
+
+Croatian tranPrompt 7b1
+ALL 0.6890888994157587
+
+Croatian engPrompt 20B
+ALL 0.7451444812884889
+
+Croatian engPrompt 3b
+ALL 0.7194062845412916
+
+Croatian engPrompt 7b1
+ALL 0.7195641875888205
+
+Croatian zhPrompt 20B
+ALL 0.742460129480499
+
+Croatian zhPrompt 3b
+ALL 0.7137217748302542
+
+Croatian zhPrompt 7b1
+ALL 0.7173535449234171
+
+Hungarian tranPrompt 20B
+ALL 0.6282746160794941
+
+Hungarian tranPrompt 3b
+ALL 0.5975609756097561
+
+Hungarian tranPrompt 7b1
+ALL 0.5867208672086721
+
+Hungarian engPrompt 20B
+ALL 0.6777326106594399
+
+Hungarian engPrompt 3b
+ALL 0.6217253839205059
+
+Hungarian engPrompt 7b1
+ALL 0.6224028906955736
+
+Hungarian zhPrompt 20B
+ALL 0.6693766937669376
+
+Hungarian zhPrompt 3b
+ALL 0.6269196025293586
+
+Hungarian zhPrompt 7b1
+ALL 0.6251129177958447
+
+French tranPrompt 20B
+ALL 0.7646551724137931
+
+French tranPrompt 3b
+ALL 0.781896551724138
+
+French tranPrompt 7b1
+ALL 0.8043103448275862
+
+French engPrompt 20B
+ALL 0.7681034482758621
+
+French engPrompt 3b
+ALL 0.7913793103448276
+
+French engPrompt 7b1
+ALL 0.8008620689655173
+
+French zhPrompt 20B
+ALL 0.7724137931034483
+
+French zhPrompt 3b
+ALL 0.8181034482758621
+
+French zhPrompt 7b1
+ALL 0.8163793103448276
+
+Slovenian tranPrompt 20B
+ALL 0.577755905511811
+
+Slovenian tranPrompt 3b
+ALL 0.3735236220472441
+
+Slovenian tranPrompt 7b1
+ALL 0.28494094488188976
+
+Slovenian engPrompt 20B
+ALL 0.6929133858267716
+
+Slovenian engPrompt 3b
+ALL 0.4453740157480315
+
+Slovenian engPrompt 7b1
+ALL 0.4670275590551181
+
+Slovenian zhPrompt 20B
+ALL 0.6343503937007874
+
+Slovenian zhPrompt 3b
+ALL 0.45226377952755903
+
+Slovenian zhPrompt 7b1
+ALL 0.4955708661417323
+
+German tranPrompt 20B
+ALL 0.8607888631090487
+
+German tranPrompt 3b
+ALL 0.7621809744779582
+
+German tranPrompt 7b1
+ALL 0.8306264501160093
+
+German engPrompt 20B
+ALL 0.8549883990719258
+
+German engPrompt 3b
+ALL 0.7946635730858469
+
+German engPrompt 7b1
+ALL 0.8387470997679815
+
+German zhPrompt 20B
+ALL 0.8700696055684455
+
+German zhPrompt 3b
+ALL 0.8387470997679815
+
+German zhPrompt 7b1
+ALL 0.8596287703016241
+

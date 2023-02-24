@@ -58,7 +58,8 @@ def evaluate(answers, golds, by_pos, wnkey2bn=None):
     tot = 0
     correct_by_pos = Counter()
     tot_by_pos = Counter()
-    for id in golds.keys():
+    for id in answers.keys():
+    #for id in golds.keys():
         ans = answers[id]
         labels = golds[id]
         #print(labels)
