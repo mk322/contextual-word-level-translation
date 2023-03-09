@@ -20,7 +20,7 @@ def process(lang, full_lang, tlang="zh"):
     inventory_path = f"xl-wsd-data/inventories/inventory.{lang}.txt"
     key_path = f"xl-wsd-data/evaluation_datasets/test-{lang}/test-{lang}.gold.key.txt"
     file = ET.parse(path)
-    root = file.getroot()[0]
+    bot_root = file.getroot()
     if not os.path.exists(f"xl-wsd-files/{full_lang}"):
         os.makedirs(f"xl-wsd-files/{full_lang}")
 
@@ -35,20 +35,21 @@ def process(lang, full_lang, tlang="zh"):
     word2label = {}
     label2word = {}
     word_dict = {}
-
-    for sent in root:
-        s = ""
-        for word in sent:
-            #s += f"{str(word.text).replace("_", " ")} "
-            if word.tag == "instance":
-                ins_word = str(word.text).replace("_", " ")
-                s += f"{ins_word} "
-                instance_dict[word.attrib["id"]] = (word.attrib['lemma'], word.attrib["pos"])
-                word_dict[word.attrib["id"]] = ins_word
-            else:
-                ins_word = str(word.text).replace("_", " ")
-                s += f"{ins_word} "
-            sent_dict[sent.attrib["id"]] = s[:-1]
+    
+    for root in bot_root:
+        for sent in root:
+            s = ""
+            for word in sent:
+                #s += f"{str(word.text).replace("_", " ")} "
+                if word.tag == "instance":
+                    ins_word = str(word.text).replace("_", " ")
+                    s += f"{ins_word} "
+                    instance_dict[word.attrib["id"]] = (word.attrib['lemma'], word.attrib["pos"])
+                    word_dict[word.attrib["id"]] = ins_word
+                else:
+                    ins_word = str(word.text).replace("_", " ")
+                    s += f"{ins_word} "
+                sent_dict[sent.attrib["id"]] = s[:-1]
 
     with open(f"xl-wsd-files/{full_lang}/{lang}_{tlang}_words.json", "w") as outfile:
         json.dump(word_dict, outfile)
