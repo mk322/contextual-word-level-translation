@@ -51,7 +51,7 @@ def process(lang, full_lang, tlang="zh"):
                     s += f"{ins_word} "
                 sent_id = sent.attrib["id"]
                 if sent_id.startswith("semeval2010.d002.s"):
-                    sent_id = "semeval2010.d002.s" + f"{int(sent_id[-3:])-109:04}"
+                    sent_id = "semeval2010.d002.s" + f"{int(sent_id[-3:])-109:03}"
                 sent_dict[sent_id] = s[:-1]
 
     with open(f"xl-wsd-files/{full_lang}/{lang}_{tlang}_words.json", "w") as outfile:
