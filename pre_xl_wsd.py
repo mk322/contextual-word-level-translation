@@ -49,7 +49,10 @@ def process(lang, full_lang, tlang="zh"):
                 else:
                     ins_word = str(word.text).replace("_", " ")
                     s += f"{ins_word} "
-                sent_dict[sent.attrib["id"]] = s[:-1]
+                sent_id = sent.attrib["id"]
+                if sent_id.startswith("semeval2010.d002.s"):
+                    sent_id = "semeval2010.d002.s" + f"{int(sent_id[-3:])-109:04}"
+                sent_dict[sent_id] = s[:-1]
 
     with open(f"xl-wsd-files/{full_lang}/{lang}_{tlang}_words.json", "w") as outfile:
         json.dump(word_dict, outfile)
@@ -59,7 +62,7 @@ def process(lang, full_lang, tlang="zh"):
         json.dump(sent_dict, outfile)
 
 
-
+    """
     key_dict = {}
     with open(key_path , "r") as f:
         lines = f.read().splitlines()
@@ -125,7 +128,7 @@ def process(lang, full_lang, tlang="zh"):
         json.dump(right_dict, outfile)
     with open(f"xl-wsd-files/{full_lang}/wrong_trans_{lang}_{tlang}.json", "w") as outfile:
         json.dump(wrong_dict, outfile)
-
+    """
 def parse_source_dict(lemma_file, full_lang, lang, tlang="zh"):
     lemma2label = {}
     inventory_file = f"xl-wsd-data/inventories/inventory.{lang}.txt"
@@ -166,4 +169,4 @@ if __name__ == "__main__":
     parser.add_argument('--tlang', type=str, required=True)
     args = parser.parse_args()
     process(args.lang, args.full_lang, args.tlang)
-    parse_source_dict(f"xl-wsd-files/{args.full_lang}/{args.lang}_{args.tlang}_lemma.json", args.full_lang, args.lang, args.tlang)
+    #parse_source_dict(f"xl-wsd-files/{args.full_lang}/{args.lang}_{args.tlang}_lemma.json", args.full_lang, args.lang, args.tlang)
