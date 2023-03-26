@@ -11,7 +11,8 @@ import argparse
 lang_dict = {
     "en": Language.EN,
     "zh": Language.ZH,
-    "es": Language.ES
+    "es": Language.ES,
+    "ru": Language.RU
 }
 
 # parse an xml file by name

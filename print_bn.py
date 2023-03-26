@@ -13,7 +13,8 @@ pos_dict = {
 lang_dict = {
     "en": Language.EN,
     "zh": Language.ZH,
-    "es": Language.ES
+    "es": Language.ES,
+    "ru": Language.RU
 }
 
 def output_sense_label(correct_dict, wrong_dict, output_file, t_lang="zh"):
