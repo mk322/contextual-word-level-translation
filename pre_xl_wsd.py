@@ -12,7 +12,15 @@ lang_dict = {
     "en": Language.EN,
     "zh": Language.ZH,
     "es": Language.ES,
-    "ru": Language.RU
+    "ru": Language.RU,
+    "fi": Language.FI,
+    "de": Language.DE,
+    "fr": Language.FR,
+    "sv": Language.SV,
+    "ja": Language.JA,
+    "sw": Language.SW,
+    "ga": Language.GA,
+    "ar": Language.AR
 }
 
 # parse an xml file by name
