@@ -1,6 +1,6 @@
 declare -A arr
 
-arr+=(["bg"]=Bulgarian  ["it"]=Italian)
+arr+=(["bg"]=Bulgarian ["hr"]=Croatian  ["ja"]=Japanese ["gl"]=Galician ["hu"]=Hungarian ["it"]=Italian)
 
 for key in ${!arr[@]}; do
     echo ${key} ${arr[${key}]}
