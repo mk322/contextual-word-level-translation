@@ -1,9 +1,9 @@
 declare -A arr
-arr+=( ["zh"]=Chinese ["hu"]=Hungarian)
+arr+=( ["en"]=English)
 
 for key in ${!arr[@]}; do
     echo ${key} ${arr[${key}]}
-    for tlang in fi fr de sv sw
+    for tlang in zh
     do
     C:/Users/10494/anaconda3/envs/cse446/python.exe pre_xl_wsd.py --lang=${key} --full_lang=${arr[${key}]} --tlang=$tlang
     C:/Users/10494/anaconda3/envs/cse446/python.exe print_bn.py --lang=${key} --full_lang=${arr[${key}]} --tlang=$tlang
