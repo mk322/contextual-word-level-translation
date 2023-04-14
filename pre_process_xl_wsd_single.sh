@@ -1,6 +1,6 @@
 declare -A arr
 arr+=( ["en-coarse"]=English)
-en-coarse
+
 for key in ${!arr[@]}; do
     echo ${key} ${arr[${key}]}
     for tlang in zh ru en

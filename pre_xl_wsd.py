@@ -26,7 +26,8 @@ lang_dict = {
 # parse an xml file by name
 def process(lang, full_lang, tlang="zh"):
     path = f"xl-wsd-data/evaluation_datasets/test-{lang}/test-{lang}.data.xml"
-    inventory_path = f"xl-wsd-data/inventories/inventory.{lang}.txt"
+
+    inventory_path = f"xl-wsd-data/inventories/inventory.en.txt"
     key_path = f"xl-wsd-data/evaluation_datasets/test-{lang}/test-{lang}.gold.key.txt"
     file = ET.parse(path)
     bot_root = file.getroot()
