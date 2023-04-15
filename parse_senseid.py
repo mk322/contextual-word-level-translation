@@ -10,7 +10,7 @@ pos_dict = {
     "ADV": POS.ADV
 }
 
-def parse_source_dict(lemma_file, full_lang, lang, tlang="zh"):
+def parse_source_dict(lemma_file, full_lang, lang, tlang):
     lemma2label = {}
     inventory_file = f"xl-wsd-data/inventories/inventory.en.txt"
     with open(inventory_file , "r", encoding="utf-8") as f:
@@ -36,7 +36,7 @@ def parse_source_dict(lemma_file, full_lang, lang, tlang="zh"):
         lemma = (lemma_dict[key][0].lower(), lemma_dict[key][1])
         #lemma = tuple(lemma_dict[key])
         if lemma not in lemma2label:
-            byl = bn.get_senses(str(lemma_dict[key][0].lower()), poses=[pos_dict[lemma_dict[key][1]]],from_langs=[Language.EN], sources=[bn.BabelSenseSource.BABELNET])
+            byl = bn.get_senses(str(lemma_dict[key][0].lower()), poses=[pos_dict[lemma_dict[key][1]]],from_langs=[Language.EN])
             for by in set(byl):
                 id = by.synset_id
                 if id not in source_ids_dict[key]:
@@ -47,6 +47,8 @@ def parse_source_dict(lemma_file, full_lang, lang, tlang="zh"):
     with open(f"xl-wsd-files/{full_lang}/source_ids_dict_{lang}_{tlang}.txt", "w") as f:
         for key in source_ids_dict:
             s = key
+            if len(source_ids_dict[key]) == 0:
+                print("find")
             for label in source_ids_dict[key]:
                 s += f" {label}"
             print(s, file=f)
@@ -55,5 +57,5 @@ def parse_source_dict(lemma_file, full_lang, lang, tlang="zh"):
 
 lang="en-coarse"
 full_lang="English"
-tlang="en"
+tlang="fi"
 parse_source_dict(f"xl-wsd-files/{full_lang}/{lang}_{tlang}_lemma.json", full_lang, lang, tlang)
