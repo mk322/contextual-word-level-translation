@@ -45,7 +45,12 @@ def parse_source_dict(lemma_file, full_lang, lang, tlang="zh"):
             for label in lemma2label[lemma]:
                 source_ids_dict[key].append(label)
     with open(f"xl-wsd-files/{full_lang}/source_ids_dict_{lang}_{tlang}.txt", "w") as f:
-        f.write(str(source_ids_dict))
+        for key in source_ids_dict:
+            s = key
+            for label in source_ids_dict[key]:
+                s += f" {label}"
+            print(s, file=f)
+        #f.write(str(source_ids_dict))
     print("stop parsing source dict")
 
 lang="en-coarse"
