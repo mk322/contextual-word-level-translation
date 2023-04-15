@@ -143,7 +143,7 @@ def process(lang, full_lang, tlang="zh"):
 
 def parse_source_dict(lemma_file, full_lang, lang, tlang="zh"):
     lemma2label = {}
-    inventory_file = f"xl-wsd-data/inventories/inventory.{lang}.txt"
+    inventory_file = f"xl-wsd-data/inventories/inventory.en.txt"
     with open(inventory_file , "r", encoding="utf-8") as f:
         lines = f.readlines()
         print("start parsing source dict")
@@ -181,4 +181,5 @@ if __name__ == "__main__":
     parser.add_argument('--tlang', type=str, required=True)
     args = parser.parse_args()
     process(args.lang, args.full_lang, args.tlang)
-    parse_source_dict(f"xl-wsd-files/{args.full_lang}/{args.lang}_{args.tlang}_lemma.json", args.full_lang, args.lang, args.tlang)
+    lang="en-coarse"
+    parse_source_dict(f"xl-wsd-files/{args.full_lang}/{lang}_{args.tlang}_lemma.json", args.full_lang, lang, args.tlang)

@@ -26231,6 +26231,7 @@ spectacular#NOUN	bn:00073229n
 descendants#NOUN	bn:00026488n
 genus_laburnum#NOUN	bn:00038361n
 pre-existent#ADJ	bn:00108893a
+pre-existing#ADJ	bn:00108893a
 corn_marigold#NOUN	bn:00018935n
 microsecond#NOUN	bn:00054789n
 chemisorptive#ADJ	bn:00099580a
